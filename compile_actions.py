@@ -23,6 +23,59 @@ def encode_blob(value: bytes | memoryview | None) -> str | None:
     return base64.b64encode(value).decode("ascii")
 
 
+def _read_varint(buffer: memoryview, pos: int, end: int) -> Tuple[int, int]:
+    """Decode a protobuf-style varint starting at pos."""
+    shift = 0
+    value = 0
+    while pos < end:
+        byte = buffer[pos]
+        pos += 1
+        value |= (byte & 0x7F) << shift
+        if byte & 0x80:
+            shift += 7
+            continue
+        return value, pos
+    raise ValueError("Unexpected end of buffer while decoding varint")
+
+
+def decode_requirements(blob: bytes | memoryview | None) -> List[int]:
+    """Parse requirement blobs into a list of integer requirement identifiers."""
+
+    if not blob:
+        return []
+
+    view = memoryview(blob)
+    end = len(view)
+
+    def parse_segment(start: int, stop: int) -> List[int]:
+        values: List[int] = []
+        pos = start
+        while pos < stop:
+            tag = view[pos]
+            pos += 1
+            wire_type = tag & 0x07
+            if wire_type == 0:  # varint
+                val, pos = _read_varint(view, pos, stop)
+                values.append(val)
+            elif wire_type == 1:  # 64-bit
+                pos += 8
+            elif wire_type == 2:  # length-delimited
+                length, pos = _read_varint(view, pos, stop)
+                sub_end = min(pos + length, stop)
+                values.extend(parse_segment(pos, sub_end))
+                pos = sub_end
+            elif wire_type == 5:  # 32-bit
+                pos += 4
+            elif wire_type in (3, 4):  # deprecated start/end group
+                # These shouldn't appear, but break to avoid infinite loops.
+                break
+            else:
+                break
+        return values
+
+    return parse_segment(0, end)
+
+
 def fetch_tool_rows(conn: sqlite3.Connection) -> List[sqlite3.Row]:
     return conn.execute(
         """
@@ -101,6 +154,7 @@ def fetch_parameters(conn: sqlite3.Connection) -> List[sqlite3.Row]:
     return conn.execute(
         """
         SELECT
+            Parameters.rowid AS parameterRowId,
             Parameters.toolId,
             Parameters.key,
             Parameters.sortOrder,
@@ -132,6 +186,7 @@ def build_payload(
         localized = parameter_localizations.get((param["toolId"], param["key"]))
         params_by_tool[param["toolId"]].append(
             {
+                "rowId": param["parameterRowId"],
                 "key": param["key"],
                 "name": (localized["name"] if localized else None) or param["key"],
                 "description": localized["description"] if localized else None,
@@ -152,6 +207,7 @@ def build_payload(
     compiled: Dict[str, dict] = {}
     for tool in tools:
         localized = tool_localizations.get(tool["rowId"])
+        requirements_blob = tool["requirements"]
         compiled[tool["id"]] = {
             "rowId": tool["rowId"],
             "name": (localized["name"] if localized else None) or tool["id"],
@@ -164,7 +220,10 @@ def build_payload(
             "visibilityFlags": tool["visibilityFlags"],
             "authenticationPolicy": tool["authenticationPolicy"],
             "deprecationReplacementId": tool["deprecationReplacementId"],
-            "requirements": encode_blob(tool["requirements"]),
+            "requirements": {
+                "raw": encode_blob(requirements_blob),
+                "decoded": decode_requirements(requirements_blob),
+            },
             "outputTypeInstance": encode_blob(tool["outputTypeInstance"]),
             "customIcon": encode_blob(tool["customIcon"]),
             "arguments": params_by_tool.get(tool["rowId"], []),
