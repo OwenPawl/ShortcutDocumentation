@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generatedAt": "2025-11-13T19:48:22.889078+00:00",
+    "generatedAt": "2025-11-15T17:15:03.123216+00:00",
     "locale": "en",
     "fallbackLocale": "en",
     "sourceDatabase": "actions\\MacOS-15.4\\raw.sqlite",
-    "actionCount": 379
+    "actionCount": 380
   },
   "actions": {
     "is.workflow.actions.comment": {
@@ -50,6 +50,10 @@
             "encodedId": "CgIwAA=="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "none"
       ]
     },
     "is.workflow.actions.calculateexpression": {
@@ -95,6 +99,10 @@
             "encodedId": "CgIwAA=="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "number"
       ]
     },
     "is.workflow.actions.getitemtype": {
@@ -140,6 +148,10 @@
             "encodedId": "Ej4KE2NvbS5hcHBsZS5zaG9ydGN1dHMSJ2lzLndvcmtmbG93LmFjdGlvbnMuZ2V0aXRlbXR5cGUuV0ZJbnB1dA=="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "string"
       ]
     },
     "is.workflow.actions.getupcomingevents": {
@@ -236,6 +248,10 @@
             "encodedId": "CgI4AA=="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "file"
       ]
     },
     "is.workflow.actions.image.combine": {
@@ -315,6 +331,10 @@
             "encodedId": "EkAKE2NvbS5hcHBsZS5zaG9ydGN1dHMSKWlzLndvcmtmbG93LmFjdGlvbnMuaW1hZ2UuY29tYmluZS5XRklucHV0"
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "file"
       ]
     },
     "is.workflow.actions.alert": {
@@ -394,6 +414,10 @@
             "encodedId": "CgIQAA=="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "none"
       ]
     },
     "is.workflow.actions.reminders.showlist": {
@@ -438,6 +462,10 @@
             "encodedId": "EkQKE2NvbS5hcHBsZS5zaG9ydGN1dHMSLWlzLndvcmtmbG93LmFjdGlvbnMucmVtaW5kZXJzLnNob3dsaXN0LldGTGlzdA=="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "none"
       ]
     },
     "is.workflow.actions.properties.podcastshow": {
@@ -500,6 +528,13 @@
             "encodedId": "EkkKE2NvbS5hcHBsZS5zaG9ydGN1dHMSMmlzLndvcmtmbG93LmFjdGlvbnMucHJvcGVydGllcy5wb2RjYXN0c2hvdy5XRklucHV0"
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "file",
+        "url",
+        "string",
+        "number"
       ]
     },
     "is.workflow.actions.seek": {
@@ -579,6 +614,10 @@
             "encodedId": "GgJAAA=="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "none"
       ]
     },
     "is.workflow.actions.listeningmode.set": {
@@ -641,6 +680,10 @@
             "encodedId": "CgIwAA=="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "none"
       ]
     },
     "is.workflow.actions.instapaper.get": {
@@ -702,6 +745,10 @@
             "encodedId": "CgIgAA=="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "url"
       ]
     },
     "is.workflow.actions.getparentdirectory": {
@@ -742,6 +789,10 @@
             "encodedId": "CgOIAQA="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "file"
       ]
     },
     "is.workflow.actions.setvolume": {
@@ -804,6 +855,10 @@
             "encodedId": "GgIQAA=="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "none"
       ]
     },
     "is.workflow.actions.properties.eventattendees": {
@@ -866,6 +921,12 @@
             "encodedId": "EkwKE2NvbS5hcHBsZS5zaG9ydGN1dHMSNWlzLndvcmtmbG93LmFjdGlvbnMucHJvcGVydGllcy5ldmVudGF0dGVuZGVlcy5XRklucHV0"
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "bool",
+        "string",
+        "com.apple.shortcuts.Emailaddress"
       ]
     },
     "is.workflow.actions.wordpress.post": {
@@ -1132,6 +1193,10 @@
             "encodedId": "EkEKE2NvbS5hcHBsZS5zaG9ydGN1dHMSKmlzLndvcmtmbG93LmFjdGlvbnMud29yZHByZXNzLnBvc3QuV0ZJbnB1dA=="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "url"
       ]
     },
     "is.workflow.actions.gettext": {
@@ -1177,6 +1242,10 @@
             "encodedId": "CgIwAA=="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "string"
       ]
     },
     "is.workflow.actions.skipforward": {
@@ -1222,6 +1291,10 @@
             "encodedId": "GgJAAA=="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "none"
       ]
     },
     "is.workflow.actions.getvalueforkey": {
@@ -1301,6 +1374,14 @@
             "encodedId": "EkEKE2NvbS5hcHBsZS5zaG9ydGN1dHMSKmlzLndvcmtmbG93LmFjdGlvbnMuZ2V0dmFsdWVmb3JrZXkuV0ZJbnB1dA=="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "number",
+        "bool",
+        "date",
+        "string",
+        "file"
       ]
     },
     "is.workflow.actions.encodemedia": {
@@ -1550,6 +1631,10 @@
             "encodedId": "EkgKE2NvbS5hcHBsZS5zaG9ydGN1dHMSMWlzLndvcmtmbG93LmFjdGlvbnMuZW5jb2RlbWVkaWEuV0ZNZXRhZGF0YUFydHdvcms="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "file"
       ]
     },
     "is.workflow.actions.searchappstore": {
@@ -1663,6 +1748,10 @@
             "encodedId": "CgIgAA=="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "app"
       ]
     },
     "is.workflow.actions.openin": {
@@ -1760,6 +1849,10 @@
             "encodedId": "CgOIAQA="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "file"
       ]
     },
     "is.workflow.actions.url.expand": {
@@ -1805,6 +1898,10 @@
             "encodedId": "CgIwAA=="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "url"
       ]
     },
     "is.workflow.actions.resizewindow": {
@@ -1913,6 +2010,10 @@
             "encodedId": "CgIQAA=="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "none"
       ]
     },
     "is.workflow.actions.showdefinition": {
@@ -1958,6 +2059,10 @@
             "encodedId": "CgIwAA=="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "string"
       ]
     },
     "net.whatsapp.WhatsApp.send": {
@@ -2003,6 +2108,10 @@
             "encodedId": "CgOAAQA="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "string"
       ]
     },
     "is.workflow.actions.removereminders": {
@@ -2048,6 +2157,10 @@
             "encodedId": "EksKE2NvbS5hcHBsZS5zaG9ydGN1dHMSNGlzLndvcmtmbG93LmFjdGlvbnMucmVtb3ZlcmVtaW5kZXJzLldGSW5wdXRSZW1pbmRlcnM="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "none"
       ]
     },
     "com.apple.iBooksX.openin": {
@@ -2093,6 +2206,12 @@
             "encodedId": "EjoKE2NvbS5hcHBsZS5zaG9ydGN1dHMSI2NvbS5hcHBsZS5pQm9va3NYLm9wZW5pbi5Cb29rc0lucHV0"
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "file",
+        "url",
+        "string"
       ]
     },
     "com.agiletortoise.Tally2.get": {
@@ -2137,6 +2256,10 @@
             "encodedId": "CgIwAA=="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "number"
       ]
     },
     "is.workflow.actions.overlayimageonimage": {
@@ -2335,6 +2458,10 @@
             "encodedId": "CgIgAA=="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "file"
       ]
     },
     "is.workflow.actions.showinstore": {
@@ -2380,6 +2507,11 @@
             "encodedId": "EkAKE2NvbS5hcHBsZS5zaG9ydGN1dHMSKWlzLndvcmtmbG93LmFjdGlvbnMuc2hvd2luc3RvcmUuV0ZQcm9kdWN0"
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "com.apple.shortcuts.iTunesproduct",
+        "app"
       ]
     },
     "is.workflow.actions.personalhotspot.password.get": {
@@ -2406,7 +2538,11 @@
       },
       "outputTypeInstance": "CgQKAjAA",
       "customIcon": "Eh8KD3BlcnNvbmFsaG90c3BvdBoFV2hpdGUiBUdyZWVu",
-      "arguments": []
+      "arguments": [],
+      "notes": null,
+      "outputTypes": [
+        "string"
+      ]
     },
     "is.workflow.actions.image.flip": {
       "rowId": 55,
@@ -2468,6 +2604,10 @@
             "encodedId": "Ej0KE2NvbS5hcHBsZS5zaG9ydGN1dHMSJmlzLndvcmtmbG93LmFjdGlvbnMuaW1hZ2UuZmxpcC5XRklucHV0"
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "file"
       ]
     },
     "is.workflow.actions.startscreensaver": {
@@ -2490,7 +2630,11 @@
       },
       "outputTypeInstance": "CgQKAggA",
       "customIcon": "EiYKF21vb24uYW5kLnN0YXJzLmFydGZyYW1lGgVXaGl0ZSIEQ3lhbg==",
-      "arguments": []
+      "arguments": [],
+      "notes": null,
+      "outputTypes": [
+        "none"
+      ]
     },
     "is.workflow.actions.phonenumber": {
       "rowId": 57,
@@ -2535,6 +2679,10 @@
             "encodedId": "CgOAAQA="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "com.apple.shortcuts.Phonenumber"
       ]
     },
     "is.workflow.actions.round": {
@@ -2631,6 +2779,10 @@
             "encodedId": "CgIgAA=="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "number"
       ]
     },
     "is.workflow.actions.properties.ridestatus": {
@@ -2693,6 +2845,14 @@
             "encodedId": "EkgKE2NvbS5hcHBsZS5zaG9ydGN1dHMSMWlzLndvcmtmbG93LmFjdGlvbnMucHJvcGVydGllcy5yaWRlc3RhdHVzLldGSW5wdXQ="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "currencyAmount",
+        "placemark",
+        "string",
+        "date",
+        "person"
       ]
     },
     "com.blackfoggames.TextTool.transform": {
@@ -3010,6 +3170,10 @@
             "encodedId": "EkkKE2NvbS5hcHBsZS5zaG9ydGN1dHMSMmNvbS5ibGFja2ZvZ2dhbWVzLlRleHRUb29sLnRyYW5zZm9ybS5Tb3J0RGlyZWN0aW9u"
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "string"
       ]
     },
     "is.workflow.actions.image.resize": {
@@ -3140,6 +3304,10 @@
             "encodedId": "Ej8KE2NvbS5hcHBsZS5zaG9ydGN1dHMSKGlzLndvcmtmbG93LmFjdGlvbnMuaW1hZ2UucmVzaXplLldGSW1hZ2U="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "file"
       ]
     },
     "net.shinyfrog.bear-IOS.contents": {
@@ -3202,6 +3370,10 @@
             "encodedId": "CgIwAA=="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "string"
       ]
     },
     "is.workflow.actions.getwebpagecontents": {
@@ -3247,6 +3419,10 @@
             "encodedId": "CgIwAA=="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "file"
       ]
     },
     "is.workflow.actions.playsound": {
@@ -3292,6 +3468,10 @@
             "encodedId": "EjwKE2NvbS5hcHBsZS5zaG9ydGN1dHMSJWlzLndvcmtmbG93LmFjdGlvbnMucGxheXNvdW5kLldGSW5wdXQ="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "file"
       ]
     },
     "is.workflow.actions.converttimezone": {
@@ -3371,6 +3551,10 @@
             "encodedId": "GgJ4AA=="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "date"
       ]
     },
     "com.agiletortoise.Drafts4.open": {
@@ -3501,6 +3685,10 @@
             "encodedId": "EkgKE2NvbS5hcHBsZS5zaG9ydGN1dHMSMWNvbS5hZ2lsZXRvcnRvaXNlLkRyYWZ0czQub3Blbi5EcmFmdHNBZnRlclN1Y2Nlc3M="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "none"
       ]
     },
     "is.workflow.actions.handoff": {
@@ -3528,7 +3716,11 @@
       },
       "outputTypeInstance": "CgQKAggA",
       "customIcon": "ChNDb250aW51ZUluU2hvcnRjdXRz",
-      "arguments": []
+      "arguments": [],
+      "notes": null,
+      "outputTypes": [
+        "none"
+      ]
     },
     "is.workflow.actions.getcurrentsong": {
       "rowId": 80,
@@ -3573,6 +3765,10 @@
             "encodedId": "EkEKE2NvbS5hcHBsZS5zaG9ydGN1dHMSKmlzLndvcmtmbG93LmFjdGlvbnMuZ2V0Y3VycmVudHNvbmcuU3ViamVjdA=="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "file"
       ]
     },
     "is.workflow.actions.getdistance": {
@@ -3686,6 +3882,10 @@
             "encodedId": "Ej8KE2NvbS5hcHBsZS5zaG9ydGN1dHMSKGlzLndvcmtmbG93LmFjdGlvbnMuZ2V0ZGlzdGFuY2UuQWNjdXJhY3k="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "number"
       ]
     },
     "is.workflow.actions.playmusic": {
@@ -3747,6 +3947,10 @@
             "encodedId": "EkwKE2NvbS5hcHBsZS5zaG9ydGN1dHMSNWlzLndvcmtmbG93LmFjdGlvbnMucGxheW11c2ljLldGUGxheU11c2ljQWN0aW9uUmVwZWF0"
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "none"
       ]
     },
     "is.workflow.actions.filter.articles": {
@@ -3894,6 +4098,10 @@
             "encodedId": "ElYKE2NvbS5hcHBsZS5zaG9ydGN1dHMSP2lzLndvcmtmbG93LmFjdGlvbnMuZmlsdGVyLmFydGljbGVzLldGQ29udGVudEl0ZW1JbnB1dFBhcmFtZXRlcg=="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "com.apple.shortcuts.Article"
       ]
     },
     "is.workflow.actions.format.number": {
@@ -3956,6 +4164,10 @@
             "encodedId": "CgIgAA=="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "string"
       ]
     },
     "is.workflow.actions.filter.displays": {
@@ -4098,6 +4310,10 @@
             "encodedId": "ElYKE2NvbS5hcHBsZS5zaG9ydGN1dHMSP2lzLndvcmtmbG93LmFjdGlvbnMuZmlsdGVyLmRpc3BsYXlzLldGQ29udGVudEl0ZW1JbnB1dFBhcmFtZXRlcg=="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "com.apple.shortcuts.Display"
       ]
     },
     "is.workflow.actions.selectphoto": {
@@ -4160,6 +4376,10 @@
             "encodedId": "CgIQAA=="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "file"
       ]
     },
     "is.workflow.actions.detectlanguage": {
@@ -4205,6 +4425,10 @@
             "encodedId": "CgIwAA=="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "string"
       ]
     },
     "is.workflow.actions.share": {
@@ -4249,6 +4473,10 @@
             "encodedId": "EjgKE2NvbS5hcHBsZS5zaG9ydGN1dHMSIWlzLndvcmtmbG93LmFjdGlvbnMuc2hhcmUuV0ZJbnB1dA=="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "com.apple.shortcuts.Anything"
       ]
     },
     "is.workflow.actions.properties.safariwebpage": {
@@ -4311,6 +4539,12 @@
             "encodedId": "EksKE2NvbS5hcHBsZS5zaG9ydGN1dHMSNGlzLndvcmtmbG93LmFjdGlvbnMucHJvcGVydGllcy5zYWZhcml3ZWJwYWdlLldGSW5wdXQ="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "file",
+        "string",
+        "url"
       ]
     },
     "com.agiletortoise.Tally2.updatetally": {
@@ -4372,6 +4606,10 @@
             "encodedId": "CgIwAA=="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "number"
       ]
     },
     "is.workflow.actions.image.rotate": {
@@ -4434,6 +4672,10 @@
             "encodedId": "Ej8KE2NvbS5hcHBsZS5zaG9ydGN1dHMSKGlzLndvcmtmbG93LmFjdGlvbnMuaW1hZ2Uucm90YXRlLldGSW1hZ2U="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "file"
       ]
     },
     "com.omz-software.Pythonista.editscript": {
@@ -4478,6 +4720,10 @@
             "encodedId": "CgIwAA=="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "none"
       ]
     },
     "is.workflow.actions.getbatterylevel": {
@@ -4523,6 +4769,10 @@
             "encodedId": "EkIKE2NvbS5hcHBsZS5zaG9ydGN1dHMSK2lzLndvcmtmbG93LmFjdGlvbnMuZ2V0YmF0dGVyeWxldmVsLlN1YmplY3Q="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "number"
       ]
     },
     "is.workflow.actions.dictatetext": {
@@ -4585,6 +4835,10 @@
             "encodedId": "ElEKE2NvbS5hcHBsZS5zaG9ydGN1dHMSOmlzLndvcmtmbG93LmFjdGlvbnMuZGljdGF0ZXRleHQuV0ZEaWN0YXRlVGV4dFN0b3BMaXN0ZW5pbmc="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "string"
       ]
     },
     "is.workflow.actions.filter.contacts": {
@@ -4732,6 +4986,10 @@
             "encodedId": "ElYKE2NvbS5hcHBsZS5zaG9ydGN1dHMSP2lzLndvcmtmbG93LmFjdGlvbnMuZmlsdGVyLmNvbnRhY3RzLldGQ29udGVudEl0ZW1JbnB1dFBhcmFtZXRlcg=="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "person"
       ]
     },
     "com.flexibits.fantastical2.addevent": {
@@ -4811,6 +5069,10 @@
             "encodedId": "CgIQAA=="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "string"
       ]
     },
     "is.workflow.actions.importaudiofiles": {
@@ -4885,6 +5147,10 @@
             "encodedId": "ElUKE2NvbS5hcHBsZS5zaG9ydGN1dHMSPmlzLndvcmtmbG93LmFjdGlvbnMuaW1wb3J0YXVkaW9maWxlcy5XRkltcG9ydEF1ZGlvRmlsZXNFbmNvZGVy"
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "none"
       ]
     },
     "is.workflow.actions.image.crop": {
@@ -5015,6 +5281,10 @@
             "encodedId": "CgIgAA=="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "file"
       ]
     },
     "is.workflow.actions.getparkedcarlocation": {
@@ -5037,7 +5307,11 @@
       },
       "outputTypeInstance": "CiISIAoTY29tLmFwcGxlLnNob3J0Y3V0cxIJUGFya2VkQ2Fy",
       "customIcon": "EhMKCGNhci5maWxsEAEaBUdyZWVu",
-      "arguments": []
+      "arguments": [],
+      "notes": null,
+      "outputTypes": [
+        "com.apple.shortcuts.ParkedCar"
+      ]
     },
     "com.blackfoggames.Schemes.schemes": {
       "rowId": 117,
@@ -5099,6 +5373,10 @@
             "encodedId": "CgIQAA=="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "none"
       ]
     },
     "is.workflow.actions.properties.itunesartist": {
@@ -5161,6 +5439,13 @@
             "encodedId": "EkoKE2NvbS5hcHBsZS5zaG9ydGN1dHMSM2lzLndvcmtmbG93LmFjdGlvbnMucHJvcGVydGllcy5pdHVuZXNhcnRpc3QuV0ZJbnB1dA=="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "number",
+        "url",
+        "string",
+        "file"
       ]
     },
     "is.workflow.actions.gettraveltime": {
@@ -5240,6 +5525,10 @@
             "encodedId": "ElIKE2NvbS5hcHBsZS5zaG9ydGN1dHMSO2lzLndvcmtmbG93LmFjdGlvbnMuZ2V0dHJhdmVsdGltZS5XRkdldERpcmVjdGlvbnNBY3Rpb25Nb2Rl"
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "com.apple.shortcuts.Tripinfo"
       ]
     },
     "is.workflow.actions.generatebarcode": {
@@ -5302,6 +5591,10 @@
             "encodedId": "CgIwAA=="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "file"
       ]
     },
     "is.workflow.actions.getitemname": {
@@ -5364,6 +5657,10 @@
             "encodedId": "CgIQAA=="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "string"
       ]
     },
     "is.workflow.actions.properties.trello": {
@@ -5426,6 +5723,13 @@
             "encodedId": "EkQKE2NvbS5hcHBsZS5zaG9ydGN1dHMSLWlzLndvcmtmbG93LmFjdGlvbnMucHJvcGVydGllcy50cmVsbG8uV0ZJbnB1dA=="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "url",
+        "date",
+        "string",
+        "file"
       ]
     },
     "is.workflow.actions.watchmedo": {
@@ -5466,6 +5770,10 @@
             "encodedId": "GgIQAA=="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "none"
       ]
     },
     "is.workflow.actions.image.convert.finder": {
@@ -5562,6 +5870,10 @@
             "encodedId": "EkYKE2NvbS5hcHBsZS5zaG9ydGN1dHMSL2lzLndvcmtmbG93LmFjdGlvbnMuaW1hZ2UuY29udmVydC5maW5kZXIuV0ZTaXpl"
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "file"
       ]
     },
     "is.workflow.actions.file.select": {
@@ -5623,6 +5935,10 @@
             "encodedId": "CgIQAA=="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "file"
       ]
     },
     "is.workflow.actions.logout": {
@@ -5645,7 +5961,11 @@
       },
       "outputTypeInstance": "CgQKAggA",
       "customIcon": "EiYKF3BlcnNvbi5jcm9wLmNpcmNsZS5maWxsGgVXaGl0ZSIER3JheQ==",
-      "arguments": []
+      "arguments": [],
+      "notes": null,
+      "outputTypes": [
+        "none"
+      ]
     },
     "is.workflow.actions.clearupnext": {
       "rowId": 134,
@@ -5672,7 +5992,11 @@
       },
       "outputTypeInstance": "CgQKAggA",
       "customIcon": null,
-      "arguments": []
+      "arguments": [],
+      "notes": null,
+      "outputTypes": [
+        "none"
+      ]
     },
     "is.workflow.actions.geturlcomponent": {
       "rowId": 137,
@@ -5734,6 +6058,10 @@
             "encodedId": "EkkKE2NvbS5hcHBsZS5zaG9ydGN1dHMSMmlzLndvcmtmbG93LmFjdGlvbnMuZ2V0dXJsY29tcG9uZW50LldGVVJMQ29tcG9uZW50"
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "string"
       ]
     },
     "is.workflow.actions.selectcontacts": {
@@ -5779,6 +6107,10 @@
             "encodedId": "CgIQAA=="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "person"
       ]
     },
     "is.workflow.actions.filter.reminders": {
@@ -5926,6 +6258,10 @@
             "encodedId": "ElcKE2NvbS5hcHBsZS5zaG9ydGN1dHMSQGlzLndvcmtmbG93LmFjdGlvbnMuZmlsdGVyLnJlbWluZGVycy5XRkNvbnRlbnRJdGVtSW5wdXRQYXJhbWV0ZXI="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "file"
       ]
     },
     "is.workflow.actions.statistics": {
@@ -5988,6 +6324,10 @@
             "encodedId": "EjsKE2NvbS5hcHBsZS5zaG9ydGN1dHMSJGlzLndvcmtmbG93LmFjdGlvbnMuc3RhdGlzdGljcy5JbnB1dA=="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "number"
       ]
     },
     "com.agiletortoise.Drafts4.get": {
@@ -6033,6 +6373,10 @@
             "encodedId": "CgIwAA=="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "string"
       ]
     },
     "is.workflow.actions.dropbox.open": {
@@ -6146,6 +6490,10 @@
             "encodedId": "CgIQAA=="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "file"
       ]
     },
     "is.workflow.actions.detect.text": {
@@ -6191,6 +6539,10 @@
             "encodedId": "Ej4KE2NvbS5hcHBsZS5zaG9ydGN1dHMSJ2lzLndvcmtmbG93LmFjdGlvbnMuZGV0ZWN0LnRleHQuV0ZJbnB1dA=="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "string"
       ]
     },
     "is.workflow.actions.handoffplayback": {
@@ -6251,6 +6603,10 @@
             "encodedId": "GgJAAA=="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "none"
       ]
     },
     "is.workflow.actions.dropbox.appendfile": {
@@ -6347,6 +6703,10 @@
             "encodedId": "CgIwAA=="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "file"
       ]
     },
     "com.dayonelog.dayoneiphone.post": {
@@ -6443,6 +6803,10 @@
             "encodedId": "EkUKE2NvbS5hcHBsZS5zaG9ydGN1dHMSLmNvbS5kYXlvbmVsb2cuZGF5b25laXBob25lLnBvc3QuaW1hZ2VDbGlwYm9hcmQ="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "file"
       ]
     },
     "com.omnigroup.OmniFocus2.iPhone.pastetaskpaper": {
@@ -6556,6 +6920,10 @@
             "encodedId": "CgIwAA=="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "url"
       ]
     },
     "is.workflow.actions.getclipboard": {
@@ -6583,7 +6951,11 @@
       },
       "outputTypeInstance": "EiUSIwohEh8KE2NvbS5hcHBsZS5zaG9ydGN1dHMSCEFueXRoaW5n",
       "customIcon": "EhgKDmNsaXBib2FyZC5maWxsEAEaBEJsdWU=",
-      "arguments": []
+      "arguments": [],
+      "notes": null,
+      "outputTypes": [
+        "com.apple.shortcuts.Anything"
+      ]
     },
     "is.workflow.actions.pinboard.get": {
       "rowId": 156,
@@ -6645,6 +7017,10 @@
             "encodedId": "CgIgAA=="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "url"
       ]
     },
     "is.workflow.actions.addnewcontact": {
@@ -6809,6 +7185,10 @@
             "encodedId": "CgIQAA=="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "person"
       ]
     },
     "is.workflow.actions.scanbarcode": {
@@ -6833,7 +7213,11 @@
       },
       "outputTypeInstance": "CgUKA4gBAA==",
       "customIcon": "EiAKEXFyY29kZS52aWV3ZmluZGVyGgVXaGl0ZSIER3JheQ==",
-      "arguments": []
+      "arguments": [],
+      "notes": null,
+      "outputTypes": [
+        "file"
+      ]
     },
     "is.workflow.actions.filter.files": {
       "rowId": 162,
@@ -6980,6 +7364,10 @@
             "encodedId": "ElMKE2NvbS5hcHBsZS5zaG9ydGN1dHMSPGlzLndvcmtmbG93LmFjdGlvbnMuZmlsdGVyLmZpbGVzLldGQ29udGVudEl0ZW1JbnB1dFBhcmFtZXRlcg=="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "file"
       ]
     },
     "is.workflow.actions.compresspdf": {
@@ -7025,6 +7413,10 @@
             "encodedId": "CgOIAQA="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "file"
       ]
     },
     "is.workflow.actions.properties.ulysses.sheet": {
@@ -7087,6 +7479,10 @@
             "encodedId": "EksKE2NvbS5hcHBsZS5zaG9ydGN1dHMSNGlzLndvcmtmbG93LmFjdGlvbnMucHJvcGVydGllcy51bHlzc2VzLnNoZWV0LldGSW5wdXQ="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "string"
       ]
     },
     "jp.naver.line.message": {
@@ -7114,7 +7510,12 @@
       },
       "outputTypeInstance": "IhEKBwoFCgOIAQAKBgoECgIwAA==",
       "customIcon": null,
-      "arguments": []
+      "arguments": [],
+      "notes": null,
+      "outputTypes": [
+        "file",
+        "string"
+      ]
     },
     "is.workflow.actions.properties.music": {
       "rowId": 168,
@@ -7176,6 +7577,10 @@
             "encodedId": "EkMKE2NvbS5hcHBsZS5zaG9ydGN1dHMSLGlzLndvcmtmbG93LmFjdGlvbnMucHJvcGVydGllcy5tdXNpYy5XRklucHV0"
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "string"
       ]
     },
     "is.workflow.actions.weather.forecast": {
@@ -7238,6 +7643,10 @@
             "encodedId": "ElEKE2NvbS5hcHBsZS5zaG9ydGN1dHMSOmlzLndvcmtmbG93LmFjdGlvbnMud2VhdGhlci5mb3JlY2FzdC5XRldlYXRoZXJGb3JlY2FzdFR5cGU="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "com.apple.shortcuts.WeatherConditions"
       ]
     },
     "com.omz-software.Pythonista.runscript": {
@@ -7299,6 +7708,10 @@
             "encodedId": "CgIwAA=="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "none"
       ]
     },
     "is.workflow.actions.hash": {
@@ -7361,6 +7774,10 @@
             "encodedId": "EjcKE2NvbS5hcHBsZS5zaG9ydGN1dHMSIGlzLndvcmtmbG93LmFjdGlvbnMuaGFzaC5XRklucHV0"
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "string"
       ]
     },
     "is.workflow.actions.rss.extract": {
@@ -7406,6 +7823,10 @@
             "encodedId": "CgIwAA=="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "url"
       ]
     },
     "is.workflow.actions.gethomeaccessorystate": {
@@ -7468,6 +7889,10 @@
             "encodedId": "ElMKE2NvbS5hcHBsZS5zaG9ydGN1dHMSPGlzLndvcmtmbG93LmFjdGlvbnMuZ2V0aG9tZWFjY2Vzc29yeXN0YXRlLldGSE1DaGFyYWN0ZXJpc3RpYw=="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "none"
       ]
     },
     "is.workflow.actions.homeaccessory": {
@@ -7513,6 +7938,10 @@
             "encodedId": "CgIwAA=="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "none"
       ]
     },
     "is.workflow.actions.getcurrentapp": {
@@ -7558,6 +7987,10 @@
             "encodedId": "EkoKE2NvbS5hcHBsZS5zaG9ydGN1dHMSM2lzLndvcmtmbG93LmFjdGlvbnMuZ2V0Y3VycmVudGFwcC5XRlZpc2libGVBcHBTY29wZQ=="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "app"
       ]
     },
     "is.workflow.actions.image.removebackground": {
@@ -7620,6 +8053,10 @@
             "encodedId": "EkkKE2NvbS5hcHBsZS5zaG9ydGN1dHMSMmlzLndvcmtmbG93LmFjdGlvbnMuaW1hZ2UucmVtb3ZlYmFja2dyb3VuZC5XRklucHV0"
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "file"
       ]
     },
     "is.workflow.actions.intercom": {
@@ -7681,6 +8118,10 @@
             "encodedId": "CgIwAA=="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "none"
       ]
     },
     "is.workflow.actions.viewresult": {
@@ -7726,6 +8167,10 @@
             "encodedId": "Ej0KE2NvbS5hcHBsZS5zaG9ydGN1dHMSJmlzLndvcmtmbG93LmFjdGlvbnMudmlld3Jlc3VsdC5XRklucHV0"
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "com.apple.shortcuts.Anything"
       ]
     },
     "net.shinyfrog.bear-IOS.grab": {
@@ -7822,6 +8267,10 @@
             "encodedId": "CgIwAA=="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "string"
       ]
     },
     "is.workflow.actions.podcasts.subscribe": {
@@ -7867,6 +8316,11 @@
             "encodedId": "CgIwAA=="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "com.apple.shortcuts.Podcast",
+        "url"
       ]
     },
     "is.workflow.actions.runsshscript": {
@@ -8014,6 +8468,10 @@
             "encodedId": "Ej8KE2NvbS5hcHBsZS5zaG9ydGN1dHMSKGlzLndvcmtmbG93LmFjdGlvbnMucnVuc3Noc2NyaXB0LldGSW5wdXQ="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "file"
       ]
     },
     "is.workflow.actions.connecttoservers": {
@@ -8054,6 +8512,10 @@
             "encodedId": "CgIwAA=="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "file"
       ]
     },
     "is.workflow.actions.list": {
@@ -8081,7 +8543,11 @@
       },
       "outputTypeInstance": "EiUSIwohEh8KE2NvbS5hcHBsZS5zaG9ydGN1dHMSCEFueXRoaW5n",
       "customIcon": "EhwKC2xpc3QuYnVsbGV0GgVXaGl0ZSIGT3Jhbmdl",
-      "arguments": []
+      "arguments": [],
+      "notes": null,
+      "outputTypes": [
+        "com.apple.shortcuts.Anything"
+      ]
     },
     "is.workflow.actions.properties.podcast": {
       "rowId": 200,
@@ -8143,6 +8609,15 @@
             "encodedId": "EkUKE2NvbS5hcHBsZS5zaG9ydGN1dHMSLmlzLndvcmtmbG93LmFjdGlvbnMucHJvcGVydGllcy5wb2RjYXN0LldGSW5wdXQ="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "file",
+        "date",
+        "com.apple.shortcuts.Timeinterval",
+        "string",
+        "number",
+        "url"
       ]
     },
     "is.workflow.actions.trello.get": {
@@ -8222,6 +8697,12 @@
             "encodedId": "EkIKE2NvbS5hcHBsZS5zaG9ydGN1dHMSK2lzLndvcmtmbG93LmFjdGlvbnMudHJlbGxvLmdldC5XRlRyZWxsb0xpc3Q="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "com.apple.shortcuts.Trellolist",
+        "com.apple.shortcuts.Trelloboard",
+        "com.apple.shortcuts.Trellocard"
       ]
     },
     "is.workflow.actions.makespokenaudiofromtext": {
@@ -8335,6 +8816,10 @@
             "encodedId": "CgIwAA=="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "file"
       ]
     },
     "com.tapbots.Tweetbot.viewprofile": {
@@ -8380,6 +8865,10 @@
             "encodedId": "CgIwAA=="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "none"
       ]
     },
     "is.workflow.actions.file.getlink": {
@@ -8425,6 +8914,10 @@
             "encodedId": "Ej4KE2NvbS5hcHBsZS5zaG9ydGN1dHMSJ2lzLndvcmtmbG93LmFjdGlvbnMuZmlsZS5nZXRsaW5rLldGRmlsZQ=="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "url"
       ]
     },
     "com.boonbits.captio.appendtonote": {
@@ -8469,6 +8962,10 @@
             "encodedId": "CgIwAA=="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "none"
       ]
     },
     "is.workflow.actions.photos.createalbum": {
@@ -8530,6 +9027,10 @@
             "encodedId": "EkUKE2NvbS5hcHBsZS5zaG9ydGN1dHMSLmlzLndvcmtmbG93LmFjdGlvbnMucGhvdG9zLmNyZWF0ZWFsYnVtLldGSW5wdXQ="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "file"
       ]
     },
     "is.workflow.actions.giphy": {
@@ -8626,6 +9127,10 @@
             "encodedId": "CgIQAA=="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "file"
       ]
     },
     "net.lickability.Quotebook.addquote": {
@@ -8705,6 +9210,10 @@
             "encodedId": "CgIwAA=="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "string"
       ]
     },
     "is.workflow.actions.format.filesize": {
@@ -8784,6 +9293,10 @@
             "encodedId": "CgIgAA=="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "string"
       ]
     },
     "com.soulmen.ulysses.pad.insert": {
@@ -8931,6 +9444,11 @@
             "encodedId": "CgIQAA=="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "file",
+        "string"
       ]
     },
     "is.workflow.actions.detect.link": {
@@ -8976,6 +9494,10 @@
             "encodedId": "CgIwAA=="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "url"
       ]
     },
     "com.soulmen.ulysses.pad.attach": {
@@ -9089,6 +9611,11 @@
             "encodedId": "CgIQAA=="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "file",
+        "string"
       ]
     },
     "is.workflow.actions.properties.articles": {
@@ -9151,6 +9678,14 @@
             "encodedId": "EkYKE2NvbS5hcHBsZS5zaG9ydGN1dHMSL2lzLndvcmtmbG93LmFjdGlvbnMucHJvcGVydGllcy5hcnRpY2xlcy5XRklucHV0"
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "url",
+        "string",
+        "file",
+        "date",
+        "number"
       ]
     },
     "is.workflow.actions.splitpdf": {
@@ -9195,6 +9730,10 @@
             "encodedId": "CgOIAQA="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "file"
       ]
     },
     "is.workflow.actions.adjustdate": {
@@ -9274,6 +9813,10 @@
             "encodedId": "CgJgBw=="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "date"
       ]
     },
     "is.workflow.actions.exit": {
@@ -9301,7 +9844,11 @@
       },
       "outputTypeInstance": "CgQKAggA",
       "customIcon": "EhgKCXN0b3AuZmlsbBoFV2hpdGUiBEdyYXk=",
-      "arguments": []
+      "arguments": [],
+      "notes": null,
+      "outputTypes": [
+        "none"
+      ]
     },
     "is.workflow.actions.avairyeditphoto": {
       "rowId": 230,
@@ -9346,6 +9893,10 @@
             "encodedId": "EkUKE2NvbS5hcHBsZS5zaG9ydGN1dHMSLmlzLndvcmtmbG93LmFjdGlvbnMuYXZhaXJ5ZWRpdHBob3RvLldGRG9jdW1lbnQ="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "file"
       ]
     },
     "is.workflow.actions.showinblindsquare": {
@@ -9407,6 +9958,17 @@
             "encodedId": "CgJ4AA=="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "string",
+        "person",
+        "com.apple.shortcuts.Mapslink",
+        "com.apple.shortcuts.WeatherConditions",
+        "placemark",
+        "com.apple.shortcuts.ParkedCar",
+        "com.apple.shortcuts.Place",
+        "file"
       ]
     },
     "is.workflow.actions.getrichtextfromhtml": {
@@ -9452,6 +10014,10 @@
             "encodedId": "EkUKE2NvbS5hcHBsZS5zaG9ydGN1dHMSLmlzLndvcmtmbG93LmFjdGlvbnMuZ2V0cmljaHRleHRmcm9taHRtbC5XRkhUTUw="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "file"
       ]
     },
     "is.workflow.actions.makegif": {
@@ -9599,6 +10165,10 @@
             "encodedId": "EjoKE2NvbS5hcHBsZS5zaG9ydGN1dHMSI2lzLndvcmtmbG93LmFjdGlvbnMubWFrZWdpZi5XRklucHV0"
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "file"
       ]
     },
     "is.workflow.actions.displaysleep": {
@@ -9621,7 +10191,11 @@
       },
       "outputTypeInstance": "CgQKAggA",
       "customIcon": "EhYKB2Rpc3BsYXkaBVdoaXRlIgRHcmF5",
-      "arguments": []
+      "arguments": [],
+      "notes": null,
+      "outputTypes": [
+        "none"
+      ]
     },
     "is.workflow.actions.quit.app": {
       "rowId": 238,
@@ -9695,6 +10269,10 @@
             "encodedId": "CgIQAA=="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "none"
       ]
     },
     "is.workflow.actions.getmyworkflows": {
@@ -9740,6 +10318,10 @@
             "encodedId": "EkAKE2NvbS5hcHBsZS5zaG9ydGN1dHMSKWlzLndvcmtmbG93LmFjdGlvbnMuZ2V0bXl3b3JrZmxvd3MuRm9sZGVy"
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "file"
       ]
     },
     "is.workflow.actions.detect.dictionary": {
@@ -9785,6 +10367,10 @@
             "encodedId": "EkQKE2NvbS5hcHBsZS5zaG9ydGN1dHMSLWlzLndvcmtmbG93LmFjdGlvbnMuZGV0ZWN0LmRpY3Rpb25hcnkuV0ZJbnB1dA=="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "file"
       ]
     },
     "is.workflow.actions.searchpodcasts": {
@@ -9898,6 +10484,10 @@
             "encodedId": "CgIgAA=="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "com.apple.shortcuts.Podcast"
       ]
     },
     "is.workflow.actions.location": {
@@ -9943,6 +10533,10 @@
             "encodedId": "CgJ4AA=="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "placemark"
       ]
     },
     "is.workflow.actions.searchweb": {
@@ -10005,6 +10599,10 @@
             "encodedId": "CgIwAA=="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "string"
       ]
     },
     "is.workflow.actions.setters.calendarevents": {
@@ -10305,6 +10903,10 @@
             "encodedId": "CgIQAA=="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "file"
       ]
     },
     "is.workflow.actions.filter.images": {
@@ -10452,6 +11054,10 @@
             "encodedId": "ElQKE2NvbS5hcHBsZS5zaG9ydGN1dHMSPWlzLndvcmtmbG93LmFjdGlvbnMuZmlsdGVyLmltYWdlcy5XRkNvbnRlbnRJdGVtSW5wdXRQYXJhbWV0ZXI="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "file"
       ]
     },
     "is.workflow.actions.measurement.convert": {
@@ -10531,6 +11137,10 @@
             "encodedId": "EkYKE2NvbS5hcHBsZS5zaG9ydGN1dHMSL2lzLndvcmtmbG93LmFjdGlvbnMubWVhc3VyZW1lbnQuY29udmVydC5XRklucHV0"
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "length"
       ]
     },
     "is.workflow.actions.addtoplaylist": {
@@ -10592,6 +11202,10 @@
             "encodedId": "EkAKE2NvbS5hcHBsZS5zaG9ydGN1dHMSKWlzLndvcmtmbG93LmFjdGlvbnMuYWRkdG9wbGF5bGlzdC5XRklucHV0"
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "file"
       ]
     },
     "is.workflow.actions.waittoreturn": {
@@ -10618,7 +11232,11 @@
       },
       "outputTypeInstance": "CgQKAggA",
       "customIcon": "EiYKF3BlcnNvbi5iYWRnZS5jbG9jay5maWxsGgVXaGl0ZSIER3JheQ==",
-      "arguments": []
+      "arguments": [],
+      "notes": null,
+      "outputTypes": [
+        "none"
+      ]
     },
     "com.apple.musicrecognition.RecognizeMusicIntent": {
       "rowId": 256,
@@ -10680,6 +11298,10 @@
             "encodedId": "CgIQAA=="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "com.apple.shortcuts.Shazammedia"
       ]
     },
     "is.workflow.actions.goodreader.open": {
@@ -10724,6 +11346,10 @@
             "encodedId": "EkIKE2NvbS5hcHBsZS5zaG9ydGN1dHMSK2lzLndvcmtmbG93LmFjdGlvbnMuZ29vZHJlYWRlci5vcGVuLldGSW5wdXQ="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "file"
       ]
     },
     "is.workflow.actions.getitemfromlist": {
@@ -10837,6 +11463,10 @@
             "encodedId": "EkIKE2NvbS5hcHBsZS5zaG9ydGN1dHMSK2lzLndvcmtmbG93LmFjdGlvbnMuZ2V0aXRlbWZyb21saXN0LldGSW5wdXQ="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "com.apple.shortcuts.Anything"
       ]
     },
     "squibner.AmazonLinker.search": {
@@ -10882,6 +11512,11 @@
             "encodedId": "CgIwAA=="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "url",
+        "string"
       ]
     },
     "is.workflow.actions.addnewevent": {
@@ -11080,6 +11715,10 @@
             "encodedId": "CgIQAA=="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "file"
       ]
     },
     "is.workflow.actions.file.reveal": {
@@ -11120,6 +11759,10 @@
             "encodedId": "CgOIAQA="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "none"
       ]
     },
     "is.workflow.actions.getonscreencontent": {
@@ -11146,7 +11789,11 @@
       },
       "outputTypeInstance": "EgkSBwoFCgOIAQA=",
       "customIcon": "Eh4KD3RleHQudmlld2ZpbmRlchoFV2hpdGUiBFBpbms=",
-      "arguments": []
+      "arguments": [],
+      "notes": null,
+      "outputTypes": [
+        "file"
+      ]
     },
     "com.soulmen.ulysses.pad.new-sheet": {
       "rowId": 264,
@@ -11242,6 +11889,10 @@
             "encodedId": "CgIQAA=="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "string"
       ]
     },
     "is.workflow.actions.makeimagefrompdfpage": {
@@ -11338,6 +11989,10 @@
             "encodedId": "CgIgAA=="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "file"
       ]
     },
     "is.workflow.actions.properties.shazam": {
@@ -11400,6 +12055,13 @@
             "encodedId": "EkQKE2NvbS5hcHBsZS5zaG9ydGN1dHMSLWlzLndvcmtmbG93LmFjdGlvbnMucHJvcGVydGllcy5zaGF6YW0uV0ZJbnB1dA=="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "file",
+        "string",
+        "url",
+        "bool"
       ]
     },
     "is.workflow.actions.documentpicker.save": {
@@ -11513,6 +12175,10 @@
             "encodedId": "CgIQAA=="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "file"
       ]
     },
     "is.workflow.actions.evernote.new": {
@@ -11575,6 +12241,10 @@
             "encodedId": "Ej8KE2NvbS5hcHBsZS5zaG9ydGN1dHMSKGlzLndvcmtmbG93LmFjdGlvbnMuZXZlcm5vdGUubmV3LldGSW5wdXQ="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "com.apple.shortcuts.Evernotenote"
       ]
     },
     "is.workflow.actions.takevideo": {
@@ -11652,6 +12322,10 @@
             "encodedId": "EkUKE2NvbS5hcHBsZS5zaG9ydGN1dHMSLmlzLndvcmtmbG93LmFjdGlvbnMudGFrZXZpZGVvLldGUmVjb3JkaW5nU3RhcnQ="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "file"
       ]
     },
     "is.workflow.actions.gethtmlfromrichtext": {
@@ -11714,6 +12388,10 @@
             "encodedId": "EkYKE2NvbS5hcHBsZS5zaG9ydGN1dHMSL2lzLndvcmtmbG93LmFjdGlvbnMuZ2V0aHRtbGZyb21yaWNodGV4dC5XRklucHV0"
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "string"
       ]
     },
     "is.workflow.actions.mountdiskimage": {
@@ -11754,6 +12432,10 @@
             "encodedId": "CgOIAQA="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "file"
       ]
     },
     "is.workflow.actions.searchlocalbusinesses": {
@@ -11833,6 +12515,10 @@
             "encodedId": "CgJgAQ=="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "com.apple.shortcuts.Place"
       ]
     },
     "is.workflow.actions.searchitunes": {
@@ -11963,6 +12649,10 @@
             "encodedId": "CgIgAA=="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "com.apple.shortcuts.iTunesproduct"
       ]
     },
     "is.workflow.actions.input": {
@@ -12178,6 +12868,10 @@
             "encodedId": "CgIQAA=="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "none"
       ]
     },
     "is.workflow.actions.getipaddress": {
@@ -12240,6 +12934,10 @@
             "encodedId": "Ek0KE2NvbS5hcHBsZS5zaG9ydGN1dHMSNmlzLndvcmtmbG93LmFjdGlvbnMuZ2V0aXBhZGRyZXNzLldGSVBBZGRyZXNzVHlwZU9wdGlvbg=="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "string"
       ]
     },
     "squibner.AmazonLinker.convert": {
@@ -12285,6 +12983,11 @@
             "encodedId": "CgIwAA=="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "url",
+        "string"
       ]
     },
     "is.workflow.actions.posters.get": {
@@ -12329,6 +13032,10 @@
             "encodedId": "EkMKE2NvbS5hcHBsZS5zaG9ydGN1dHMSLGlzLndvcmtmbG93LmFjdGlvbnMucG9zdGVycy5nZXQuV0ZQb3N0ZXJUeXBl"
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "com.apple.shortcuts.Wallpaper"
       ]
     },
     "is.workflow.actions.takescreenshot": {
@@ -12424,6 +13131,10 @@
             "encodedId": "CgIQAA=="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "file"
       ]
     },
     "is.workflow.actions.getdevicedetails": {
@@ -12469,6 +13180,10 @@
             "encodedId": "EkoKE2NvbS5hcHBsZS5zaG9ydGN1dHMSM2lzLndvcmtmbG93LmFjdGlvbnMuZ2V0ZGV2aWNlZGV0YWlscy5XRkRldmljZURldGFpbA=="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "string"
       ]
     },
     "is.workflow.actions.savetocameraroll": {
@@ -12530,6 +13245,10 @@
             "encodedId": "EkMKE2NvbS5hcHBsZS5zaG9ydGN1dHMSLGlzLndvcmtmbG93LmFjdGlvbnMuc2F2ZXRvY2FtZXJhcm9sbC5XRklucHV0"
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "file"
       ]
     },
     "is.workflow.actions.createplaylist": {
@@ -12626,6 +13345,10 @@
             "encodedId": "EkkKE2NvbS5hcHBsZS5zaG9ydGN1dHMSMmlzLndvcmtmbG93LmFjdGlvbnMuY3JlYXRlcGxheWxpc3QuV0ZQbGF5bGlzdEl0ZW1z"
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "file"
       ]
     },
     "is.workflow.actions.dismisssiri": {
@@ -12653,7 +13376,11 @@
       },
       "outputTypeInstance": "CgQKAggA",
       "customIcon": null,
-      "arguments": []
+      "arguments": [],
+      "notes": null,
+      "outputTypes": [
+        "none"
+      ]
     },
     "is.workflow.actions.setvariable": {
       "rowId": 299,
@@ -12698,6 +13425,10 @@
             "encodedId": "Ej4KE2NvbS5hcHBsZS5zaG9ydGN1dHMSJ2lzLndvcmtmbG93LmFjdGlvbnMuc2V0dmFyaWFibGUuV0ZJbnB1dA=="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "com.apple.shortcuts.Anything"
       ]
     },
     "is.workflow.actions.properties.parkedcar": {
@@ -12755,6 +13486,14 @@
             "encodedId": "EkcKE2NvbS5hcHBsZS5zaG9ydGN1dHMSMGlzLndvcmtmbG93LmFjdGlvbnMucHJvcGVydGllcy5wYXJrZWRjYXIuV0ZJbnB1dA=="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "string",
+        "date",
+        "placemark",
+        "file",
+        "bool"
       ]
     },
     "is.workflow.actions.getlastvideo": {
@@ -12799,6 +13538,10 @@
             "encodedId": "CgIgAA=="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "file"
       ]
     },
     "is.workflow.actions.getcurrentlocation": {
@@ -12844,6 +13587,10 @@
             "encodedId": "EkYKE2NvbS5hcHBsZS5zaG9ydGN1dHMSL2lzLndvcmtmbG93LmFjdGlvbnMuZ2V0Y3VycmVudGxvY2F0aW9uLkFjY3VyYWN5"
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "placemark"
       ]
     },
     "is.workflow.actions.properties.contacts": {
@@ -12906,6 +13653,17 @@
             "encodedId": "EkYKE2NvbS5hcHBsZS5zaG9ydGN1dHMSL2lzLndvcmtmbG93LmFjdGlvbnMucHJvcGVydGllcy5jb250YWN0cy5XRklucHV0"
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "com.apple.shortcuts.Filesize",
+        "file",
+        "com.apple.shortcuts.Phonenumber",
+        "url",
+        "com.apple.shortcuts.Emailaddress",
+        "string",
+        "placemark",
+        "date"
       ]
     },
     "is.workflow.actions.measurement.create": {
@@ -12968,6 +13726,10 @@
             "encodedId": "CgJgAQ=="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "length"
       ]
     },
     "is.workflow.actions.runextension": {
@@ -13029,6 +13791,10 @@
             "encodedId": "GgIIAA=="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "com.apple.shortcuts.Anything"
       ]
     },
     "is.workflow.actions.print": {
@@ -13073,6 +13839,12 @@
             "encodedId": "EjgKE2NvbS5hcHBsZS5zaG9ydGN1dHMSIWlzLndvcmtmbG93LmFjdGlvbnMucHJpbnQuV0ZJbnB1dA=="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "url",
+        "file",
+        "string"
       ]
     },
     "com.squibner.Blink.search": {
@@ -13118,6 +13890,11 @@
             "encodedId": "CgIwAA=="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "url",
+        "string"
       ]
     },
     "is.workflow.actions.text.trimwhitespace": {
@@ -13163,6 +13940,10 @@
             "encodedId": "CgIwAA=="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "string"
       ]
     },
     "is.workflow.actions.setters.reminders": {
@@ -13480,6 +14261,10 @@
             "encodedId": "CgIwAA=="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "file"
       ]
     },
     "is.workflow.actions.dnd.getfocus": {
@@ -13507,7 +14292,11 @@
       },
       "outputTypeInstance": "Ch4SHAoTY29tLmFwcGxlLnNob3J0Y3V0cxIFRm9jdXM=",
       "customIcon": "EhoKCW1vb24uZmlsbBoFV2hpdGUiBkluZGlnbw==",
-      "arguments": []
+      "arguments": [],
+      "notes": null,
+      "outputTypes": [
+        "com.apple.shortcuts.Focus"
+      ]
     },
     "is.workflow.actions.getnameofemoji": {
       "rowId": 321,
@@ -13552,6 +14341,10 @@
             "encodedId": "CgIwAA=="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "string"
       ]
     },
     "is.workflow.actions.getlastscreenshot": {
@@ -13596,6 +14389,10 @@
             "encodedId": "CgIgAA=="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "file"
       ]
     },
     "is.workflow.actions.tumblr.post": {
@@ -13794,6 +14591,10 @@
             "encodedId": "CgIwAA=="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "url"
       ]
     },
     "is.workflow.actions.get.playlist": {
@@ -13839,6 +14640,10 @@
             "encodedId": "EkYKE2NvbS5hcHBsZS5zaG9ydGN1dHMSL2lzLndvcmtmbG93LmFjdGlvbnMuZ2V0LnBsYXlsaXN0LldGUGxheWxpc3ROYW1l"
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "file"
       ]
     },
     "is.workflow.actions.movewindow": {
@@ -13947,6 +14752,10 @@
             "encodedId": "CgIQAA=="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "none"
       ]
     },
     "is.workflow.actions.makeimagefromrichtext": {
@@ -14026,6 +14835,10 @@
             "encodedId": "CgIgAA=="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "file"
       ]
     },
     "is.workflow.actions.weather.currentconditions": {
@@ -14071,6 +14884,10 @@
             "encodedId": "CgJ4AA=="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "com.apple.shortcuts.WeatherConditions"
       ]
     },
     "is.workflow.actions.image.convert": {
@@ -14167,6 +14984,10 @@
             "encodedId": "EkAKE2NvbS5hcHBsZS5zaG9ydGN1dHMSKWlzLndvcmtmbG93LmFjdGlvbnMuaW1hZ2UuY29udmVydC5XRklucHV0"
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "file"
       ]
     },
     "is.workflow.actions.makevideofromgif": {
@@ -14229,6 +15050,10 @@
             "encodedId": "EkYKE2NvbS5hcHBsZS5zaG9ydGN1dHMSL2lzLndvcmtmbG93LmFjdGlvbnMubWFrZXZpZGVvZnJvbWdpZi5XRklucHV0R0lG"
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "file"
       ]
     },
     "is.workflow.actions.showwebpage": {
@@ -14291,6 +15116,11 @@
             "encodedId": "CgIwAA=="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "file",
+        "url"
       ]
     },
     "is.workflow.actions.file.getfoldercontents": {
@@ -14353,6 +15183,10 @@
             "encodedId": "CgIQAA=="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "file"
       ]
     },
     "is.workflow.actions.filter.music": {
@@ -14500,6 +15334,10 @@
             "encodedId": "ElMKE2NvbS5hcHBsZS5zaG9ydGN1dHMSPGlzLndvcmtmbG93LmFjdGlvbnMuZmlsdGVyLm11c2ljLldGQ29udGVudEl0ZW1JbnB1dFBhcmFtZXRlcg=="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "file"
       ]
     },
     "is.workflow.actions.playpodcast": {
@@ -14562,6 +15400,11 @@
             "encodedId": "Ek0KE2NvbS5hcHBsZS5zaG9ydGN1dHMSNmlzLndvcmtmbG93LmFjdGlvbnMucGxheXBvZGNhc3QuV0ZQb2RjYXN0UGxheWJhY2tPcmRlcg=="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "com.apple.shortcuts.Podcast",
+        "com.apple.shortcuts.Podcastepisode"
       ]
     },
     "is.workflow.actions.runjavascriptonwebpage": {
@@ -14623,6 +15466,13 @@
             "encodedId": "EkkKE2NvbS5hcHBsZS5zaG9ydGN1dHMSMmlzLndvcmtmbG93LmFjdGlvbnMucnVuamF2YXNjcmlwdG9ud2VicGFnZS5XRklucHV0"
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "string",
+        "file",
+        "number",
+        "bool"
       ]
     },
     "is.workflow.actions.lockscreen": {
@@ -14648,7 +15498,11 @@
       },
       "outputTypeInstance": "CgQKAggA",
       "customIcon": "EhgKCWxvY2suZmlsbBoFV2hpdGUiBEdyYXk=",
-      "arguments": []
+      "arguments": [],
+      "notes": null,
+      "outputTypes": [
+        "none"
+      ]
     },
     "is.workflow.actions.overlaytext": {
       "rowId": 350,
@@ -15033,6 +15887,10 @@
             "encodedId": "EkUKE2NvbS5hcHBsZS5zaG9ydGN1dHMSLmlzLndvcmtmbG93LmFjdGlvbnMub3ZlcmxheXRleHQuV0ZTaXppbmdNZXRob2Q="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "file"
       ]
     },
     "com.tapbots.Tweetbot.opentweetbot": {
@@ -15095,6 +15953,10 @@
             "encodedId": "CgIwAA=="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "none"
       ]
     },
     "is.workflow.actions.text.replace": {
@@ -15208,6 +16070,10 @@
             "encodedId": "CgIwAA=="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "string"
       ]
     },
     "is.workflow.actions.properties.files": {
@@ -15270,6 +16136,12 @@
             "encodedId": "EkMKE2NvbS5hcHBsZS5zaG9ydGN1dHMSLGlzLndvcmtmbG93LmFjdGlvbnMucHJvcGVydGllcy5maWxlcy5XRklucHV0"
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "com.apple.shortcuts.Filesize",
+        "string",
+        "date"
       ]
     },
     "is.workflow.actions.imgur.upload": {
@@ -15434,6 +16306,10 @@
             "encodedId": "CgIwAA=="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "url"
       ]
     },
     "is.workflow.actions.selectemail": {
@@ -15461,7 +16337,11 @@
       },
       "outputTypeInstance": "EikSJwolEiMKE2NvbS5hcHBsZS5zaG9ydGN1dHMSDEVtYWlsYWRkcmVzcw==",
       "customIcon": "EhwKDWVudmVsb3BlLmZpbGwaBVdoaXRlIgRDeWFu",
-      "arguments": []
+      "arguments": [],
+      "notes": null,
+      "outputTypes": [
+        "com.apple.shortcuts.Emailaddress"
+      ]
     },
     "is.workflow.actions.gettimebetweendates": {
       "rowId": 357,
@@ -15540,6 +16420,10 @@
             "encodedId": "Ek4KE2NvbS5hcHBsZS5zaG9ydGN1dHMSN2lzLndvcmtmbG93LmFjdGlvbnMuZ2V0dGltZWJldHdlZW5kYXRlcy5XRlRpbWVVbnRpbFVuaXQ="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "number"
       ]
     },
     "is.workflow.actions.url": {
@@ -15585,6 +16469,10 @@
             "encodedId": "CgJIAA=="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "url"
       ]
     },
     "com.phocusllp.due.add": {
@@ -15698,6 +16586,10 @@
             "encodedId": "EjkKE2NvbS5hcHBsZS5zaG9ydGN1dHMSImNvbS5waG9jdXNsbHAuZHVlLmFkZC5kdWVSZWN1clVuaXQ="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "none"
       ]
     },
     "is.workflow.actions.setparkedcar": {
@@ -15772,6 +16664,10 @@
             "encodedId": "Ej8KE2NvbS5hcHBsZS5zaG9ydGN1dHMSKGlzLndvcmtmbG93LmFjdGlvbnMuc2V0cGFya2VkY2FyLldGSW1hZ2U="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "com.apple.shortcuts.ParkedCar"
       ]
     },
     "is.workflow.actions.properties.workflow": {
@@ -15834,6 +16730,14 @@
             "encodedId": "EkYKE2NvbS5hcHBsZS5zaG9ydGN1dHMSL2lzLndvcmtmbG93LmFjdGlvbnMucHJvcGVydGllcy53b3JrZmxvdy5XRklucHV0"
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "number",
+        "date",
+        "string",
+        "com.apple.shortcuts.Filesize",
+        "file"
       ]
     },
     "is.workflow.actions.searchmaps": {
@@ -15896,6 +16800,17 @@
             "encodedId": "EksKE2NvbS5hcHBsZS5zaG9ydGN1dHMSNGlzLndvcmtmbG93LmFjdGlvbnMuc2VhcmNobWFwcy5XRlNlYXJjaE1hcHNBY3Rpb25BcHA="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "com.apple.shortcuts.Place",
+        "person",
+        "placemark",
+        "com.apple.shortcuts.ParkedCar",
+        "string",
+        "com.apple.shortcuts.Mapslink",
+        "file",
+        "com.apple.shortcuts.WeatherConditions"
       ]
     },
     "com.skype.skype.call": {
@@ -15941,6 +16856,17 @@
             "encodedId": "CgOAAQA="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "com.apple.shortcuts.Place",
+        "com.apple.shortcuts.Emailaddress",
+        "file",
+        "placemark",
+        "person",
+        "string",
+        "com.apple.shortcuts.Phonenumber",
+        "com.apple.shortcuts.Eventattendee"
       ]
     },
     "is.workflow.actions.previewdocument": {
@@ -16004,6 +16930,10 @@
             "encodedId": "CgIQAA=="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "file"
       ]
     },
     "is.workflow.actions.detect.phonenumber": {
@@ -16049,6 +16979,10 @@
             "encodedId": "CgIwAA=="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "com.apple.shortcuts.Phonenumber"
       ]
     },
     "is.workflow.actions.file.delete": {
@@ -16111,6 +17045,10 @@
             "encodedId": "CgIQAA=="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "none"
       ]
     },
     "is.workflow.actions.recordaudio": {
@@ -16207,6 +17145,10 @@
             "encodedId": "CgJgBw=="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "file"
       ]
     },
     "is.workflow.actions.runapplescript": {
@@ -16247,6 +17189,13 @@
             "encodedId": "Ej8KE2NvbS5hcHBsZS5zaG9ydGN1dHMSKGlzLndvcmtmbG93LmFjdGlvbnMucnVuYXBwbGVzY3JpcHQuSW5wdXQ="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "bool",
+        "file",
+        "number",
+        "string"
       ]
     },
     "is.workflow.actions.sleep": {
@@ -16269,7 +17218,11 @@
       },
       "outputTypeInstance": "CgQKAggA",
       "customIcon": "EhkKCnBvd2Vyc2xlZXAaBVdoaXRlIgRHcmF5",
-      "arguments": []
+      "arguments": [],
+      "notes": null,
+      "outputTypes": [
+        "none"
+      ]
     },
     "is.workflow.actions.file.append": {
       "rowId": 381,
@@ -16382,6 +17335,10 @@
             "encodedId": "CgIwAA=="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "file"
       ]
     },
     "is.workflow.actions.personalhotspot.password.set": {
@@ -16426,6 +17383,10 @@
             "encodedId": "CgIwAA=="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "none"
       ]
     },
     "com.tapbots.Tweetbot.tweet": {
@@ -16471,6 +17432,10 @@
             "encodedId": "CgIwAA=="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "string"
       ]
     },
     "is.workflow.actions.evernote.append": {
@@ -16550,6 +17515,10 @@
             "encodedId": "Ek4KE2NvbS5hcHBsZS5zaG9ydGN1dHMSN2lzLndvcmtmbG93LmFjdGlvbnMuZXZlcm5vdGUuYXBwZW5kLldGRXZlcm5vdGVXcml0ZU1vZGU="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "com.apple.shortcuts.Evernotenote"
       ]
     },
     "is.workflow.actions.addnewcalendar": {
@@ -16595,6 +17564,10 @@
             "encodedId": "CgIwAA=="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "string"
       ]
     },
     "is.workflow.actions.removefromalbum": {
@@ -16656,6 +17629,10 @@
             "encodedId": "EkIKE2NvbS5hcHBsZS5zaG9ydGN1dHMSK2lzLndvcmtmbG93LmFjdGlvbnMucmVtb3ZlZnJvbWFsYnVtLldGSW5wdXQ="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "file"
       ]
     },
     "is.workflow.actions.delay": {
@@ -16701,6 +17678,10 @@
             "encodedId": "CgIgAA=="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "none"
       ]
     },
     "com.omnigroup.OmniFocus2.iPhone.newitem": {
@@ -16899,6 +17880,10 @@
             "encodedId": "CgIwAA=="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "url"
       ]
     },
     "is.workflow.actions.wallpaper.set": {
@@ -17027,6 +18012,10 @@
             "encodedId": "CgIQAA=="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "com.apple.shortcuts.Wallpaper"
       ]
     },
     "com.guidedways.2Do.add": {
@@ -17310,6 +18299,10 @@
             "encodedId": "CgIwAA=="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "none"
       ]
     },
     "is.workflow.actions.address": {
@@ -17440,6 +18433,10 @@
             "encodedId": "CgIwAA=="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "placemark"
       ]
     },
     "is.workflow.actions.appendvariable": {
@@ -17485,6 +18482,10 @@
             "encodedId": "EkEKE2NvbS5hcHBsZS5zaG9ydGN1dHMSKmlzLndvcmtmbG93LmFjdGlvbnMuYXBwZW5kdmFyaWFibGUuV0ZJbnB1dA=="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "com.apple.shortcuts.Anything"
       ]
     },
     "is.workflow.actions.setvalueforkey": {
@@ -17564,6 +18565,10 @@
             "encodedId": "EkYKE2NvbS5hcHBsZS5zaG9ydGN1dHMSL2lzLndvcmtmbG93LmFjdGlvbnMuc2V0dmFsdWVmb3JrZXkuV0ZEaWN0aW9uYXJ5"
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "file"
       ]
     },
     "is.workflow.actions.count": {
@@ -17626,6 +18631,10 @@
             "encodedId": "EjYKE2NvbS5hcHBsZS5zaG9ydGN1dHMSH2lzLndvcmtmbG93LmFjdGlvbnMuY291bnQuSW5wdXQ="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "number"
       ]
     },
     "is.workflow.actions.properties.calendarevents": {
@@ -17688,6 +18697,18 @@
             "encodedId": "EkwKE2NvbS5hcHBsZS5zaG9ydGN1dHMSNWlzLndvcmtmbG93LmFjdGlvbnMucHJvcGVydGllcy5jYWxlbmRhcmV2ZW50cy5XRklucHV0"
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "url",
+        "com.apple.shortcuts.Filesize",
+        "com.apple.shortcuts.Timeinterval",
+        "com.apple.shortcuts.Eventattendee",
+        "number",
+        "file",
+        "date",
+        "bool",
+        "string"
       ]
     },
     "is.workflow.actions.makepdf": {
@@ -17835,6 +18856,10 @@
             "encodedId": "Ek0KE2NvbS5hcHBsZS5zaG9ydGN1dHMSNmlzLndvcmtmbG93LmFjdGlvbnMubWFrZXBkZi5XRlBERkRvY3VtZW50TWVyZ2VCZWhhdmlvcg=="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "file"
       ]
     },
     "is.workflow.actions.openpasswords": {
@@ -17879,6 +18904,10 @@
             "encodedId": "CgIwAA=="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "none"
       ]
     },
     "is.workflow.actions.url.getheaders": {
@@ -17924,6 +18953,10 @@
             "encodedId": "CgIwAA=="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "file"
       ]
     },
     "is.workflow.actions.getlatestphotoimport": {
@@ -17950,7 +18983,11 @@
       },
       "outputTypeInstance": "EgkSBwoFCgOIAQA=",
       "customIcon": null,
-      "arguments": []
+      "arguments": [],
+      "notes": null,
+      "outputTypes": [
+        "file"
+      ]
     },
     "is.workflow.actions.splitscreen": {
       "rowId": 409,
@@ -18028,6 +19065,10 @@
             "encodedId": "EkEKE2NvbS5hcHBsZS5zaG9ydGN1dHMSKmlzLndvcmtmbG93LmFjdGlvbnMuc3BsaXRzY3JlZW4uV0ZBcHBSYXRpbw=="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "none"
       ]
     },
     "is.workflow.actions.airdropdocument": {
@@ -18072,6 +19113,10 @@
             "encodedId": "EkIKE2NvbS5hcHBsZS5zaG9ydGN1dHMSK2lzLndvcmtmbG93LmFjdGlvbnMuYWlyZHJvcGRvY3VtZW50LldGSW5wdXQ="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "com.apple.shortcuts.Anything"
       ]
     },
     "is.workflow.actions.setitemname": {
@@ -18151,6 +19196,10 @@
             "encodedId": "Ej4KE2NvbS5hcHBsZS5zaG9ydGN1dHMSJ2lzLndvcmtmbG93LmFjdGlvbnMuc2V0aXRlbW5hbWUuV0ZJbnB1dA=="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "com.apple.shortcuts.Anything"
       ]
     },
     "is.workflow.actions.todoist.add": {
@@ -18315,6 +19364,10 @@
             "encodedId": "EkQKE2NvbS5hcHBsZS5zaG9ydGN1dHMSLWlzLndvcmtmbG93LmFjdGlvbnMudG9kb2lzdC5hZGQuV0ZUb2RvaXN0RmlsZQ=="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "url"
       ]
     },
     "is.workflow.actions.detect.number": {
@@ -18360,6 +19413,10 @@
             "encodedId": "CgIgAA=="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "number"
       ]
     },
     "is.workflow.actions.detect.images": {
@@ -18405,6 +19462,10 @@
             "encodedId": "EkAKE2NvbS5hcHBsZS5zaG9ydGN1dHMSKWlzLndvcmtmbG93LmFjdGlvbnMuZGV0ZWN0LmltYWdlcy5XRklucHV0"
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "file"
       ]
     },
     "is.workflow.actions.evernote.getlink": {
@@ -18467,6 +19528,10 @@
             "encodedId": "EkMKE2NvbS5hcHBsZS5zaG9ydGN1dHMSLGlzLndvcmtmbG93LmFjdGlvbnMuZXZlcm5vdGUuZ2V0bGluay5XRklucHV0"
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "url"
       ]
     },
     "is.workflow.actions.tweet": {
@@ -18512,6 +19577,10 @@
             "encodedId": "CgIwAA=="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "none"
       ]
     },
     "is.workflow.actions.evernote.delete": {
@@ -18557,6 +19626,10 @@
             "encodedId": "EkIKE2NvbS5hcHBsZS5zaG9ydGN1dHMSK2lzLndvcmtmbG93LmFjdGlvbnMuZXZlcm5vdGUuZGVsZXRlLldGSW5wdXQ="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "none"
       ]
     },
     "is.workflow.actions.postonfacebook": {
@@ -18601,6 +19674,10 @@
             "encodedId": "EkkKE2NvbS5hcHBsZS5zaG9ydGN1dHMSMmlzLndvcmtmbG93LmFjdGlvbnMucG9zdG9uZmFjZWJvb2suRmFjZWJvb2tDb250ZW50"
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "none"
       ]
     },
     "is.workflow.actions.dictionary": {
@@ -18646,6 +19723,13 @@
             "encodedId": "CgJQAA=="
           }
         }
+      ],
+      "notes": [
+        "Provide dictionary data via the `WFItems` parameter. When building shortcuts with `js-to-shortcut`, call `serialization.dictionary({ key: value })` and assign the result to `WFItems` (for example: `action('is.workflow.actions.dictionary', { WFItems: serialization.dictionary({ name: 'Value' }) })`).",
+        "Each entry is stored as a `WFDictionaryFieldValueItem` with an inferred `WFItemType` \u2014 strings map to type 0, objects to 1, arrays to 2, numbers to 3, and booleans to 4. The serialization helper handles these conversions automatically."
+      ],
+      "outputTypes": [
+        "file"
       ]
     },
     "com.boonbits.captio.sendnote": {
@@ -18690,6 +19774,10 @@
             "encodedId": "CgIwAA=="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "none"
       ]
     },
     "is.workflow.actions.format.date": {
@@ -18837,6 +19925,10 @@
             "encodedId": "Ej8KE2NvbS5hcHBsZS5zaG9ydGN1dHMSKGlzLndvcmtmbG93LmFjdGlvbnMuZm9ybWF0LmRhdGUuV0ZMb2NhbGU="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "string"
       ]
     },
     "is.workflow.actions.takephoto": {
@@ -18914,6 +20006,10 @@
             "encodedId": "EkoKE2NvbS5hcHBsZS5zaG9ydGN1dHMSM2lzLndvcmtmbG93LmFjdGlvbnMudGFrZXBob3RvLldGQ2FtZXJhQ2FwdHVyZURldmljZQ=="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "file"
       ]
     },
     "is.workflow.actions.unzip": {
@@ -18959,6 +20055,10 @@
             "encodedId": "EjoKE2NvbS5hcHBsZS5zaG9ydGN1dHMSI2lzLndvcmtmbG93LmFjdGlvbnMudW56aXAuV0ZBcmNoaXZl"
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "file"
       ]
     },
     "is.workflow.actions.properties.reminders": {
@@ -19021,6 +20121,10 @@
             "encodedId": "EkcKE2NvbS5hcHBsZS5zaG9ydGN1dHMSMGlzLndvcmtmbG93LmFjdGlvbnMucHJvcGVydGllcy5yZW1pbmRlcnMuV0ZJbnB1dA=="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "string"
       ]
     },
     "com.omz-software.Editorial.runworkflow": {
@@ -19099,6 +20203,10 @@
             "encodedId": "CgIQAA=="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "string"
       ]
     },
     "com.soulmen.ulysses.pad.new-group": {
@@ -19178,6 +20286,10 @@
             "encodedId": "CgIQAA=="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "string"
       ]
     },
     "com.tapbots.Tweetbot.searchtext": {
@@ -19240,6 +20352,10 @@
             "encodedId": "CgIwAA=="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "none"
       ]
     },
     "is.workflow.actions.setters.contacts": {
@@ -19693,6 +20809,10 @@
             "encodedId": "CgIwAA=="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "person"
       ]
     },
     "is.workflow.actions.vpn.set": {
@@ -19770,6 +20890,10 @@
             "encodedId": "GgJwAA=="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "none"
       ]
     },
     "is.workflow.actions.file.label": {
@@ -19827,6 +20951,10 @@
             "encodedId": "EkgKE2NvbS5hcHBsZS5zaG9ydGN1dHMSMWlzLndvcmtmbG93LmFjdGlvbnMuZmlsZS5sYWJlbC5XRkxhYmVsQ29sb3JOdW1iZXI="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "none"
       ]
     },
     "is.workflow.actions.trello.add.card": {
@@ -19974,6 +21102,10 @@
             "encodedId": "CgIwAA=="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "com.apple.shortcuts.Trellocard"
       ]
     },
     "is.workflow.actions.properties.itunesstore": {
@@ -20036,6 +21168,17 @@
             "encodedId": "EkkKE2NvbS5hcHBsZS5zaG9ydGN1dHMSMmlzLndvcmtmbG93LmFjdGlvbnMucHJvcGVydGllcy5pdHVuZXNzdG9yZS5XRklucHV0"
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "com.apple.shortcuts.iTunesartist",
+        "com.apple.shortcuts.Timeinterval",
+        "file",
+        "date",
+        "number",
+        "bool",
+        "url",
+        "string"
       ]
     },
     "com.tijo.opener.Opener.show-options": {
@@ -20080,6 +21223,10 @@
             "encodedId": "CgIwAA=="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "url"
       ]
     },
     "com.soulmen.ulysses.pad.open": {
@@ -20159,6 +21306,10 @@
             "encodedId": "CgIwAA=="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "none"
       ]
     },
     "is.workflow.actions.selectphone": {
@@ -20186,7 +21337,11 @@
       },
       "outputTypeInstance": "EigSJgokEiIKE2NvbS5hcHBsZS5zaG9ydGN1dHMSC1Bob25lbnVtYmVy",
       "customIcon": "EhoKCnBob25lLmZpbGwaBVdoaXRlIgVHcmVlbg==",
-      "arguments": []
+      "arguments": [],
+      "notes": null,
+      "outputTypes": [
+        "com.apple.shortcuts.Phonenumber"
+      ]
     },
     "com.culturedcode.ThingsTouch.addtask": {
       "rowId": 452,
@@ -20384,6 +21539,10 @@
             "encodedId": "CgIwAA=="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "string"
       ]
     },
     "is.workflow.actions.trello.add.list": {
@@ -20463,6 +21622,10 @@
             "encodedId": "EksKE2NvbS5hcHBsZS5zaG9ydGN1dHMSNGlzLndvcmtmbG93LmFjdGlvbnMudHJlbGxvLmFkZC5saXN0LldGVHJlbGxvUG9zaXRpb24="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "com.apple.shortcuts.Trellolist"
       ]
     },
     "is.workflow.actions.getvariable": {
@@ -20508,6 +21671,10 @@
             "encodedId": "EkEKE2NvbS5hcHBsZS5zaG9ydGN1dHMSKmlzLndvcmtmbG93LmFjdGlvbnMuZ2V0dmFyaWFibGUuV0ZWYXJpYWJsZQ=="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "com.apple.shortcuts.Anything"
       ]
     },
     "com.panic.iOS.Transmit.Share": {
@@ -20587,6 +21754,10 @@
             "encodedId": "CgIwAA=="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "none"
       ]
     },
     "is.workflow.actions.evernote.get": {
@@ -20649,6 +21820,10 @@
             "encodedId": "CgIgAA=="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "com.apple.shortcuts.Evernotenote"
       ]
     },
     "is.workflow.actions.text.translate": {
@@ -20727,6 +21902,10 @@
             "encodedId": "CgIwAA=="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "string"
       ]
     },
     "is.workflow.actions.setairdropreceiving": {
@@ -20771,6 +21950,10 @@
             "encodedId": "Ek0KE2NvbS5hcHBsZS5zaG9ydGN1dHMSNmlzLndvcmtmbG93LmFjdGlvbnMuc2V0YWlyZHJvcHJlY2VpdmluZy5XRkFpckRyb3BTdGF0ZQ=="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "none"
       ]
     },
     "is.workflow.actions.health.quantity.log": {
@@ -20797,7 +21980,11 @@
       },
       "outputTypeInstance": "CgQKAggA",
       "customIcon": "CgZIZWFsdGg=",
-      "arguments": []
+      "arguments": [],
+      "notes": null,
+      "outputTypes": [
+        "none"
+      ]
     },
     "is.workflow.actions.extracttextfromimage": {
       "rowId": 469,
@@ -20841,6 +22028,10 @@
             "encodedId": "EkcKE2NvbS5hcHBsZS5zaG9ydGN1dHMSMGlzLndvcmtmbG93LmFjdGlvbnMuZXh0cmFjdHRleHRmcm9taW1hZ2UuV0ZJbWFnZQ=="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "string"
       ]
     },
     "is.workflow.actions.runshellscript": {
@@ -20949,6 +22140,11 @@
             "encodedId": "CgIQAA=="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "string",
+        "file"
       ]
     },
     "com.squibner.Blink.convert": {
@@ -20976,7 +22172,12 @@
       },
       "outputTypeInstance": "IhAKBgoECgJIAAoGCgQKAjAA",
       "customIcon": null,
-      "arguments": []
+      "arguments": [],
+      "notes": null,
+      "outputTypes": [
+        "url",
+        "string"
+      ]
     },
     "is.workflow.actions.nothing": {
       "rowId": 476,
@@ -21003,7 +22204,11 @@
       },
       "outputTypeInstance": "CiESHwoTY29tLmFwcGxlLnNob3J0Y3V0cxIIQW55dGhpbmc=",
       "customIcon": "Eh0KDXNxdWFyZS5kYXNoZWQaBUxhYmVsIgVDbGVhcg==",
-      "arguments": []
+      "arguments": [],
+      "notes": null,
+      "outputTypes": [
+        "com.apple.shortcuts.Anything"
+      ]
     },
     "is.workflow.actions.readinglist": {
       "rowId": 477,
@@ -21048,6 +22253,10 @@
             "encodedId": "CgIwAA=="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "url"
       ]
     },
     "is.workflow.actions.addnewreminder": {
@@ -21314,6 +22523,10 @@
             "encodedId": "CgIwAA=="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "file"
       ]
     },
     "is.workflow.actions.urlencode": {
@@ -21376,6 +22589,10 @@
             "encodedId": "CgIwAA=="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "string"
       ]
     },
     "is.workflow.actions.number.random": {
@@ -21438,6 +22655,10 @@
             "encodedId": "CgIgAA=="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "number"
       ]
     },
     "is.workflow.actions.getlatestlivephotos": {
@@ -21482,6 +22703,10 @@
             "encodedId": "CgIgAA=="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "file"
       ]
     },
     "com.agiletortoise.Drafts4.runAction": {
@@ -21561,6 +22786,10 @@
             "encodedId": "CgIwAA=="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "string"
       ]
     },
     "is.workflow.actions.pocket.get": {
@@ -21657,6 +22886,10 @@
             "encodedId": "CgIwAA=="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "url"
       ]
     },
     "com.agiletortoise.Drafts4.addto": {
@@ -21821,6 +23054,10 @@
             "encodedId": "EkkKE2NvbS5hcHBsZS5zaG9ydGN1dHMSMmNvbS5hZ2lsZXRvcnRvaXNlLkRyYWZ0czQuYWRkdG8uRHJhZnRzQWZ0ZXJTdWNjZXNz"
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "string"
       ]
     },
     "is.workflow.actions.math": {
@@ -21934,6 +23171,10 @@
             "encodedId": "CgIgAA=="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "number"
       ]
     },
     "is.workflow.actions.getclassaction": {
@@ -21996,6 +23237,10 @@
             "encodedId": "Ej8KE2NvbS5hcHBsZS5zaG9ydGN1dHMSKGlzLndvcmtmbG93LmFjdGlvbnMuZ2V0Y2xhc3NhY3Rpb24uSW5wdXQ="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "com.apple.shortcuts.Anything"
       ]
     },
     "is.workflow.actions.filter.eventattendees": {
@@ -22143,6 +23388,10 @@
             "encodedId": "ElwKE2NvbS5hcHBsZS5zaG9ydGN1dHMSRWlzLndvcmtmbG93LmFjdGlvbnMuZmlsdGVyLmV2ZW50YXR0ZW5kZWVzLldGQ29udGVudEl0ZW1JbnB1dFBhcmFtZXRlcg=="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "com.apple.shortcuts.Eventattendee"
       ]
     },
     "is.workflow.actions.file.rename": {
@@ -22205,6 +23454,10 @@
             "encodedId": "CgIwAA=="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "file"
       ]
     },
     "is.workflow.actions.properties.locations": {
@@ -22267,6 +23520,13 @@
             "encodedId": "EkcKE2NvbS5hcHBsZS5zaG9ydGN1dHMSMGlzLndvcmtmbG93LmFjdGlvbnMucHJvcGVydGllcy5sb2NhdGlvbnMuV0ZJbnB1dA=="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "string",
+        "number",
+        "com.apple.shortcuts.Phonenumber",
+        "url"
       ]
     },
     "is.workflow.actions.safari.geturl": {
@@ -22289,7 +23549,11 @@
       },
       "outputTypeInstance": "CiYSJAoTY29tLmFwcGxlLnNob3J0Y3V0cxINU2FmYXJpd2VicGFnZQ==",
       "customIcon": null,
-      "arguments": []
+      "arguments": [],
+      "notes": null,
+      "outputTypes": [
+        "com.apple.shortcuts.Safariwebpage"
+      ]
     },
     "is.workflow.actions.base64encode": {
       "rowId": 505,
@@ -22368,6 +23632,10 @@
             "encodedId": "Ej8KE2NvbS5hcHBsZS5zaG9ydGN1dHMSKGlzLndvcmtmbG93LmFjdGlvbnMuYmFzZTY0ZW5jb2RlLldGSW5wdXQ="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "string"
       ]
     },
     "ph.telegra.Telegraph.msg": {
@@ -22413,6 +23681,10 @@
             "encodedId": "CgOAAQA="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "string"
       ]
     },
     "is.workflow.actions.detect.emailaddress": {
@@ -22458,6 +23730,10 @@
             "encodedId": "CgIwAA=="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "com.apple.shortcuts.Emailaddress"
       ]
     },
     "is.workflow.actions.detect.address": {
@@ -22503,6 +23779,10 @@
             "encodedId": "EkEKE2NvbS5hcHBsZS5zaG9ydGN1dHMSKmlzLndvcmtmbG93LmFjdGlvbnMuZGV0ZWN0LmFkZHJlc3MuV0ZJbnB1dA=="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "placemark"
       ]
     },
     "is.workflow.actions.setclipboard": {
@@ -22582,6 +23862,10 @@
             "encodedId": "Ej8KE2NvbS5hcHBsZS5zaG9ydGN1dHMSKGlzLndvcmtmbG93LmFjdGlvbnMuc2V0Y2xpcGJvYXJkLldGSW5wdXQ="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "com.apple.shortcuts.Anything"
       ]
     },
     "is.workflow.actions.instapaper.add": {
@@ -22643,6 +23927,10 @@
             "encodedId": "CgIwAA=="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "url"
       ]
     },
     "is.workflow.actions.getarticle": {
@@ -22688,6 +23976,10 @@
             "encodedId": "CgIwAA=="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "com.apple.shortcuts.Article"
       ]
     },
     "com.potionfactory.TheHitListMobile.tasks": {
@@ -22852,6 +24144,10 @@
             "encodedId": "EksKE2NvbS5hcHBsZS5zaG9ydGN1dHMSNGNvbS5wb3Rpb25mYWN0b3J5LlRoZUhpdExpc3RNb2JpbGUudGFza3MudGhsUHJpb3JpdHk="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "none"
       ]
     },
     "com.realmacsoftware.clear.createtask": {
@@ -22930,6 +24226,10 @@
             "encodedId": "CgIgAA=="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "none"
       ]
     },
     "is.workflow.actions.detect.contacts": {
@@ -22975,6 +24275,10 @@
             "encodedId": "EkIKE2NvbS5hcHBsZS5zaG9ydGN1dHMSK2lzLndvcmtmbG93LmFjdGlvbnMuZGV0ZWN0LmNvbnRhY3RzLldGSW5wdXQ="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "person"
       ]
     },
     "com.google.chrome.ios.openurl": {
@@ -23020,6 +24324,10 @@
             "encodedId": "CgIwAA=="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "url"
       ]
     },
     "is.workflow.actions.file.createfolder": {
@@ -23082,6 +24390,10 @@
             "encodedId": "CgOIAQA="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "file"
       ]
     },
     "is.workflow.actions.addmusictoupnext": {
@@ -23143,6 +24455,11 @@
             "encodedId": "EkMKE2NvbS5hcHBsZS5zaG9ydGN1dHMSLGlzLndvcmtmbG93LmFjdGlvbnMuYWRkbXVzaWN0b3VwbmV4dC5XRk11c2lj"
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "file",
+        "com.apple.shortcuts.iTunesproduct"
       ]
     },
     "is.workflow.actions.notification": {
@@ -23239,6 +24556,24 @@
             "encodedId": "Ej8KE2NvbS5hcHBsZS5zaG9ydGN1dHMSKGlzLndvcmtmbG93LmFjdGlvbnMubm90aWZpY2F0aW9uLldGSW5wdXQ="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "com.apple.shortcuts.Article",
+        "com.apple.shortcuts.Window",
+        "com.apple.shortcuts.Wallpaper",
+        "com.apple.shortcuts.Podcastepisode",
+        "person",
+        "com.apple.shortcuts.iTunesartist",
+        "com.apple.shortcuts.Display",
+        "app",
+        "placemark",
+        "com.apple.shortcuts.iTunesproduct",
+        "com.apple.shortcuts.Shazammedia",
+        "com.apple.shortcuts.Focus",
+        "com.apple.shortcuts.Podcast",
+        "file",
+        "com.apple.shortcuts.Evernotenote"
       ]
     },
     "is.workflow.actions.getlastphoto": {
@@ -23300,6 +24635,10 @@
             "encodedId": "CgIQAA=="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "file"
       ]
     },
     "is.workflow.actions.openxcallbackurl": {
@@ -23447,6 +24786,11 @@
             "encodedId": "CgIwAA=="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "file",
+        "string"
       ]
     },
     "is.workflow.actions.getwifi": {
@@ -23526,6 +24870,10 @@
             "encodedId": "EkMKE2NvbS5hcHBsZS5zaG9ydGN1dHMSLGlzLndvcmtmbG93LmFjdGlvbnMuZ2V0d2lmaS5XRkNlbGx1bGFyRGV0YWls"
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "string"
       ]
     },
     "is.workflow.actions.setplaybackdestination": {
@@ -23587,6 +24935,10 @@
             "encodedId": "GgJAAA=="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "none"
       ]
     },
     "is.workflow.actions.trello.add.board": {
@@ -23649,6 +25001,10 @@
             "encodedId": "CgIwAA=="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "com.apple.shortcuts.Trelloboard"
       ]
     },
     "is.workflow.actions.finder.getselectedfiles": {
@@ -23671,7 +25027,11 @@
       },
       "outputTypeInstance": "EgkSBwoFCgOIAQA=",
       "customIcon": null,
-      "arguments": []
+      "arguments": [],
+      "notes": null,
+      "outputTypes": [
+        "file"
+      ]
     },
     "is.workflow.actions.output": {
       "rowId": 541,
@@ -23750,6 +25110,10 @@
             "encodedId": "CgIwAA=="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "string"
       ]
     },
     "is.workflow.actions.gettypeaction": {
@@ -23812,6 +25176,10 @@
             "encodedId": "EkAKE2NvbS5hcHBsZS5zaG9ydGN1dHMSKWlzLndvcmtmbG93LmFjdGlvbnMuZ2V0dHlwZWFjdGlvbi5XRklucHV0"
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "file"
       ]
     },
     "is.workflow.actions.reboot": {
@@ -23856,6 +25224,10 @@
             "encodedId": "EkAKE2NvbS5hcHBsZS5zaG9ydGN1dHMSKWlzLndvcmtmbG93LmFjdGlvbnMucmVib290LldGU2h1dGRvd25Nb2Rl"
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "none"
       ]
     },
     "is.workflow.actions.getmapslink": {
@@ -23901,6 +25273,10 @@
             "encodedId": "Ej4KE2NvbS5hcHBsZS5zaG9ydGN1dHMSJ2lzLndvcmtmbG93LmFjdGlvbnMuZ2V0bWFwc2xpbmsuV0ZJbnB1dA=="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "url"
       ]
     },
     "is.workflow.actions.lock.app": {
@@ -23960,6 +25336,10 @@
             "encodedId": "GgIIAA=="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "none"
       ]
     },
     "is.workflow.actions.trimvideo": {
@@ -24005,6 +25385,10 @@
             "encodedId": "EkEKE2NvbS5hcHBsZS5zaG9ydGN1dHMSKmlzLndvcmtmbG93LmFjdGlvbnMudHJpbXZpZGVvLldGSW5wdXRNZWRpYQ=="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "file"
       ]
     },
     "is.workflow.actions.detect.date": {
@@ -24050,6 +25434,10 @@
             "encodedId": "Ej4KE2NvbS5hcHBsZS5zaG9ydGN1dHMSJ2lzLndvcmtmbG93LmFjdGlvbnMuZGV0ZWN0LmRhdGUuV0ZJbnB1dA=="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "date"
       ]
     },
     "is.workflow.actions.addframetogif": {
@@ -24180,6 +25568,10 @@
             "encodedId": "CgIgAA=="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "file"
       ]
     },
     "is.workflow.actions.speaktext": {
@@ -24310,6 +25702,10 @@
             "encodedId": "CgIwAA=="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "string"
       ]
     },
     "is.workflow.actions.showincalendar": {
@@ -24355,6 +25751,12 @@
             "encodedId": "EkEKE2NvbS5hcHBsZS5zaG9ydGN1dHMSKmlzLndvcmtmbG93LmFjdGlvbnMuc2hvd2luY2FsZW5kYXIuV0ZFdmVudA=="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "com.apple.shortcuts.Timeinterval",
+        "file",
+        "date"
       ]
     },
     "is.workflow.actions.getlatestbursts": {
@@ -24399,6 +25801,10 @@
             "encodedId": "CgIgAA=="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "file"
       ]
     },
     "is.workflow.actions.number": {
@@ -24444,6 +25850,10 @@
             "encodedId": "CgIgAA=="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "number"
       ]
     },
     "is.workflow.actions.filter.calendarevents": {
@@ -24591,6 +26001,10 @@
             "encodedId": "ElwKE2NvbS5hcHBsZS5zaG9ydGN1dHMSRWlzLndvcmtmbG93LmFjdGlvbnMuZmlsdGVyLmNhbGVuZGFyZXZlbnRzLldGQ29udGVudEl0ZW1JbnB1dFBhcmFtZXRlcg=="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "file"
       ]
     },
     "is.workflow.actions.file.move": {
@@ -24670,6 +26084,10 @@
             "encodedId": "CgIQAA=="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "file"
       ]
     },
     "com.outerspaceapps.itranslate.translate": {
@@ -24748,6 +26166,10 @@
             "encodedId": "EkkKE2NvbS5hcHBsZS5zaG9ydGN1dHMSMmNvbS5vdXRlcnNwYWNlYXBwcy5pdHJhbnNsYXRlLnRyYW5zbGF0ZS5Ub0xhbmd1YWdl"
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "string"
       ]
     },
     "is.workflow.actions.filter.windows": {
@@ -24890,6 +26312,10 @@
             "encodedId": "ElUKE2NvbS5hcHBsZS5zaG9ydGN1dHMSPmlzLndvcmtmbG93LmFjdGlvbnMuZmlsdGVyLndpbmRvd3MuV0ZDb250ZW50SXRlbUlucHV0UGFyYW1ldGVy"
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "com.apple.shortcuts.Window"
       ]
     },
     "is.workflow.actions.properties.appstore": {
@@ -24952,6 +26378,17 @@
             "encodedId": "EkYKE2NvbS5hcHBsZS5zaG9ydGN1dHMSL2lzLndvcmtmbG93LmFjdGlvbnMucHJvcGVydGllcy5hcHBzdG9yZS5XRklucHV0"
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "number",
+        "com.apple.shortcuts.iTunesartist",
+        "date",
+        "string",
+        "bool",
+        "file",
+        "url",
+        "com.apple.shortcuts.Filesize"
       ]
     },
     "is.workflow.actions.hide.app": {
@@ -25009,6 +26446,10 @@
             "encodedId": "GgIIAA=="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "none"
       ]
     },
     "is.workflow.actions.getmarkdownfromrichtext": {
@@ -25054,6 +26495,10 @@
             "encodedId": "EkoKE2NvbS5hcHBsZS5zaG9ydGN1dHMSM2lzLndvcmtmbG93LmFjdGlvbnMuZ2V0bWFya2Rvd25mcm9tcmljaHRleHQuV0ZJbnB1dA=="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "string"
       ]
     },
     "is.workflow.actions.pocket.add": {
@@ -25116,6 +26561,10 @@
             "encodedId": "CgIwAA=="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "url"
       ]
     },
     "is.workflow.actions.exportsong": {
@@ -25159,6 +26608,10 @@
             "encodedId": "CgIQAA=="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "file"
       ]
     },
     "com.apple.mobileslideshow.StreamShareService": {
@@ -25202,6 +26655,10 @@
             "encodedId": "Ek4KE2NvbS5hcHBsZS5zaG9ydGN1dHMSN2NvbS5hcHBsZS5tb2JpbGVzbGlkZXNob3cuU3RyZWFtU2hhcmVTZXJ2aWNlLkltYWdlSW5wdXQ="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "none"
       ]
     },
     "is.workflow.actions.showresult": {
@@ -25247,6 +26704,12 @@
             "encodedId": "CgIwAA=="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "file",
+        "placemark",
+        "string"
       ]
     },
     "is.workflow.actions.gettextfrompdf": {
@@ -25360,6 +26823,11 @@
             "encodedId": "CgIQAA=="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "file",
+        "string"
       ]
     },
     "is.workflow.actions.shazamMedia": {
@@ -25422,6 +26890,10 @@
             "encodedId": "CgIQAA=="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "com.apple.shortcuts.Shazammedia"
       ]
     },
     "is.workflow.actions.getdirections": {
@@ -25518,6 +26990,17 @@
             "encodedId": "CgIwAA=="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "placemark",
+        "com.apple.shortcuts.Place",
+        "file",
+        "com.apple.shortcuts.Mapslink",
+        "com.apple.shortcuts.WeatherConditions",
+        "com.apple.shortcuts.ParkedCar",
+        "string",
+        "person"
       ]
     },
     "is.workflow.actions.removeevents": {
@@ -25580,6 +27063,10 @@
             "encodedId": "EkUKE2NvbS5hcHBsZS5zaG9ydGN1dHMSLmlzLndvcmtmbG93LmFjdGlvbnMucmVtb3ZlZXZlbnRzLldGSW5wdXRFdmVudHM="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "none"
       ]
     },
     "is.workflow.actions.makediskimage": {
@@ -25688,6 +27175,10 @@
             "encodedId": "CgJgFA=="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "file"
       ]
     },
     "is.workflow.actions.ejectdisk": {
@@ -25728,6 +27219,10 @@
             "encodedId": "CgOIAQA="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "none"
       ]
     },
     "is.workflow.actions.rss": {
@@ -25790,6 +27285,11 @@
             "encodedId": "CgIgAA=="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "com.apple.shortcuts.Article",
+        "url"
       ]
     },
     "is.workflow.actions.makezip": {
@@ -25869,6 +27369,10 @@
             "encodedId": "EjoKE2NvbS5hcHBsZS5zaG9ydGN1dHMSI2lzLndvcmtmbG93LmFjdGlvbnMubWFrZXppcC5XRklucHV0"
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "file"
       ]
     },
     "is.workflow.actions.pausemusic": {
@@ -25931,6 +27435,10 @@
             "encodedId": "GgJAAA=="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "none"
       ]
     },
     "is.workflow.actions.documentpicker.open": {
@@ -26027,6 +27535,10 @@
             "encodedId": "CgIwAA=="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "file"
       ]
     },
     "com.flexibits.fantastical2.showinfantastical": {
@@ -26072,6 +27584,18 @@
             "encodedId": "CgI4AA=="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "com.apple.shortcuts.Timeinterval",
+        "string",
+        "com.apple.shortcuts.Article",
+        "file",
+        "person",
+        "com.apple.shortcuts.WeatherConditions",
+        "date",
+        "com.apple.shortcuts.ParkedCar",
+        "com.apple.shortcuts.Trellocard"
       ]
     },
     "is.workflow.actions.contacts": {
@@ -26117,6 +27641,10 @@
             "encodedId": "CgOAAQA="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "person"
       ]
     },
     "is.workflow.actions.downloadurl": {
@@ -26264,6 +27792,10 @@
             "encodedId": "EkgKE2NvbS5hcHBsZS5zaG9ydGN1dHMSMWlzLndvcmtmbG93LmFjdGlvbnMuZG93bmxvYWR1cmwuV0ZSZXF1ZXN0VmFyaWFibGU="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "file"
       ]
     },
     "is.workflow.actions.posters.switch": {
@@ -26289,7 +27821,11 @@
       },
       "outputTypeInstance": "CgQKAggA",
       "customIcon": "CglXYWxscGFwZXI=",
-      "arguments": []
+      "arguments": [],
+      "notes": null,
+      "outputTypes": [
+        "none"
+      ]
     },
     "fm.overcast.overcast.add": {
       "rowId": 621,
@@ -26315,7 +27851,11 @@
       },
       "outputTypeInstance": "CgQKAkgA",
       "customIcon": null,
-      "arguments": []
+      "arguments": [],
+      "notes": null,
+      "outputTypes": [
+        "url"
+      ]
     },
     "is.workflow.actions.properties.appearance": {
       "rowId": 623,
@@ -26377,6 +27917,12 @@
             "encodedId": "EkgKE2NvbS5hcHBsZS5zaG9ydGN1dHMSMWlzLndvcmtmbG93LmFjdGlvbnMucHJvcGVydGllcy5hcHBlYXJhbmNlLldGSW5wdXQ="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "bool",
+        "com.apple.shortcuts.Appearance",
+        "string"
       ]
     },
     "desktop.WhatsApp.openin": {
@@ -26422,6 +27968,10 @@
             "encodedId": "EjwKE2NvbS5hcHBsZS5zaG9ydGN1dHMSJWRlc2t0b3AuV2hhdHNBcHAub3BlbmluLldoYXRzQXBwSW5wdXQ="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "file"
       ]
     },
     "is.workflow.actions.runjavascriptforautomation": {
@@ -26462,6 +28012,13 @@
             "encodedId": "EksKE2NvbS5hcHBsZS5zaG9ydGN1dHMSNGlzLndvcmtmbG93LmFjdGlvbnMucnVuamF2YXNjcmlwdGZvcmF1dG9tYXRpb24uSW5wdXQ="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "file",
+        "string",
+        "bool",
+        "number"
       ]
     },
     "net.shinyfrog.bear-IOS.open": {
@@ -26524,6 +28081,10 @@
             "encodedId": "CgIwAA=="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "none"
       ]
     },
     "is.workflow.actions.health.workout.log": {
@@ -26585,6 +28146,10 @@
             "encodedId": "CgJgBw=="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "none"
       ]
     },
     "is.workflow.actions.dropbox.savefile": {
@@ -26681,6 +28246,10 @@
             "encodedId": "EkMKE2NvbS5hcHBsZS5zaG9ydGN1dHMSLGlzLndvcmtmbG93LmFjdGlvbnMuZHJvcGJveC5zYXZlZmlsZS5XRklucHV0"
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "file"
       ]
     },
     "is.workflow.actions.filter.photos": {
@@ -26827,6 +28396,10 @@
             "encodedId": "ElQKE2NvbS5hcHBsZS5zaG9ydGN1dHMSPWlzLndvcmtmbG93LmFjdGlvbnMuZmlsdGVyLnBob3Rvcy5XRkNvbnRlbnRJdGVtSW5wdXRQYXJhbWV0ZXI="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "file"
       ]
     },
     "com.soulmen.ulysses.pad.read-sheet": {
@@ -26872,6 +28445,10 @@
             "encodedId": "CgIwAA=="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "com.apple.shortcuts.Ulyssessheet"
       ]
     },
     "is.workflow.actions.getframesfromimage": {
@@ -26917,6 +28494,10 @@
             "encodedId": "EkUKE2NvbS5hcHBsZS5zaG9ydGN1dHMSLmlzLndvcmtmbG93LmFjdGlvbnMuZ2V0ZnJhbWVzZnJvbWltYWdlLldGSW1hZ2U="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "file"
       ]
     },
     "com.realmacsoftware.clear.createlist": {
@@ -26978,6 +28559,10 @@
             "encodedId": "CgIgAA=="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "string"
       ]
     },
     "is.workflow.actions.deskconnect.send": {
@@ -27023,6 +28608,10 @@
             "encodedId": "EkMKE2NvbS5hcHBsZS5zaG9ydGN1dHMSLGlzLndvcmtmbG93LmFjdGlvbnMuZGVza2Nvbm5lY3Quc2VuZC5XRklucHV0"
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "none"
       ]
     },
     "is.workflow.actions.vibrate": {
@@ -27067,6 +28656,10 @@
             "encodedId": "EkYKE2NvbS5hcHBsZS5zaG9ydGN1dHMSL2lzLndvcmtmbG93LmFjdGlvbnMudmlicmF0ZS5XRlZpYnJhdGVIYXB0aWNUeXBl"
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "none"
       ]
     },
     "is.workflow.actions.getrichtextfrommarkdown": {
@@ -27112,6 +28705,10 @@
             "encodedId": "EkoKE2NvbS5hcHBsZS5zaG9ydGN1dHMSM2lzLndvcmtmbG93LmFjdGlvbnMuZ2V0cmljaHRleHRmcm9tbWFya2Rvd24uV0ZJbnB1dA=="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "file"
       ]
     },
     "is.workflow.actions.pinboard.add": {
@@ -27242,6 +28839,10 @@
             "encodedId": "CgIwAA=="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "url"
       ]
     },
     "is.workflow.actions.file": {
@@ -27287,6 +28888,10 @@
             "encodedId": "CgOIAQA="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "file"
       ]
     },
     "net.shinyfrog.bear-IOS.create": {
@@ -27383,6 +28988,10 @@
             "encodedId": "CgIQAA=="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "string"
       ]
     },
     "is.workflow.actions.filter.apps": {
@@ -27525,6 +29134,10 @@
             "encodedId": "ElIKE2NvbS5hcHBsZS5zaG9ydGN1dHMSO2lzLndvcmtmbG93LmFjdGlvbnMuZmlsdGVyLmFwcHMuV0ZDb250ZW50SXRlbUlucHV0UGFyYW1ldGVy"
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "app"
       ]
     },
     "is.workflow.actions.email": {
@@ -27570,6 +29183,10 @@
             "encodedId": "CgOAAQA="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "com.apple.shortcuts.Emailaddress"
       ]
     },
     "is.workflow.actions.properties.images": {
@@ -27632,6 +29249,17 @@
             "encodedId": "EkQKE2NvbS5hcHBsZS5zaG9ydGN1dHMSLWlzLndvcmtmbG93LmFjdGlvbnMucHJvcGVydGllcy5pbWFnZXMuV0ZJbnB1dA=="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "date",
+        "number",
+        "string",
+        "com.apple.shortcuts.Filesize",
+        "placemark",
+        "com.apple.shortcuts.Timeinterval",
+        "bool",
+        "file"
       ]
     },
     "net.shinyfrog.bear-IOS.search": {
@@ -27694,6 +29322,10 @@
             "encodedId": "CgIwAA=="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "none"
       ]
     },
     "is.workflow.actions.openapp": {
@@ -27774,6 +29406,10 @@
             "encodedId": "CgIQAA=="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "app"
       ]
     },
     "is.workflow.actions.image.mask": {
@@ -27870,6 +29506,10 @@
             "encodedId": "EkcKE2NvbS5hcHBsZS5zaG9ydGN1dHMSMGlzLndvcmtmbG93LmFjdGlvbnMuaW1hZ2UubWFzay5XRkN1c3RvbU1hc2tJbWFnZQ=="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "file"
       ]
     },
     "is.workflow.actions.getpodcastsfromlibrary": {
@@ -27897,7 +29537,11 @@
       },
       "outputTypeInstance": "EiQSIgogEh4KE2NvbS5hcHBsZS5zaG9ydGN1dHMSB1BvZGNhc3Q=",
       "customIcon": null,
-      "arguments": []
+      "arguments": [],
+      "notes": null,
+      "outputTypes": [
+        "com.apple.shortcuts.Podcast"
+      ]
     },
     "is.workflow.actions.runworkflow": {
       "rowId": 657,
@@ -27942,6 +29586,10 @@
             "encodedId": "Ej4KE2NvbS5hcHBsZS5zaG9ydGN1dHMSJ2lzLndvcmtmbG93LmFjdGlvbnMucnVud29ya2Zsb3cuV0ZJbnB1dA=="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "com.apple.shortcuts.Anything"
       ]
     },
     "is.workflow.actions.gethalfwaypoint": {
@@ -28004,6 +29652,10 @@
             "encodedId": "CgJ4AA=="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "placemark"
       ]
     },
     "is.workflow.actions.returntohomescreen": {
@@ -28030,7 +29682,11 @@
       },
       "outputTypeInstance": "CgQKAggA",
       "customIcon": "CgpIb21lU2NyZWVu",
-      "arguments": []
+      "arguments": [],
+      "notes": null,
+      "outputTypes": [
+        "none"
+      ]
     },
     "is.workflow.actions.getepisodesforpodcast": {
       "rowId": 662,
@@ -28075,6 +29731,10 @@
             "encodedId": "GgJQAA=="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "com.apple.shortcuts.Podcastepisode"
       ]
     },
     "is.workflow.actions.skipback": {
@@ -28137,6 +29797,10 @@
             "encodedId": "GgJAAA=="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "none"
       ]
     },
     "is.workflow.actions.filter.locations": {
@@ -28284,6 +29948,10 @@
             "encodedId": "ElcKE2NvbS5hcHBsZS5zaG9ydGN1dHMSQGlzLndvcmtmbG93LmFjdGlvbnMuZmlsdGVyLmxvY2F0aW9ucy5XRkNvbnRlbnRJdGVtSW5wdXRQYXJhbWV0ZXI="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "placemark"
       ]
     },
     "is.workflow.actions.date": {
@@ -28346,6 +30014,10 @@
             "encodedId": "CgI4AA=="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "date"
       ]
     },
     "is.workflow.actions.getupcomingreminders": {
@@ -28408,6 +30080,10 @@
             "encodedId": "CgIgAA=="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "file"
       ]
     },
     "net.shinyfrog.bear-IOS.add": {
@@ -28521,6 +30197,11 @@
             "encodedId": "CgIQAA=="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "file",
+        "string"
       ]
     },
     "com.flexibits.fantastical2.addreminder": {
@@ -28600,6 +30281,10 @@
             "encodedId": "CgIQAA=="
           }
         }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "string"
       ]
     },
     "is.workflow.actions.properties.weather.conditions": {
@@ -28660,6 +30345,104 @@
             "runtimeFlags": null,
             "runtimeRequirements": "",
             "encodedId": "ElAKE2NvbS5hcHBsZS5zaG9ydGN1dHMSOWlzLndvcmtmbG93LmFjdGlvbnMucHJvcGVydGllcy53ZWF0aGVyLmNvbmRpdGlvbnMuV0ZJbnB1dA=="
+          }
+        }
+      ],
+      "notes": null,
+      "outputTypes": [
+        "genericMeasurement",
+        "placemark",
+        "date",
+        "string",
+        "number",
+        "com.apple.shortcuts.AirPollutant"
+      ]
+    },
+    "is.workflow.actions.conditional": {
+      "rowId": -1000,
+      "name": "If",
+      "description": "Branch your shortcut based on whether the supplied input matches a condition. Use WFControlFlowMode = 0 for If, 1 for Otherwise, and 2 for End If blocks.",
+      "toolType": "action",
+      "sourceActionProvider": "WFBundledActionProvider",
+      "sourceContainerId": 1,
+      "attributionContainerId": null,
+      "flags": 128,
+      "visibilityFlags": 7,
+      "authenticationPolicy": "none",
+      "deprecationReplacementId": null,
+      "requirements": {
+        "raw": null,
+        "decoded": []
+      },
+      "outputTypeInstance": null,
+      "customIcon": null,
+      "arguments": [
+        {
+          "rowId": -10001,
+          "key": "WFConditionalActionString",
+          "name": "Label",
+          "description": "Optional name for this If block as it appears inside the action editor.",
+          "sortOrder": 0,
+          "flags": 0,
+          "relationships": "",
+          "typeInstance": "",
+          "type": {
+            "rowId": "manual.string",
+            "kind": 1,
+            "runtimeFlags": null,
+            "runtimeRequirements": "",
+            "encodedId": null
+          }
+        },
+        {
+          "rowId": -10002,
+          "key": "WFCondition",
+          "name": "Comparison",
+          "description": "Integer enum describing how to compare WFInput to WFConditionalActionString (equals, contains, greater than, etc.).",
+          "sortOrder": 1,
+          "flags": 0,
+          "relationships": "",
+          "typeInstance": "",
+          "type": {
+            "rowId": "manual.integer",
+            "kind": 2,
+            "runtimeFlags": null,
+            "runtimeRequirements": "",
+            "encodedId": null
+          }
+        },
+        {
+          "rowId": -10003,
+          "key": "WFInput",
+          "name": "Input",
+          "description": "Serialized token describing the value that will be compared.",
+          "sortOrder": 2,
+          "flags": 0,
+          "relationships": "",
+          "typeInstance": "",
+          "type": {
+            "rowId": "manual.variable",
+            "kind": 7,
+            "runtimeFlags": null,
+            "runtimeRequirements": "",
+            "encodedId": null
+          }
+        },
+        {
+          "rowId": -10004,
+          "key": "WFControlFlowMode",
+          "name": "Branch Type",
+          "description": "0 = If, 1 = Otherwise, 2 = End If. js-to-shortcut automatically maintains these values when building grouped actions.",
+          "sortOrder": 3,
+          "flags": 0,
+          "relationships": "",
+          "typeInstance": "",
+          "type": {
+            "rowId": "manual.integer",
+            "kind": 2,
+            "runtimeFlags": null,
+            "runtimeRequirements": "",
+            "encodedId": null
           }
         }
       ]

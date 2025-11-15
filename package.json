@@ -1,0 +1,27 @@
+{
+  "name": "js-to-shortcut",
+  "version": "0.1.0",
+  "description": "Compile a JavaScript DSL into fully-formed Apple Shortcuts property lists.",
+  "main": "src/index.js",
+  "scripts": {
+    "build-example": "node src/cli.js examples/hello.shortcut.js --out build/hello.shortcut",
+    "generate-docs": "node scripts/generate-action-docs.js"
+  },
+  "keywords": [
+    "shortcuts",
+    "automation",
+    "compiler"
+  ],
+  "author": "",
+  "license": "MIT",
+  "type": "commonjs",
+  "bin": {
+    "jstoshortcut": "src/cli.js"
+  },
+  "dependencies": {
+    "bplist-creator": "^0.1.1",
+    "form-data": "^4.0.4",
+    "plist": "^3.1.0",
+    "yargs": "^18.0.0"
+  }
+}

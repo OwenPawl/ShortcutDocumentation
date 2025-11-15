@@ -1,0 +1,312 @@
+{
+  "is.workflow.actions.choosefrommenu": {
+    "name": "Choose from Menu",
+    "description": "Prompt the user with a list of menu items and run the matching branch.",
+    "notes": [
+      "Each menu block uses the same `GroupingIdentifier`. Set `WFControlFlowMode` to 0 for the opening \"Choose from Menu\" action, 1 for each menu branch, and 2 for the final End Menu block.",
+      "Provide the list of choices via `WFMenuItems`, and optionally set `WFMenuPrompt` to customize the alert text shown to the user."
+    ],
+    "arguments": [
+      {
+        "key": "WFMenuItems",
+        "name": "Menu Items",
+        "sortOrder": 0,
+        "flags": 0,
+        "relationships": "",
+        "typeInstance": "",
+        "type": {
+          "rowId": null,
+          "kind": null,
+          "runtimeFlags": null,
+          "runtimeRequirements": null,
+          "encodedId": null
+        }
+      },
+      {
+        "key": "WFMenuPrompt",
+        "name": "Prompt",
+        "sortOrder": 1,
+        "flags": 0,
+        "relationships": "",
+        "typeInstance": "",
+        "type": {
+          "rowId": null,
+          "kind": null,
+          "runtimeFlags": null,
+          "runtimeRequirements": null,
+          "encodedId": null
+        }
+      },
+      {
+        "key": "WFMenuItemTitle",
+        "name": "Menu Item Title",
+        "sortOrder": 2,
+        "flags": 0,
+        "relationships": "",
+        "typeInstance": "",
+        "type": {
+          "rowId": null,
+          "kind": null,
+          "runtimeFlags": null,
+          "runtimeRequirements": null,
+          "encodedId": null
+        }
+      },
+      {
+        "key": "GroupingIdentifier",
+        "name": "Grouping Identifier",
+        "sortOrder": 3,
+        "flags": 0,
+        "relationships": "",
+        "typeInstance": "",
+        "type": {
+          "rowId": null,
+          "kind": null,
+          "runtimeFlags": null,
+          "runtimeRequirements": null,
+          "encodedId": null
+        }
+      },
+      {
+        "key": "WFControlFlowMode",
+        "name": "Control Flow Mode",
+        "sortOrder": 4,
+        "flags": 0,
+        "relationships": "",
+        "typeInstance": "",
+        "type": {
+          "rowId": null,
+          "kind": null,
+          "runtimeFlags": null,
+          "runtimeRequirements": null,
+          "encodedId": null
+        }
+      },
+      {
+        "key": "UUID",
+        "name": "UUID",
+        "sortOrder": 5,
+        "flags": 0,
+        "relationships": "",
+        "typeInstance": "",
+        "type": {
+          "rowId": null,
+          "kind": null,
+          "runtimeFlags": null,
+          "runtimeRequirements": null,
+          "encodedId": null
+        }
+      }
+    ]
+  },
+  "is.workflow.actions.repeat.count": {
+    "name": "Repeat",
+    "description": "Repeat the contained actions a specific number of times.",
+    "notes": [
+      "Set `WFControlFlowMode` to 0 for the opening Repeat block and 1 for the closing End Repeat block. Both must share the same `GroupingIdentifier`.",
+      "Use `WFRepeatCount` to control how many times the actions run. Inside the loop you can use `Repeat Index` and `Repeat Item` magic variables."
+    ],
+    "arguments": [
+      {
+        "key": "WFRepeatCount",
+        "name": "Number of Times",
+        "sortOrder": 0,
+        "flags": 0,
+        "relationships": "",
+        "typeInstance": "",
+        "type": {
+          "rowId": null,
+          "kind": null,
+          "runtimeFlags": null,
+          "runtimeRequirements": null,
+          "encodedId": null
+        }
+      },
+      {
+        "key": "GroupingIdentifier",
+        "name": "Grouping Identifier",
+        "sortOrder": 1,
+        "flags": 0,
+        "relationships": "",
+        "typeInstance": "",
+        "type": {
+          "rowId": null,
+          "kind": null,
+          "runtimeFlags": null,
+          "runtimeRequirements": null,
+          "encodedId": null
+        }
+      },
+      {
+        "key": "WFControlFlowMode",
+        "name": "Control Flow Mode",
+        "sortOrder": 2,
+        "flags": 0,
+        "relationships": "",
+        "typeInstance": "",
+        "type": {
+          "rowId": null,
+          "kind": null,
+          "runtimeFlags": null,
+          "runtimeRequirements": null,
+          "encodedId": null
+        }
+      },
+      {
+        "key": "UUID",
+        "name": "UUID",
+        "sortOrder": 3,
+        "flags": 0,
+        "relationships": "",
+        "typeInstance": "",
+        "type": {
+          "rowId": null,
+          "kind": null,
+          "runtimeFlags": null,
+          "runtimeRequirements": null,
+          "encodedId": null
+        }
+      }
+    ]
+  },
+  "is.workflow.actions.repeat.each": {
+    "name": "Repeat with Each",
+    "description": "Run the contained actions for every item passed into the loop.",
+    "notes": [
+      "Opening and closing blocks share the same `GroupingIdentifier`. Set `WFControlFlowMode` to 0 for the opening Repeat with Each and 1 for the End Repeat block.",
+      "Use the `Repeat Item` magic variable inside the loop to access the current element, or `Repeat Index` for the position."
+    ],
+    "arguments": [
+      {
+        "key": "WFInput",
+        "name": "Items",
+        "sortOrder": 0,
+        "flags": 0,
+        "relationships": "",
+        "typeInstance": "",
+        "type": {
+          "rowId": null,
+          "kind": null,
+          "runtimeFlags": null,
+          "runtimeRequirements": null,
+          "encodedId": null
+        }
+      },
+      {
+        "key": "GroupingIdentifier",
+        "name": "Grouping Identifier",
+        "sortOrder": 1,
+        "flags": 0,
+        "relationships": "",
+        "typeInstance": "",
+        "type": {
+          "rowId": null,
+          "kind": null,
+          "runtimeFlags": null,
+          "runtimeRequirements": null,
+          "encodedId": null
+        }
+      },
+      {
+        "key": "WFControlFlowMode",
+        "name": "Control Flow Mode",
+        "sortOrder": 2,
+        "flags": 0,
+        "relationships": "",
+        "typeInstance": "",
+        "type": {
+          "rowId": null,
+          "kind": null,
+          "runtimeFlags": null,
+          "runtimeRequirements": null,
+          "encodedId": null
+        }
+      },
+      {
+        "key": "UUID",
+        "name": "UUID",
+        "sortOrder": 3,
+        "flags": 0,
+        "relationships": "",
+        "typeInstance": "",
+        "type": {
+          "rowId": null,
+          "kind": null,
+          "runtimeFlags": null,
+          "runtimeRequirements": null,
+          "encodedId": null
+        }
+      }
+    ]
+  },
+  "is.workflow.actions.conditional": {
+    "name": "If",
+    "description": "Branch based on conditions, optionally providing Otherwise and End If blocks.",
+    "notes": [
+      "Use `WFControlFlowMode` 0 for the opening If, 1 for Otherwise, and 2 for End If. All related blocks must share the same `GroupingIdentifier`.",
+      "Define the condition(s) through `WFConditions` \u00e2\u20ac\u201d each entry contains a comparator, input, and value to match."
+    ],
+    "arguments": [
+      {
+        "key": "WFConditions",
+        "name": "Conditions",
+        "sortOrder": 0,
+        "flags": 0,
+        "relationships": "",
+        "typeInstance": "",
+        "type": {
+          "rowId": null,
+          "kind": null,
+          "runtimeFlags": null,
+          "runtimeRequirements": null,
+          "encodedId": null
+        }
+      },
+      {
+        "key": "GroupingIdentifier",
+        "name": "Grouping Identifier",
+        "sortOrder": 1,
+        "flags": 0,
+        "relationships": "",
+        "typeInstance": "",
+        "type": {
+          "rowId": null,
+          "kind": null,
+          "runtimeFlags": null,
+          "runtimeRequirements": null,
+          "encodedId": null
+        }
+      },
+      {
+        "key": "WFControlFlowMode",
+        "name": "Control Flow Mode",
+        "sortOrder": 2,
+        "flags": 0,
+        "relationships": "",
+        "typeInstance": "",
+        "type": {
+          "rowId": null,
+          "kind": null,
+          "runtimeFlags": null,
+          "runtimeRequirements": null,
+          "encodedId": null
+        }
+      },
+      {
+        "key": "UUID",
+        "name": "UUID",
+        "sortOrder": 3,
+        "flags": 0,
+        "relationships": "",
+        "typeInstance": "",
+        "type": {
+          "rowId": null,
+          "kind": null,
+          "runtimeFlags": null,
+          "runtimeRequirements": null,
+          "encodedId": null
+        }
+      }
+    ]
+  }
+}

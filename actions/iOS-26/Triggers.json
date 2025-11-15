@@ -1,0 +1,408 @@
+[
+    {
+        "flags": 3,
+        "id": "com.apple.shortcuts.WFWifiTrigger.connect",
+        "outputTypeInstance": "CgQKAggA",
+        "requirements": "",
+        "rowId": 1
+    },
+    {
+        "flags": 3,
+        "id": "com.apple.shortcuts.WFWifiTrigger.disconnect",
+        "outputTypeInstance": "CgQKAggA",
+        "requirements": "",
+        "rowId": 2
+    },
+    {
+        "flags": 3,
+        "id": "com.apple.shortcuts.WFBluetoothTrigger.connect",
+        "outputTypeInstance": "CgQKAggA",
+        "requirements": "",
+        "rowId": 3
+    },
+    {
+        "flags": 3,
+        "id": "com.apple.shortcuts.WFBluetoothTrigger.disconnect",
+        "outputTypeInstance": "CgQKAggA",
+        "requirements": "",
+        "rowId": 4
+    },
+    {
+        "flags": 3,
+        "id": "com.apple.shortcuts.WFBluetoothTrigger.toggle",
+        "outputTypeInstance": "CgQKAggA",
+        "requirements": "",
+        "rowId": 5
+    },
+    {
+        "flags": 5,
+        "id": "com.apple.shortcuts.WFCarPlayConnectionTrigger.connect",
+        "outputTypeInstance": "CgQKAggA",
+        "requirements": "",
+        "rowId": 6
+    },
+    {
+        "flags": 5,
+        "id": "com.apple.shortcuts.WFCarPlayConnectionTrigger.disconnect",
+        "outputTypeInstance": "CgQKAggA",
+        "requirements": "",
+        "rowId": 7
+    },
+    {
+        "flags": 5,
+        "id": "com.apple.shortcuts.WFCarPlayConnectionTrigger.toggle",
+        "outputTypeInstance": "CgQKAggA",
+        "requirements": "",
+        "rowId": 8
+    },
+    {
+        "flags": 5,
+        "id": "com.apple.shortcuts.WFExternalDisplayTrigger.connect",
+        "outputTypeInstance": "Ci0SKwoTY29tLmFwcGxlLnNob3J0Y3V0cxIUV0ZEaXNwbGF5Q29udGVudEl0ZW0=",
+        "requirements": "",
+        "rowId": 9
+    },
+    {
+        "flags": 5,
+        "id": "com.apple.shortcuts.WFExternalDisplayTrigger.disconnect",
+        "outputTypeInstance": "Ci0SKwoTY29tLmFwcGxlLnNob3J0Y3V0cxIUV0ZEaXNwbGF5Q29udGVudEl0ZW0=",
+        "requirements": "",
+        "rowId": 10
+    },
+    {
+        "flags": 5,
+        "id": "com.apple.shortcuts.WFExternalDisplayTrigger.toggle",
+        "outputTypeInstance": "Ci0SKwoTY29tLmFwcGxlLnNob3J0Y3V0cxIUV0ZEaXNwbGF5Q29udGVudEl0ZW0=",
+        "requirements": "",
+        "rowId": 11
+    },
+    {
+        "flags": 5,
+        "id": "com.apple.shortcuts.WFPlugInTrigger.connect",
+        "outputTypeInstance": "CgQKAggA",
+        "requirements": "",
+        "rowId": 12
+    },
+    {
+        "flags": 5,
+        "id": "com.apple.shortcuts.WFPlugInTrigger.disconnect",
+        "outputTypeInstance": "CgQKAggA",
+        "requirements": "",
+        "rowId": 13
+    },
+    {
+        "flags": 5,
+        "id": "com.apple.shortcuts.WFPlugInTrigger.toggle",
+        "outputTypeInstance": "CgQKAggA",
+        "requirements": "",
+        "rowId": 14
+    },
+    {
+        "flags": 5,
+        "id": "com.apple.shortcuts.WFLowPowerModeTrigger.on",
+        "outputTypeInstance": "CgQKAggA",
+        "requirements": "",
+        "rowId": 15
+    },
+    {
+        "flags": 5,
+        "id": "com.apple.shortcuts.WFLowPowerModeTrigger.off",
+        "outputTypeInstance": "CgQKAggA",
+        "requirements": "",
+        "rowId": 16
+    },
+    {
+        "flags": 5,
+        "id": "com.apple.shortcuts.WFLowPowerModeTrigger.toggle",
+        "outputTypeInstance": "CgQKAggA",
+        "requirements": "",
+        "rowId": 17
+    },
+    {
+        "flags": 5,
+        "id": "com.apple.shortcuts.WFAirplaneModeTrigger.on",
+        "outputTypeInstance": "CgQKAggA",
+        "requirements": "",
+        "rowId": 18
+    },
+    {
+        "flags": 5,
+        "id": "com.apple.shortcuts.WFAirplaneModeTrigger.off",
+        "outputTypeInstance": "CgQKAggA",
+        "requirements": "",
+        "rowId": 19
+    },
+    {
+        "flags": 5,
+        "id": "com.apple.shortcuts.WFAirplaneModeTrigger.toggle",
+        "outputTypeInstance": "CgQKAggA",
+        "requirements": "",
+        "rowId": 20
+    },
+    {
+        "flags": 5,
+        "id": "com.apple.shortcuts.WFStageManagerTrigger.on",
+        "outputTypeInstance": "CgQKAggA",
+        "requirements": "",
+        "rowId": 21
+    },
+    {
+        "flags": 5,
+        "id": "com.apple.shortcuts.WFStageManagerTrigger.off",
+        "outputTypeInstance": "CgQKAggA",
+        "requirements": "",
+        "rowId": 22
+    },
+    {
+        "flags": 5,
+        "id": "com.apple.shortcuts.WFStageManagerTrigger.toggle",
+        "outputTypeInstance": "CgQKAggA",
+        "requirements": "",
+        "rowId": 23
+    },
+    {
+        "flags": 5,
+        "id": "com.apple.shortcuts.WFDNDTrigger.on",
+        "outputTypeInstance": "CgQKAggA",
+        "requirements": "",
+        "rowId": 24
+    },
+    {
+        "flags": 5,
+        "id": "com.apple.shortcuts.WFDNDTrigger.off",
+        "outputTypeInstance": "CgQKAggA",
+        "requirements": "",
+        "rowId": 25
+    },
+    {
+        "flags": 5,
+        "id": "com.apple.shortcuts.WFDNDTrigger.toggle",
+        "outputTypeInstance": "CgQKAggA",
+        "requirements": "",
+        "rowId": 26
+    },
+    {
+        "flags": 5,
+        "id": "com.apple.shortcuts.WFAppInFocusTrigger.on",
+        "outputTypeInstance": "CgQKAggA",
+        "requirements": "",
+        "rowId": 27
+    },
+    {
+        "flags": 5,
+        "id": "com.apple.shortcuts.WFAppInFocusTrigger.off",
+        "outputTypeInstance": "CgQKAggA",
+        "requirements": "",
+        "rowId": 28
+    },
+    {
+        "flags": 5,
+        "id": "com.apple.shortcuts.WFAppInFocusTrigger.toggle",
+        "outputTypeInstance": "CgQKAggA",
+        "requirements": "",
+        "rowId": 29
+    },
+    {
+        "flags": 3,
+        "id": "com.apple.shortcuts.WFLocationTrigger.enter_location",
+        "outputTypeInstance": "CgQKAggA",
+        "requirements": "",
+        "rowId": 30
+    },
+    {
+        "flags": 3,
+        "id": "com.apple.shortcuts.WFLocationTrigger.enter_location_between",
+        "outputTypeInstance": "CgQKAggA",
+        "requirements": "",
+        "rowId": 31
+    },
+    {
+        "flags": 3,
+        "id": "com.apple.shortcuts.WFLocationTrigger.leave_location",
+        "outputTypeInstance": "CgQKAggA",
+        "requirements": "",
+        "rowId": 32
+    },
+    {
+        "flags": 3,
+        "id": "com.apple.shortcuts.WFLocationTrigger.leave_location_between",
+        "outputTypeInstance": "CgQKAggA",
+        "requirements": "",
+        "rowId": 33
+    },
+    {
+        "flags": 3,
+        "id": "com.apple.shortcuts.WFMessageTrigger.senders_are",
+        "outputTypeInstance": "Ci0SKwoTY29tLmFwcGxlLnNob3J0Y3V0cxIUV0ZNZXNzYWdlQ29udGVudEl0ZW0=",
+        "requirements": "",
+        "rowId": 34
+    },
+    {
+        "flags": 3,
+        "id": "com.apple.shortcuts.WFMessageTrigger.message_contains",
+        "outputTypeInstance": "Ci0SKwoTY29tLmFwcGxlLnNob3J0Y3V0cxIUV0ZNZXNzYWdlQ29udGVudEl0ZW0=",
+        "requirements": "",
+        "rowId": 35
+    },
+    {
+        "flags": 3,
+        "id": "com.apple.shortcuts.WFMessageTrigger.senders_are_and_message_contains",
+        "outputTypeInstance": "Ci0SKwoTY29tLmFwcGxlLnNob3J0Y3V0cxIUV0ZNZXNzYWdlQ29udGVudEl0ZW0=",
+        "requirements": "",
+        "rowId": 36
+    },
+    {
+        "flags": 3,
+        "id": "com.apple.shortcuts.WFEmailTrigger.senders_are",
+        "outputTypeInstance": "CisSKQoTY29tLmFwcGxlLnNob3J0Y3V0cxISV0ZFbWFpbENvbnRlbnRJdGVt",
+        "requirements": "",
+        "rowId": 37
+    },
+    {
+        "flags": 3,
+        "id": "com.apple.shortcuts.WFEmailTrigger.subject_contains",
+        "outputTypeInstance": "CisSKQoTY29tLmFwcGxlLnNob3J0Y3V0cxISV0ZFbWFpbENvbnRlbnRJdGVt",
+        "requirements": "",
+        "rowId": 38
+    },
+    {
+        "flags": 3,
+        "id": "com.apple.shortcuts.WFEmailTrigger.senders_are_and_subject_contains",
+        "outputTypeInstance": "CisSKQoTY29tLmFwcGxlLnNob3J0Y3V0cxISV0ZFbWFpbENvbnRlbnRJdGVt",
+        "requirements": "",
+        "rowId": 39
+    },
+    {
+        "flags": 5,
+        "id": "com.apple.shortcuts.WFWorkoutTrigger.start",
+        "outputTypeInstance": "CgQKAggA",
+        "requirements": "",
+        "rowId": 40
+    },
+    {
+        "flags": 5,
+        "id": "com.apple.shortcuts.WFWorkoutTrigger.stop",
+        "outputTypeInstance": "CgQKAggA",
+        "requirements": "",
+        "rowId": 41
+    },
+    {
+        "flags": 5,
+        "id": "com.apple.shortcuts.WFWorkoutTrigger.toggle",
+        "outputTypeInstance": "CgQKAggA",
+        "requirements": "",
+        "rowId": 42
+    },
+    {
+        "flags": 0,
+        "id": "com.apple.shortcuts.WFPredictedLocationTransitionTrigger.Default",
+        "outputTypeInstance": "CgQKAggA",
+        "requirements": "",
+        "rowId": 43
+    },
+    {
+        "flags": 1,
+        "id": "com.apple.shortcuts.WFBatteryLevelTrigger.equal",
+        "outputTypeInstance": "CgQKAggA",
+        "requirements": "",
+        "rowId": 44
+    },
+    {
+        "flags": 1,
+        "id": "com.apple.shortcuts.WFBatteryLevelTrigger.above",
+        "outputTypeInstance": "CgQKAggA",
+        "requirements": "",
+        "rowId": 45
+    },
+    {
+        "flags": 1,
+        "id": "com.apple.shortcuts.WFBatteryLevelTrigger.below",
+        "outputTypeInstance": "CgQKAggA",
+        "requirements": "",
+        "rowId": 46
+    },
+    {
+        "flags": 1,
+        "id": "com.apple.shortcuts.WFSleepTrigger.wind_down_begins",
+        "outputTypeInstance": "CgQKAggA",
+        "requirements": "",
+        "rowId": 47
+    },
+    {
+        "flags": 1,
+        "id": "com.apple.shortcuts.WFSleepTrigger.bedtime_begins",
+        "outputTypeInstance": "CgQKAggA",
+        "requirements": "",
+        "rowId": 48
+    },
+    {
+        "flags": 1,
+        "id": "com.apple.shortcuts.WFSleepTrigger.waking_up",
+        "outputTypeInstance": "CgQKAggA",
+        "requirements": "",
+        "rowId": 49
+    },
+    {
+        "flags": 5,
+        "id": "com.apple.shortcuts.WFNFCTrigger.scan",
+        "outputTypeInstance": "CgQKAggA",
+        "requirements": "",
+        "rowId": 50
+    },
+    {
+        "flags": 1,
+        "id": "com.apple.shortcuts.WFSoundRecognitionTrigger.on",
+        "outputTypeInstance": "CgQKAggA",
+        "requirements": "",
+        "rowId": 51
+    },
+    {
+        "flags": 1,
+        "id": "com.apple.shortcuts.WFAlarmTrigger.any_alarm",
+        "outputTypeInstance": "CgQKAggA",
+        "requirements": "",
+        "rowId": 52
+    },
+    {
+        "flags": 1,
+        "id": "com.apple.shortcuts.WFAlarmTrigger.wake_up_alarm",
+        "outputTypeInstance": "CgQKAggA",
+        "requirements": "",
+        "rowId": 53
+    },
+    {
+        "flags": 1,
+        "id": "com.apple.shortcuts.WFAlarmTrigger.specfic_alarm",
+        "outputTypeInstance": "CgQKAggA",
+        "requirements": "",
+        "rowId": 54
+    },
+    {
+        "flags": 5,
+        "id": "com.apple.shortcuts.WFWalletTransactionTrigger.tap",
+        "outputTypeInstance": "CjcSNQoTY29tLmFwcGxlLnNob3J0Y3V0cxIeV0ZXYWxsZXRUcmFuc2FjdGlvbkNvbnRlbnRJdGVt",
+        "requirements": "",
+        "rowId": 55
+    },
+    {
+        "flags": 5,
+        "id": "com.apple.shortcuts.WFUserFocusActivityTrigger.on",
+        "outputTypeInstance": "CgQKAggA",
+        "requirements": "",
+        "rowId": 56
+    },
+    {
+        "flags": 5,
+        "id": "com.apple.shortcuts.WFUserFocusActivityTrigger.off",
+        "outputTypeInstance": "CgQKAggA",
+        "requirements": "",
+        "rowId": 57
+    },
+    {
+        "flags": 5,
+        "id": "com.apple.shortcuts.WFUserFocusActivityTrigger.toggle",
+        "outputTypeInstance": "CgQKAggA",
+        "requirements": "",
+        "rowId": 58
+    }
+]

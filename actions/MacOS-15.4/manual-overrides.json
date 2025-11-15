@@ -1,0 +1,91 @@
+{
+  "is.workflow.actions.conditional": {
+    "rowId": -1000,
+    "name": "If",
+    "description": "Branch your shortcut based on whether the supplied input matches a condition. Use WFControlFlowMode = 0 for If, 1 for Otherwise, and 2 for End If blocks.",
+    "toolType": "action",
+    "sourceActionProvider": "WFBundledActionProvider",
+    "sourceContainerId": 1,
+    "attributionContainerId": null,
+    "flags": 128,
+    "visibilityFlags": 7,
+    "authenticationPolicy": "none",
+    "deprecationReplacementId": null,
+    "requirements": {
+      "raw": null,
+      "decoded": []
+    },
+    "outputTypeInstance": null,
+    "customIcon": null,
+    "arguments": [
+      {
+        "rowId": -10001,
+        "key": "WFConditionalActionString",
+        "name": "Label",
+        "description": "Optional name for this If block as it appears inside the action editor.",
+        "sortOrder": 0,
+        "flags": 0,
+        "relationships": "",
+        "typeInstance": "",
+        "type": {
+          "rowId": "manual.string",
+          "kind": 1,
+          "runtimeFlags": null,
+          "runtimeRequirements": "",
+          "encodedId": null
+        }
+      },
+      {
+        "rowId": -10002,
+        "key": "WFCondition",
+        "name": "Comparison",
+        "description": "Integer enum describing how to compare WFInput to WFConditionalActionString (equals, contains, greater than, etc.).",
+        "sortOrder": 1,
+        "flags": 0,
+        "relationships": "",
+        "typeInstance": "",
+        "type": {
+          "rowId": "manual.integer",
+          "kind": 2,
+          "runtimeFlags": null,
+          "runtimeRequirements": "",
+          "encodedId": null
+        }
+      },
+      {
+        "rowId": -10003,
+        "key": "WFInput",
+        "name": "Input",
+        "description": "Serialized token describing the value that will be compared.",
+        "sortOrder": 2,
+        "flags": 0,
+        "relationships": "",
+        "typeInstance": "",
+        "type": {
+          "rowId": "manual.variable",
+          "kind": 7,
+          "runtimeFlags": null,
+          "runtimeRequirements": "",
+          "encodedId": null
+        }
+      },
+      {
+        "rowId": -10004,
+        "key": "WFControlFlowMode",
+        "name": "Branch Type",
+        "description": "0 = If, 1 = Otherwise, 2 = End If. js-to-shortcut automatically maintains these values when building grouped actions.",
+        "sortOrder": 3,
+        "flags": 0,
+        "relationships": "",
+        "typeInstance": "",
+        "type": {
+          "rowId": "manual.integer",
+          "kind": 2,
+          "runtimeFlags": null,
+          "runtimeRequirements": "",
+          "encodedId": null
+        }
+      }
+    ]
+  }
+}

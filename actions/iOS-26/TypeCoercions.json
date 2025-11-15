@@ -1,0 +1,894 @@
+[
+    {
+        "coercionDefinition": "CAESqAEqpQEKBQoDiAEAEpsBEpgBCitjb20uYXBwbGUuY2xvdWRraXQuc2hhcmluZ3N1cHBvcnQuY29udGFpbmVyCiVjb20uYXBwbGUuY2xvdWRraXQuc2hhcmluZ3N1cHBvcnQucHJlCiZjb20uYXBwbGUuY2xvdWRraXQuc2hhcmluZ3N1cHBvcnQucG9zdAoaVVRDb2xsYWJvcmF0aW9uT3B0aW9uc1R5cGU=",
+        "typeId": "com.apple.reminders.ListEntity"
+    },
+    {
+        "coercionDefinition": "CAESBwoFCgOAAQA=",
+        "typeId": "com.apple.MobileAddressBook.ContactEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.Bridge.EmergencySOSDeepLinks"
+    },
+    {
+        "coercionDefinition": "CAESBgoECgJIAA==",
+        "typeId": "com.apple.Bridge.EmergencySOSDeepLinks"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.Preferences.CameraSettingsDeepLink"
+    },
+    {
+        "coercionDefinition": "CAESBgoECgJIAA==",
+        "typeId": "com.apple.Preferences.CameraSettingsDeepLink"
+    },
+    {
+        "coercionDefinition": "CAESPCo6CgUKA4gBABIxEi8KFnB1YmxpYy51dGY4LXBsYWluLXRleHQKFXB1YmxpYy5jYWxlbmRhci1ldmVudA==",
+        "typeId": "com.apple.mobilecal.EventEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.news.RecipeEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.Preferences.AirDropReceivingModeEntity"
+    },
+    {
+        "coercionDefinition": "CAESBgoECgJIAA==",
+        "typeId": "com.apple.Preferences.AirDropReceivingModeEntity"
+    },
+    {
+        "coercionDefinition": "CAESHCoaCgUKA4gBABIREg8KDWNvbS5hZG9iZS5wZGY=",
+        "typeId": "com.apple.mobilesafari.TabEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.news.RestrictStoriesInTodaySettingEntity"
+    },
+    {
+        "coercionDefinition": "CAESBgoECgJIAA==",
+        "typeId": "com.apple.news.RestrictStoriesInTodaySettingEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.reminders.ShowAsOverdueEntity"
+    },
+    {
+        "coercionDefinition": "CAESBgoECgJIAA==",
+        "typeId": "com.apple.reminders.ShowAsOverdueEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.Bridge.AppViewDeepLinks"
+    },
+    {
+        "coercionDefinition": "CAESBgoECgJIAA==",
+        "typeId": "com.apple.Bridge.AppViewDeepLinks"
+    },
+    {
+        "coercionDefinition": "CAESugEqtwEKBQoDiAEAEq0BEqoBChtjb20uYXBwbGUubGl2ZS1waG90by1idW5kbGUKDHB1YmxpYy5tb3ZpZQoLcHVibGljLmhlaWMKDXB1YmxpYy5tcGVnLTQKGWNvbS5hcHBsZS5xdWlja3RpbWUtbW92aWUKDHB1YmxpYy5pbWFnZQoSY29tLmNvbXB1c2VydmUuZ2lmCgpwdWJsaWMucG5nCgtwdWJsaWMuaGVpZgoLcHVibGljLmpwZWc=",
+        "typeId": "com.apple.mobileslideshow.AssetEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.Bridge.SoundsAndHapticsDeepLinks"
+    },
+    {
+        "coercionDefinition": "CAESBgoECgJIAA==",
+        "typeId": "com.apple.Bridge.SoundsAndHapticsDeepLinks"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.Preferences.SilenceJunkCallersToggleEntity"
+    },
+    {
+        "coercionDefinition": "CAESBgoECgJIAA==",
+        "typeId": "com.apple.Preferences.SilenceJunkCallersToggleEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.Preferences.FitnessSettingsDeepLink"
+    },
+    {
+        "coercionDefinition": "CAESBgoECgJIAA==",
+        "typeId": "com.apple.Preferences.FitnessSettingsDeepLink"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.Preferences.FamilySubscriptionsDeepLink"
+    },
+    {
+        "coercionDefinition": "CAESBgoECgJIAA==",
+        "typeId": "com.apple.Preferences.FamilySubscriptionsDeepLink"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.MobileSMS.ConversationEntity"
+    },
+    {
+        "coercionDefinition": "CAESBgoECgJIAA==",
+        "typeId": "com.apple.MobileSMS.ConversationEntity"
+    },
+    {
+        "coercionDefinition": "CAEScSpvCgUKA4gBABJmEmQKFWNvbS5hcHBsZS5zaXJpLnBvbW1lcwoUcHVibGljLmVtYWlsLW1lc3NhZ2UKDnB1YmxpYy5tZXNzYWdlChVwdWJsaWMuY2FsZW5kYXItZXZlbnQKDnB1YmxpYy5jb250YWN0",
+        "typeId": "com.apple.omniSearch.SearchToolExtension.SearchSpotlightEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.Bridge.VoiceOverDeepLinks"
+    },
+    {
+        "coercionDefinition": "CAESBgoECgJIAA==",
+        "typeId": "com.apple.Bridge.VoiceOverDeepLinks"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.Passbook.SavingsAccountEntity"
+    },
+    {
+        "coercionDefinition": "CAESBgoECgJIAA==",
+        "typeId": "com.apple.Passbook.SavingsAccountEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.Preferences.SOSSettingsDeepLink"
+    },
+    {
+        "coercionDefinition": "CAESBgoECgJIAA==",
+        "typeId": "com.apple.Preferences.SOSSettingsDeepLink"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.Preferences.SafetyCheckDeepLinks"
+    },
+    {
+        "coercionDefinition": "CAESBgoECgJIAA==",
+        "typeId": "com.apple.Preferences.SafetyCheckDeepLinks"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.Bridge.DisplayBrightnessDeepLinks"
+    },
+    {
+        "coercionDefinition": "CAESBgoECgJIAA==",
+        "typeId": "com.apple.Bridge.DisplayBrightnessDeepLinks"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.Fitness.WorkoutEntity"
+    },
+    {
+        "coercionDefinition": "CAESBgoECgJIAA==",
+        "typeId": "com.apple.Fitness.WorkoutEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.Fitness.WorkoutActivityEntity"
+    },
+    {
+        "coercionDefinition": "CAESBgoECgJIAA==",
+        "typeId": "com.apple.Fitness.WorkoutActivityEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.Preferences.SettingsCellularDeepLinks"
+    },
+    {
+        "coercionDefinition": "CAESBgoECgJIAA==",
+        "typeId": "com.apple.Preferences.SettingsCellularDeepLinks"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.reminders.TodayNotificationEntity"
+    },
+    {
+        "coercionDefinition": "CAESBgoECgJIAA==",
+        "typeId": "com.apple.reminders.TodayNotificationEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.MobileSMS.MessageEntity"
+    },
+    {
+        "coercionDefinition": "CAESBgoECgJIAA==",
+        "typeId": "com.apple.MobileSMS.MessageEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.news.ArticleEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.Passbook.PassEntity"
+    },
+    {
+        "coercionDefinition": "CAESBgoECgJIAA==",
+        "typeId": "com.apple.Passbook.PassEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.news.NewsSettingsAutomaticDownloadDynamicDeepLinks"
+    },
+    {
+        "coercionDefinition": "CAESBgoECgJIAA==",
+        "typeId": "com.apple.news.NewsSettingsAutomaticDownloadDynamicDeepLinks"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.Bridge.PasscodeDeepLinks"
+    },
+    {
+        "coercionDefinition": "CAESBgoECgJIAA==",
+        "typeId": "com.apple.Bridge.PasscodeDeepLinks"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.Preferences.MusicSettingsDeepLink"
+    },
+    {
+        "coercionDefinition": "CAESBgoECgJIAA==",
+        "typeId": "com.apple.Preferences.MusicSettingsDeepLink"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.news.AutoDownloadStoriesInFeedsEntity"
+    },
+    {
+        "coercionDefinition": "CAESBgoECgJIAA==",
+        "typeId": "com.apple.news.AutoDownloadStoriesInFeedsEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.news.FeedEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.Fitness.SummaryCardEntity"
+    },
+    {
+        "coercionDefinition": "CAESBgoECgJIAA==",
+        "typeId": "com.apple.Fitness.SummaryCardEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.Preferences.BluetoothPowerEntity"
+    },
+    {
+        "coercionDefinition": "CAESBgoECgJIAA==",
+        "typeId": "com.apple.Preferences.BluetoothPowerEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.news.NewsSettingsDynamicDeepLinks"
+    },
+    {
+        "coercionDefinition": "CAESBgoECgJIAA==",
+        "typeId": "com.apple.news.NewsSettingsDynamicDeepLinks"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.Fitness.MindfulnessSessionEntity"
+    },
+    {
+        "coercionDefinition": "CAESBgoECgJIAA==",
+        "typeId": "com.apple.Fitness.MindfulnessSessionEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.AppStoreSettingsAppIntents.AppStoreSettingsDeepLink"
+    },
+    {
+        "coercionDefinition": "CAESBgoECgJIAA==",
+        "typeId": "com.apple.AppStoreSettingsAppIntents.AppStoreSettingsDeepLink"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.Preferences.SettingsNavigationLocationEntity"
+    },
+    {
+        "coercionDefinition": "CAESBgoECgJIAA==",
+        "typeId": "com.apple.Preferences.SettingsNavigationLocationEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.reminders.ShowSuggestionsEntity"
+    },
+    {
+        "coercionDefinition": "CAESBgoECgJIAA==",
+        "typeId": "com.apple.reminders.ShowSuggestionsEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.news.OptimizeStorageEntity"
+    },
+    {
+        "coercionDefinition": "CAESBgoECgJIAA==",
+        "typeId": "com.apple.news.OptimizeStorageEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.news.AutoDownloadEntity"
+    },
+    {
+        "coercionDefinition": "CAESBgoECgJIAA==",
+        "typeId": "com.apple.news.AutoDownloadEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.Preferences.TwentyFourHourTimeEntity"
+    },
+    {
+        "coercionDefinition": "CAESBgoECgJIAA==",
+        "typeId": "com.apple.Preferences.TwentyFourHourTimeEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.Fitness.AwardEntity"
+    },
+    {
+        "coercionDefinition": "CAESBgoECgJIAA==",
+        "typeId": "com.apple.Fitness.AwardEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.Preferences.AirDropBringDevicesTogetherEntity"
+    },
+    {
+        "coercionDefinition": "CAESBgoECgJIAA==",
+        "typeId": "com.apple.Preferences.AirDropBringDevicesTogetherEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.Bridge.SiriDeepLinks"
+    },
+    {
+        "coercionDefinition": "CAESBgoECgJIAA==",
+        "typeId": "com.apple.Bridge.SiriDeepLinks"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.Bridge.GeneralDeepLinks"
+    },
+    {
+        "coercionDefinition": "CAESBgoECgJIAA==",
+        "typeId": "com.apple.Bridge.GeneralDeepLinks"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.Preferences.BrandedCallingPrimaryToggleEntity"
+    },
+    {
+        "coercionDefinition": "CAESBgoECgJIAA==",
+        "typeId": "com.apple.Preferences.BrandedCallingPrimaryToggleEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.Preferences.ScreenshotServicesSettingsDeepLink"
+    },
+    {
+        "coercionDefinition": "CAESBgoECgJIAA==",
+        "typeId": "com.apple.Preferences.ScreenshotServicesSettingsDeepLink"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.Bridge.AccessibilityDeepLinks"
+    },
+    {
+        "coercionDefinition": "CAESBgoECgJIAA==",
+        "typeId": "com.apple.Bridge.AccessibilityDeepLinks"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.reminders.IncludeDueTodayEntity"
+    },
+    {
+        "coercionDefinition": "CAESBgoECgJIAA==",
+        "typeId": "com.apple.reminders.IncludeDueTodayEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.Fitness.HistoryFilterEntity"
+    },
+    {
+        "coercionDefinition": "CAESBgoECgJIAA==",
+        "typeId": "com.apple.Fitness.HistoryFilterEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.Preferences.SilentModeEntity"
+    },
+    {
+        "coercionDefinition": "CAESBgoECgJIAA==",
+        "typeId": "com.apple.Preferences.SilentModeEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.Preferences.FocusEntity"
+    },
+    {
+        "coercionDefinition": "CAESBgoECgJIAA==",
+        "typeId": "com.apple.Preferences.FocusEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.Preferences.MobilePhoneSettingsDynamicDeepLinks"
+    },
+    {
+        "coercionDefinition": "CAESBgoECgJIAA==",
+        "typeId": "com.apple.Preferences.MobilePhoneSettingsDynamicDeepLinks"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.reminders.MuteNotificationsEntity"
+    },
+    {
+        "coercionDefinition": "CAESBgoECgJIAA==",
+        "typeId": "com.apple.reminders.MuteNotificationsEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.Preferences.ContactsDynamicDeepLinks"
+    },
+    {
+        "coercionDefinition": "CAESBgoECgJIAA==",
+        "typeId": "com.apple.Preferences.ContactsDynamicDeepLinks"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.TransparencySettingsIntents.TransparencyStatusEntity"
+    },
+    {
+        "coercionDefinition": "CAESBgoECgJIAA==",
+        "typeId": "com.apple.TransparencySettingsIntents.TransparencyStatusEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.Maps.MapsSettingsAppIntents.MapsSettingsDeepLink"
+    },
+    {
+        "coercionDefinition": "CAESBgoECgJIAA==",
+        "typeId": "com.apple.Maps.MapsSettingsAppIntents.MapsSettingsDeepLink"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.omniSearch.SearchToolExtension.MediaEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.reminders.RemindersSettingsDeepLinks"
+    },
+    {
+        "coercionDefinition": "CAESBgoECgJIAA==",
+        "typeId": "com.apple.reminders.RemindersSettingsDeepLinks"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.Preferences.DefaultAppsSettingsDeepLink"
+    },
+    {
+        "coercionDefinition": "CAESBgoECgJIAA==",
+        "typeId": "com.apple.Preferences.DefaultAppsSettingsDeepLink"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.Bridge.CellularDeepLinks"
+    },
+    {
+        "coercionDefinition": "CAESBgoECgJIAA==",
+        "typeId": "com.apple.Bridge.CellularDeepLinks"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.compass.CompassSettingsAppIntents.CompassSettingsDeepLink"
+    },
+    {
+        "coercionDefinition": "CAESBgoECgJIAA==",
+        "typeId": "com.apple.compass.CompassSettingsAppIntents.CompassSettingsDeepLink"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.TransparencySettingsIntents.TransparencyPublicVerificationCodeEntity"
+    },
+    {
+        "coercionDefinition": "CAESBgoECgJIAA==",
+        "typeId": "com.apple.TransparencySettingsIntents.TransparencyPublicVerificationCodeEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.Preferences.iCloudMailSettingsAppIntentsExtensionDeepLinks"
+    },
+    {
+        "coercionDefinition": "CAESBgoECgJIAA==",
+        "typeId": "com.apple.Preferences.iCloudMailSettingsAppIntentsExtensionDeepLinks"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.Bridge.ActionButtonDeepLinks"
+    },
+    {
+        "coercionDefinition": "CAESBgoECgJIAA==",
+        "typeId": "com.apple.Bridge.ActionButtonDeepLinks"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.Preferences.SpotlightSettingsDeepLinks"
+    },
+    {
+        "coercionDefinition": "CAESBgoECgJIAA==",
+        "typeId": "com.apple.Preferences.SpotlightSettingsDeepLinks"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.Preferences.TVProviderDeepLinks"
+    },
+    {
+        "coercionDefinition": "CAESBgoECgJIAA==",
+        "typeId": "com.apple.Preferences.TVProviderDeepLinks"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.mobilesafari.SafariSettingsDeepLinks"
+    },
+    {
+        "coercionDefinition": "CAESBgoECgJIAA==",
+        "typeId": "com.apple.mobilesafari.SafariSettingsDeepLinks"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.Preferences.FTSilenceUnknownCallersToggleEntity"
+    },
+    {
+        "coercionDefinition": "CAESBgoECgJIAA==",
+        "typeId": "com.apple.Preferences.FTSilenceUnknownCallersToggleEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.Preferences.BrandedCallingSecondaryToggleEntity"
+    },
+    {
+        "coercionDefinition": "CAESBgoECgJIAA==",
+        "typeId": "com.apple.Preferences.BrandedCallingSecondaryToggleEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.Preferences.FamilyMemberDetailsDeepLink"
+    },
+    {
+        "coercionDefinition": "CAESBgoECgJIAA==",
+        "typeId": "com.apple.Preferences.FamilyMemberDetailsDeepLink"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.Preferences.HomeScreenAndAppLibraryDeepLink"
+    },
+    {
+        "coercionDefinition": "CAESBgoECgJIAA==",
+        "typeId": "com.apple.Preferences.HomeScreenAndAppLibraryDeepLink"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.Bridge.AssistiveTouchDeepLinks"
+    },
+    {
+        "coercionDefinition": "CAESBgoECgJIAA==",
+        "typeId": "com.apple.Bridge.AssistiveTouchDeepLinks"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.Preferences.SettingsDeepLink"
+    },
+    {
+        "coercionDefinition": "CAESBgoECgJIAA==",
+        "typeId": "com.apple.Preferences.SettingsDeepLink"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.news.GameCenterEntity"
+    },
+    {
+        "coercionDefinition": "CAESBgoECgJIAA==",
+        "typeId": "com.apple.news.GameCenterEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.Bridge.PrivacyDeepLinks"
+    },
+    {
+        "coercionDefinition": "CAESBgoECgJIAA==",
+        "typeId": "com.apple.Bridge.PrivacyDeepLinks"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.news.AutoDownloadMagazineIssuesEntity"
+    },
+    {
+        "coercionDefinition": "CAESBgoECgJIAA==",
+        "typeId": "com.apple.news.AutoDownloadMagazineIssuesEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.news.AutoDownloadPuzzlesEntity"
+    },
+    {
+        "coercionDefinition": "CAESBgoECgJIAA==",
+        "typeId": "com.apple.news.AutoDownloadPuzzlesEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.Preferences.AlertHapticsEntity"
+    },
+    {
+        "coercionDefinition": "CAESBgoECgJIAA==",
+        "typeId": "com.apple.Preferences.AlertHapticsEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.news.AutoDownloadRecipesEntity"
+    },
+    {
+        "coercionDefinition": "CAESBgoECgJIAA==",
+        "typeId": "com.apple.news.AutoDownloadRecipesEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.news.AutoDownloadAudioStoriesEntity"
+    },
+    {
+        "coercionDefinition": "CAESBgoECgJIAA==",
+        "typeId": "com.apple.news.AutoDownloadAudioStoriesEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.Preferences.FaceTimeSettingsDynamicDeepLinks"
+    },
+    {
+        "coercionDefinition": "CAESBgoECgJIAA==",
+        "typeId": "com.apple.Preferences.FaceTimeSettingsDynamicDeepLinks"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.Preferences.MultitaskingAndGesturesDeepLink"
+    },
+    {
+        "coercionDefinition": "CAESBgoECgJIAA==",
+        "typeId": "com.apple.Preferences.MultitaskingAndGesturesDeepLink"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.news.AutoDownloadSavedStoriesEntity"
+    },
+    {
+        "coercionDefinition": "CAESBgoECgJIAA==",
+        "typeId": "com.apple.news.AutoDownloadSavedStoriesEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.Preferences.SetupFamilyDeepLink"
+    },
+    {
+        "coercionDefinition": "CAESBgoECgJIAA==",
+        "typeId": "com.apple.Preferences.SetupFamilyDeepLink"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.Preferences.LiveVoicemailToggleEntity"
+    },
+    {
+        "coercionDefinition": "CAESBgoECgJIAA==",
+        "typeId": "com.apple.Preferences.LiveVoicemailToggleEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.Bridge.NotificationsDeepLinks"
+    },
+    {
+        "coercionDefinition": "CAESBgoECgJIAA==",
+        "typeId": "com.apple.Bridge.NotificationsDeepLinks"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.HealthStandaloneIntents.HealthSettingsDeepLink"
+    },
+    {
+        "coercionDefinition": "CAESBgoECgJIAA==",
+        "typeId": "com.apple.HealthStandaloneIntents.HealthSettingsDeepLink"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.Preferences.ShowInStatusBarEntity"
+    },
+    {
+        "coercionDefinition": "CAESBgoECgJIAA==",
+        "typeId": "com.apple.Preferences.ShowInStatusBarEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.Bridge.ZoomDeepLinks"
+    },
+    {
+        "coercionDefinition": "CAESBgoECgJIAA==",
+        "typeId": "com.apple.Bridge.ZoomDeepLinks"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.Preferences.iCloudCalendarSettingsAppIntentsExtensionDeepLinks"
+    },
+    {
+        "coercionDefinition": "CAESBgoECgJIAA==",
+        "typeId": "com.apple.Preferences.iCloudCalendarSettingsAppIntentsExtensionDeepLinks"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.Preferences.AirDropUseCellularDataEntity"
+    },
+    {
+        "coercionDefinition": "CAESBgoECgJIAA==",
+        "typeId": "com.apple.Preferences.AirDropUseCellularDataEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.Bridge.SmartStackDeepLinks"
+    },
+    {
+        "coercionDefinition": "CAESBgoECgJIAA==",
+        "typeId": "com.apple.Bridge.SmartStackDeepLinks"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.Fitness.TrendEntity"
+    },
+    {
+        "coercionDefinition": "CAESBgoECgJIAA==",
+        "typeId": "com.apple.Fitness.TrendEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.Passbook.TransactionEntity"
+    },
+    {
+        "coercionDefinition": "CAESBgoECgJIAA==",
+        "typeId": "com.apple.Passbook.TransactionEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.Preferences.DisplayAndBrightnessDeepLink"
+    },
+    {
+        "coercionDefinition": "CAESBgoECgJIAA==",
+        "typeId": "com.apple.Preferences.DisplayAndBrightnessDeepLink"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.Preferences.MPSilenceUnknownCallersToggleEntity"
+    },
+    {
+        "coercionDefinition": "CAESBgoECgJIAA==",
+        "typeId": "com.apple.Preferences.MPSilenceUnknownCallersToggleEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.news.NewsRecipeEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.Preferences.BusinessConnectCallingToggleEntity"
+    },
+    {
+        "coercionDefinition": "CAESBgoECgJIAA==",
+        "typeId": "com.apple.Preferences.BusinessConnectCallingToggleEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.Preferences.AmbientSettingsDeepLink"
+    },
+    {
+        "coercionDefinition": "CAESBgoECgJIAA==",
+        "typeId": "com.apple.Preferences.AmbientSettingsDeepLink"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.news.NewsTabDeepLink"
+    },
+    {
+        "coercionDefinition": "CAESBgoECgJIAA==",
+        "typeId": "com.apple.news.NewsTabDeepLink"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.Bridge.GesturesDeepLinks"
+    },
+    {
+        "coercionDefinition": "CAESBgoECgJIAA==",
+        "typeId": "com.apple.Bridge.GesturesDeepLinks"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.Preferences.FamilySettingsDeepLink"
+    },
+    {
+        "coercionDefinition": "CAESBgoECgJIAA==",
+        "typeId": "com.apple.Preferences.FamilySettingsDeepLink"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.Bridge.AboutDeepLinks"
+    },
+    {
+        "coercionDefinition": "CAESBgoECgJIAA==",
+        "typeId": "com.apple.Bridge.AboutDeepLinks"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.Preferences.KeyboardSettingsDeepLink"
+    },
+    {
+        "coercionDefinition": "CAESBgoECgJIAA==",
+        "typeId": "com.apple.Preferences.KeyboardSettingsDeepLink"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.Bridge.SettingsNavigationLocationEntity"
+    },
+    {
+        "coercionDefinition": "CAESBgoECgJIAA==",
+        "typeId": "com.apple.Bridge.SettingsNavigationLocationEntity"
+    },
+    {
+        "coercionDefinition": "CAESGioYCgUKA4gBABIPEg0KC3B1YmxpYy5qc29u",
+        "typeId": "com.apple.mobilecal.LocationSearchResultsEntity"
+    },
+    {
+        "coercionDefinition": "CAESGioYCgUKA4gBABIPEg0KC3B1YmxpYy5qc29u",
+        "typeId": "com.apple.mobilecal.TransferableEventEntity"
+    },
+    {
+        "coercionDefinition": "CAESGioYCgUKA4gBABIPEg0KC3B1YmxpYy5qc29u",
+        "typeId": "com.apple.mobilecal.TransferableCalendarEntity"
+    },
+    {
+        "coercionDefinition": "CAESJCoiCgUKA4gBABIZEhcKFWNvbS5hcHBsZS5zaXJpLnBvbW1lcw==",
+        "typeId": "com.apple.omniSearch.SearchToolExtension.SearchGlobalEntity"
+    },
+    {
+        "coercionDefinition": "EjMqMQoFCgOIAQASKBImCiRjb20uYXBwbGUuR2VvVG9vbGJveC5QbGFjZURlc2NyaXB0b3I=",
+        "typeId": "com.apple.-GeoToolbox-AppIntents.GeoToolbox.PlaceDescriptorEntity"
+    },
+    {
+        "coercionDefinition": "CAESMyoxCgUKA4gBABIoEiYKJGNvbS5hcHBsZS5HZW9Ub29sYm94LlBsYWNlRGVzY3JpcHRvcg==",
+        "typeId": "com.apple.-GeoToolbox-AppIntents.GeoToolbox.PlaceDescriptorEntity"
+    },
+    {
+        "coercionDefinition": "CAESBwoFCgOAAQA=",
+        "typeId": "com.apple.mobilecal.ParticipantEntity"
+    },
+    {
+        "coercionDefinition": "CAESGioYCgUKA4gBABIPEg0KC3B1YmxpYy5qc29u",
+        "typeId": "com.apple.mobilecal.TransferableSourceEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.Fitness.ActivityRingEntity"
+    },
+    {
+        "coercionDefinition": "CAESBgoECgJIAA==",
+        "typeId": "com.apple.Fitness.ActivityRingEntity"
+    },
+    {
+        "coercionDefinition": "CAESJSojCgUKA4gBABIaEhgKFnB1YmxpYy51dGY4LXBsYWluLXRleHQ=",
+        "typeId": "com.apple.intelligenceplatform.IntelligencePlatform.IntelligencePlatformDataActionsAppIntentsExtension.AppUsageResultEntity"
+    },
+    {
+        "coercionDefinition": "CAESPCo6CgUKA4gBABIxEi8KFWNvbS5hcHBsZS5zaXJpLnBvbW1lcwoWcHVibGljLnV0ZjgtcGxhaW4tdGV4dA==",
+        "typeId": "com.apple.omniSearch.SearchToolExtension.SearchAnswerEntity"
+    },
+    {
+        "coercionDefinition": "EhoqGAoFCgOIAQASDxINCgtwdWJsaWMuaXRlbQ==",
+        "typeId": "com.apple.DocumentsApp.FINodeEntity"
+    },
+    {
+        "coercionDefinition": "CAESGioYCgUKA4gBABIPEg0KC3B1YmxpYy5pdGVt",
+        "typeId": "com.apple.DocumentsApp.FINodeEntity"
+    }
+]

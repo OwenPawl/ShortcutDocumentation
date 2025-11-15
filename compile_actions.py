@@ -11,6 +11,53 @@ from datetime import datetime, timezone
 from pathlib import Path
 from typing import Dict, Iterable, List, Mapping, MutableMapping, Tuple
 
+ACTION_NOTES: Mapping[str, List[str]] = {
+    "is.workflow.actions.conditional": [
+        (
+            "This control-flow action must be paired with a matching `Conditional` "
+            '"End If" action that shares the same `GroupingIdentifier`.'
+        ),
+        (
+            "Insert another `Conditional` block with `WFControlFlowMode = 1` to add "
+            "an `Otherwise` branch between the opening and closing blocks."
+        ),
+    ],
+    "is.workflow.actions.repeat.count": [
+        (
+            "Repeat X Times requires an opening block and an `End Repeat` block. "
+            "Both actions share a `GroupingIdentifier` and use `WFControlFlowMode` "
+            "to signal whether they open (0) or close (1) the loop."
+        ),
+        (
+            "Use the `Repeat Index` magic variable to access the current iteration number, "
+            "and `Repeat Item` to work with the loop's input value."
+        ),
+    ],
+    "is.workflow.actions.repeat.each": [
+        (
+            "Repeat with Each loops also require a closing `End Repeat` block that "
+            "shares the same `GroupingIdentifier` but sets `WFControlFlowMode = 1`."
+        ),
+        (
+            "Inside the loop, `Repeat Item` exposes the element currently being processed; "
+            "`Repeat Index` tracks the 1-based loop counter."
+        ),
+    ],
+    "is.workflow.actions.dictionary": [
+        (
+            "Provide dictionary data via the `WFItems` parameter. When building shortcuts with "
+            "`js-to-shortcut`, call `serialization.dictionary({ key: value })` and assign the "
+            "result to `WFItems` (for example: `action('is.workflow.actions.dictionary', "
+            "{ WFItems: serialization.dictionary({ name: 'Value' }) })`)."
+        ),
+        (
+            "Each entry is stored as a `WFDictionaryFieldValueItem` with an inferred `WFItemType` "
+            "— strings map to type 0, objects to 1, arrays to 2, numbers to 3, and booleans to 4. "
+            "The serialization helper handles these conversions automatically."
+        ),
+    ],
+}
+
 
 def encode_blob(value: bytes | memoryview | None) -> str | None:
     """Return a base64 string for blobs so they survive JSON serialization."""
@@ -74,6 +121,37 @@ def decode_requirements(blob: bytes | memoryview | None) -> List[int]:
         return values
 
     return parse_segment(0, end)
+
+
+def load_tool_output_types(db_path: Path) -> Dict[int, List[str]]:
+    """Load tool output type identifiers from ToolOutputTypes.json if present."""
+
+    output_path = db_path.with_name("ToolOutputTypes.json")
+    if not output_path.exists():
+        return {}
+
+    try:
+        payload = json.loads(output_path.read_text(encoding="utf-8"))
+    except json.JSONDecodeError as exc:
+        raise SystemExit(f"Failed to parse tool output types: {exc}") from exc
+
+    grouped: MutableMapping[int, List[str]] = defaultdict(list)
+    for entry in payload:
+        tool_id = entry.get("toolId")
+        type_identifier = entry.get("typeIdentifier")
+        if tool_id is None or not type_identifier:
+            continue
+        grouped[int(tool_id)].append(type_identifier)
+
+    return dict(grouped)
+
+
+def table_columns(conn: sqlite3.Connection, table: str) -> set[str]:
+    return {
+        row["name"]
+        for row in conn.execute(f"PRAGMA table_info({table})")
+        if row["name"]
+    }
 
 
 def fetch_tool_rows(conn: sqlite3.Connection) -> List[sqlite3.Row]:
@@ -151,28 +229,66 @@ def fetch_parameter_localizations(
 
 
 def fetch_parameters(conn: sqlite3.Connection) -> List[sqlite3.Row]:
-    return conn.execute(
-        """
+    parameter_columns = table_columns(conn, "Parameters")
+    type_columns = table_columns(conn, "Types")
+
+    def add_param_column(column: str, default: str = "NULL") -> str:
+        if column in parameter_columns:
+            return f"Parameters.{column} AS {column}"
+        return f"{default} AS {column}"
+
+    select_parts = [
+        "Parameters.rowid AS parameterRowId",
+        "Parameters.toolId",
+        add_param_column("key"),
+        add_param_column("sortOrder", "0"),
+        add_param_column("relationships"),
+        add_param_column("flags", "0"),
+        add_param_column("typeInstance"),
+    ]
+
+    has_type_join = "typeId" in parameter_columns and type_columns
+    if has_type_join:
+        select_parts.append("Parameters.typeId AS typeId")
+    else:
+        select_parts.append("NULL AS typeId")
+
+    def add_type_column(column: str, alias: str) -> str:
+        if has_type_join and column in type_columns:
+            return f"Types.{column} AS {alias}"
+        return f"NULL AS {alias}"
+
+    select_parts.extend(
+        [
+            add_type_column("id", "typeIdentifier"),
+            add_type_column("kind", "typeKind"),
+            add_type_column("runtimeFlags", "typeRuntimeFlags"),
+            add_type_column("runtimeRequirements", "typeRuntimeRequirements"),
+        ]
+    )
+
+    select_sql = ",\n            ".join(select_parts)
+    type_join = (
+        "LEFT JOIN Types ON Types.rowId = Parameters.typeId" if has_type_join else ""
+    )
+
+    sort_order_column = (
+        "Parameters.sortOrder" if "sortOrder" in parameter_columns else "Parameters.rowid"
+    )
+    key_order_column = (
+        "Parameters.key" if "key" in parameter_columns else "Parameters.rowid"
+    )
+
+    query = f"""
         SELECT
-            Parameters.rowid AS parameterRowId,
-            Parameters.toolId,
-            Parameters.key,
-            Parameters.sortOrder,
-            Parameters.relationships,
-            Parameters.flags,
-            Parameters.typeId,
-            Parameters.typeInstance,
-            Types.id AS typeIdentifier,
-            Types.kind AS typeKind,
-            Types.runtimeFlags AS typeRuntimeFlags,
-            Types.runtimeRequirements AS typeRuntimeRequirements
+            {select_sql}
         FROM Parameters
         JOIN Tools ON Tools.rowId = Parameters.toolId
-        LEFT JOIN Types ON Types.rowId = Parameters.typeId
+        {type_join}
         WHERE Tools.toolType = 'action'
-        ORDER BY Parameters.toolId, Parameters.sortOrder, Parameters.key
+        ORDER BY Parameters.toolId, {sort_order_column}, {key_order_column}
         """
-    ).fetchall()
+    return conn.execute(query).fetchall()
 
 
 def build_payload(
@@ -180,6 +296,7 @@ def build_payload(
     tool_localizations: Mapping[int, sqlite3.Row],
     parameter_localizations: Mapping[Tuple[int, str], sqlite3.Row],
     parameters: Iterable[sqlite3.Row],
+    tool_output_types: Mapping[int, List[str]],
 ) -> Mapping[str, dict]:
     params_by_tool: MutableMapping[int, List[dict]] = defaultdict(list)
     for param in parameters:
@@ -208,6 +325,7 @@ def build_payload(
     for tool in tools:
         localized = tool_localizations.get(tool["rowId"])
         requirements_blob = tool["requirements"]
+        output_types = tool_output_types.get(tool["rowId"])
         compiled[tool["id"]] = {
             "rowId": tool["rowId"],
             "name": (localized["name"] if localized else None) or tool["id"],
@@ -227,9 +345,30 @@ def build_payload(
             "outputTypeInstance": encode_blob(tool["outputTypeInstance"]),
             "customIcon": encode_blob(tool["customIcon"]),
             "arguments": params_by_tool.get(tool["rowId"], []),
+            "notes": ACTION_NOTES.get(tool["id"]),
         }
+        if output_types:
+            compiled[tool["id"]]["outputTypes"] = output_types
 
     return compiled
+
+
+def load_manual_overrides(db_path: Path) -> Dict[str, dict]:
+    override_path = db_path.with_name("manual-overrides.json")
+    if not override_path.exists():
+        return {}
+
+    try:
+        overrides = json.loads(override_path.read_text(encoding="utf-8"))
+    except json.JSONDecodeError as exc:
+        raise SystemExit(f"Failed to parse manual overrides: {exc}") from exc
+
+    normalized: Dict[str, dict] = {}
+    for action_id, override in overrides.items():
+        if not isinstance(override, dict):
+            continue
+        normalized[action_id] = override
+    return normalized
 
 
 def main() -> None:
@@ -281,9 +420,17 @@ def main() -> None:
     finally:
         conn.close()
 
+    tool_output_types = load_tool_output_types(db_path)
+
     compiled_actions = build_payload(
-        tools, tool_localizations, parameter_localizations, parameters
+        tools, tool_localizations, parameter_localizations, parameters, tool_output_types
     )
+
+    overrides = load_manual_overrides(db_path)
+    for action_id, override in overrides.items():
+        if action_id in compiled_actions:
+            continue
+        compiled_actions[action_id] = override
 
     payload = {
         "metadata": {

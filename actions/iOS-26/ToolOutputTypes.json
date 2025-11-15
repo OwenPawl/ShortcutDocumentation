@@ -1,0 +1,4954 @@
+[
+    {
+        "toolId": 1,
+        "typeIdentifier": "com.apple.reminders.GroupEntity"
+    },
+    {
+        "toolId": 2,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 3,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 4,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 5,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 6,
+        "typeIdentifier": "file"
+    },
+    {
+        "toolId": 7,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 8,
+        "typeIdentifier": "file"
+    },
+    {
+        "toolId": 9,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 10,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 11,
+        "typeIdentifier": "com.apple.Bridge.BoldTextEntity"
+    },
+    {
+        "toolId": 12,
+        "typeIdentifier": "string"
+    },
+    {
+        "toolId": 13,
+        "typeIdentifier": "string"
+    },
+    {
+        "toolId": 14,
+        "typeIdentifier": "com.apple.news.RecipeEntity"
+    },
+    {
+        "toolId": 15,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 16,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 17,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 18,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 19,
+        "typeIdentifier": "com.apple.DocumentsApp.FINodeEntity"
+    },
+    {
+        "toolId": 20,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 21,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 22,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 23,
+        "typeIdentifier": "com.apple.news.RecipeEntity"
+    },
+    {
+        "toolId": 24,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 25,
+        "typeIdentifier": "com.apple.shortcuts.WFWorkflowReference"
+    },
+    {
+        "toolId": 26,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 27,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 28,
+        "typeIdentifier": "com.apple.shortcuts.WFiTunesProductContentItem"
+    },
+    {
+        "toolId": 29,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 30,
+        "typeIdentifier": "com.apple.reminders.ReminderEntity"
+    },
+    {
+        "toolId": 31,
+        "typeIdentifier": "com.apple.contacts.autocomplete.appintentextension.HandleAvailabilityEntity"
+    },
+    {
+        "toolId": 32,
+        "typeIdentifier": "com.apple.shortcuts.WFWeatherAirQualityPollutantContentItem"
+    },
+    {
+        "toolId": 32,
+        "typeIdentifier": "number"
+    },
+    {
+        "toolId": 32,
+        "typeIdentifier": "placemark"
+    },
+    {
+        "toolId": 32,
+        "typeIdentifier": "string"
+    },
+    {
+        "toolId": 32,
+        "typeIdentifier": "date"
+    },
+    {
+        "toolId": 32,
+        "typeIdentifier": "genericMeasurement"
+    },
+    {
+        "toolId": 33,
+        "typeIdentifier": "com.apple.Preferences.KeyboardSettingsDeepLink"
+    },
+    {
+        "toolId": 34,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 35,
+        "typeIdentifier": "url"
+    },
+    {
+        "toolId": 35,
+        "typeIdentifier": "date"
+    },
+    {
+        "toolId": 35,
+        "typeIdentifier": "string"
+    },
+    {
+        "toolId": 35,
+        "typeIdentifier": "file"
+    },
+    {
+        "toolId": 36,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 37,
+        "typeIdentifier": "com.apple.mobilecal.SettingsShowWeekNumbersEntity"
+    },
+    {
+        "toolId": 38,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 39,
+        "typeIdentifier": "com.apple.shortcuts.WFEvernoteContentItem"
+    },
+    {
+        "toolId": 40,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 41,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 42,
+        "typeIdentifier": "com.apple.Maps.MapsSettingsAppIntents.MapsSettingsDeepLink"
+    },
+    {
+        "toolId": 43,
+        "typeIdentifier": "string"
+    },
+    {
+        "toolId": 44,
+        "typeIdentifier": "com.apple.mobilecal.SettingsStartWeekOnEntity"
+    },
+    {
+        "toolId": 45,
+        "typeIdentifier": "com.apple.DocumentsApp.FINodeEntity"
+    },
+    {
+        "toolId": 46,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 47,
+        "typeIdentifier": "string"
+    },
+    {
+        "toolId": 48,
+        "typeIdentifier": "com.apple.news.RestrictStoriesInTodaySettingEntity"
+    },
+    {
+        "toolId": 49,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 50,
+        "typeIdentifier": "file"
+    },
+    {
+        "toolId": 51,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 52,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 53,
+        "typeIdentifier": "com.apple.Bridge.CellularDeepLinks"
+    },
+    {
+        "toolId": 54,
+        "typeIdentifier": "com.apple.shortcuts.WFWeatherDataContentItem"
+    },
+    {
+        "toolId": 55,
+        "typeIdentifier": "com.apple.shortcuts.WFEmailAddressContentItem"
+    },
+    {
+        "toolId": 56,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 57,
+        "typeIdentifier": "placemark"
+    },
+    {
+        "toolId": 58,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 59,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 60,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 61,
+        "typeIdentifier": "string"
+    },
+    {
+        "toolId": 62,
+        "typeIdentifier": "string"
+    },
+    {
+        "toolId": 63,
+        "typeIdentifier": "person"
+    },
+    {
+        "toolId": 64,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 65,
+        "typeIdentifier": "com.apple.mobileslideshow.AlbumEntity"
+    },
+    {
+        "toolId": 66,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 67,
+        "typeIdentifier": "com.apple.news.AutoDownloadPuzzlesEntity"
+    },
+    {
+        "toolId": 68,
+        "typeIdentifier": "com.apple.news.IngredientEntity"
+    },
+    {
+        "toolId": 69,
+        "typeIdentifier": "string"
+    },
+    {
+        "toolId": 70,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 71,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 72,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 73,
+        "typeIdentifier": "com.apple.Preferences.NotificationEmittingResult"
+    },
+    {
+        "toolId": 74,
+        "typeIdentifier": "com.apple.reminders.ShowAsOverdueEntity"
+    },
+    {
+        "toolId": 75,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 76,
+        "typeIdentifier": "url"
+    },
+    {
+        "toolId": 77,
+        "typeIdentifier": "file"
+    },
+    {
+        "toolId": 77,
+        "typeIdentifier": "string"
+    },
+    {
+        "toolId": 78,
+        "typeIdentifier": "string"
+    },
+    {
+        "toolId": 79,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 80,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 81,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 82,
+        "typeIdentifier": "com.apple.Passbook.PassEntity"
+    },
+    {
+        "toolId": 83,
+        "typeIdentifier": "com.apple.reminders.ReminderEntity"
+    },
+    {
+        "toolId": 84,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 85,
+        "typeIdentifier": "com.apple.Preferences.MusicSettingsDeepLink"
+    },
+    {
+        "toolId": 86,
+        "typeIdentifier": "file"
+    },
+    {
+        "toolId": 87,
+        "typeIdentifier": "com.apple.AppKit.WritingToolsResult"
+    },
+    {
+        "toolId": 88,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 89,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 90,
+        "typeIdentifier": "com.apple.shortcuts.WFContentItem"
+    },
+    {
+        "toolId": 91,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 92,
+        "typeIdentifier": "string"
+    },
+    {
+        "toolId": 93,
+        "typeIdentifier": "string"
+    },
+    {
+        "toolId": 94,
+        "typeIdentifier": "com.apple.Preferences.SilenceJunkCallersToggleEntity"
+    },
+    {
+        "toolId": 95,
+        "typeIdentifier": "com.apple.omniSearch.SearchToolExtension.MemoryCreationQUResult"
+    },
+    {
+        "toolId": 96,
+        "typeIdentifier": "file"
+    },
+    {
+        "toolId": 97,
+        "typeIdentifier": "file"
+    },
+    {
+        "toolId": 98,
+        "typeIdentifier": "com.apple.mobilesafari.SearchEngineEntity"
+    },
+    {
+        "toolId": 99,
+        "typeIdentifier": "file"
+    },
+    {
+        "toolId": 100,
+        "typeIdentifier": "com.apple.news.RestrictStoriesInTodaySettingEntity"
+    },
+    {
+        "toolId": 101,
+        "typeIdentifier": "date"
+    },
+    {
+        "toolId": 102,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 103,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 104,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 105,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 106,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 107,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 108,
+        "typeIdentifier": "com.apple.mobilesafari.TabLayoutEntity"
+    },
+    {
+        "toolId": 109,
+        "typeIdentifier": "com.apple.reminders.MuteNotificationsEntity"
+    },
+    {
+        "toolId": 110,
+        "typeIdentifier": "com.apple.reminders.ReminderEntity"
+    },
+    {
+        "toolId": 111,
+        "typeIdentifier": "com.apple.musicrecognition.ShazamMediaEntity"
+    },
+    {
+        "toolId": 112,
+        "typeIdentifier": "com.apple.mobilesafari.BookmarkEntity"
+    },
+    {
+        "toolId": 113,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 114,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 115,
+        "typeIdentifier": "bool"
+    },
+    {
+        "toolId": 115,
+        "typeIdentifier": "string"
+    },
+    {
+        "toolId": 115,
+        "typeIdentifier": "file"
+    },
+    {
+        "toolId": 115,
+        "typeIdentifier": "placemark"
+    },
+    {
+        "toolId": 115,
+        "typeIdentifier": "date"
+    },
+    {
+        "toolId": 116,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 117,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 118,
+        "typeIdentifier": "com.apple.shortcuts.WFWeatherDataContentItem"
+    },
+    {
+        "toolId": 119,
+        "typeIdentifier": "string"
+    },
+    {
+        "toolId": 120,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 121,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 122,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 123,
+        "typeIdentifier": "number"
+    },
+    {
+        "toolId": 124,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 125,
+        "typeIdentifier": "com.apple.reminders.IncludeDueTodayEntity"
+    },
+    {
+        "toolId": 126,
+        "typeIdentifier": "com.apple.mobilesafari.PrivateTabEntity"
+    },
+    {
+        "toolId": 127,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 128,
+        "typeIdentifier": "com.apple.MobileAddressBook.ContactEntity"
+    },
+    {
+        "toolId": 129,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 130,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 131,
+        "typeIdentifier": "string"
+    },
+    {
+        "toolId": 131,
+        "typeIdentifier": "url"
+    },
+    {
+        "toolId": 132,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 133,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 134,
+        "typeIdentifier": "com.apple.Preferences.iCloudMailSettingsAppIntentsExtensionDeepLinks"
+    },
+    {
+        "toolId": 135,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 136,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 137,
+        "typeIdentifier": "com.apple.Preferences.ShowInStatusBarEntity"
+    },
+    {
+        "toolId": 138,
+        "typeIdentifier": "com.apple.reminders.RemotePreferencesEntity"
+    },
+    {
+        "toolId": 139,
+        "typeIdentifier": "com.apple.mobilesafari.PrivateSearchEngineEntity"
+    },
+    {
+        "toolId": 140,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 141,
+        "typeIdentifier": "com.apple.Preferences.AlertHapticsEntity"
+    },
+    {
+        "toolId": 142,
+        "typeIdentifier": "com.apple.Health.HealthDataTypeEntity"
+    },
+    {
+        "toolId": 143,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 144,
+        "typeIdentifier": "file"
+    },
+    {
+        "toolId": 145,
+        "typeIdentifier": "com.apple.news.RecipeEntity"
+    },
+    {
+        "toolId": 146,
+        "typeIdentifier": "com.apple.shortcuts.WFFocusModeContentItem"
+    },
+    {
+        "toolId": 147,
+        "typeIdentifier": "com.apple.Preferences.MobilePhoneSettingsDynamicDeepLinks"
+    },
+    {
+        "toolId": 148,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 149,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 150,
+        "typeIdentifier": "com.apple.shortcuts.WFContentItem"
+    },
+    {
+        "toolId": 151,
+        "typeIdentifier": "com.apple.shortcuts.WFFileSizeContentItem"
+    },
+    {
+        "toolId": 151,
+        "typeIdentifier": "string"
+    },
+    {
+        "toolId": 151,
+        "typeIdentifier": "date"
+    },
+    {
+        "toolId": 152,
+        "typeIdentifier": "url"
+    },
+    {
+        "toolId": 153,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 154,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 155,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 156,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 157,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 158,
+        "typeIdentifier": "url"
+    },
+    {
+        "toolId": 159,
+        "typeIdentifier": "file"
+    },
+    {
+        "toolId": 160,
+        "typeIdentifier": "com.apple.Preferences.AirDropReceivingModeEntity"
+    },
+    {
+        "toolId": 161,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 162,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 163,
+        "typeIdentifier": "com.apple.Preferences.AirDropUseCellularDataEntity"
+    },
+    {
+        "toolId": 164,
+        "typeIdentifier": "person"
+    },
+    {
+        "toolId": 165,
+        "typeIdentifier": "file"
+    },
+    {
+        "toolId": 165,
+        "typeIdentifier": "string"
+    },
+    {
+        "toolId": 166,
+        "typeIdentifier": "file"
+    },
+    {
+        "toolId": 167,
+        "typeIdentifier": "string"
+    },
+    {
+        "toolId": 168,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 169,
+        "typeIdentifier": "com.apple.Preview.DocumentEntity"
+    },
+    {
+        "toolId": 170,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 171,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 172,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 173,
+        "typeIdentifier": "com.apple.mobilecal.EventEntity"
+    },
+    {
+        "toolId": 174,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 175,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 176,
+        "typeIdentifier": "com.apple.Bridge.GesturesDeepLinks"
+    },
+    {
+        "toolId": 177,
+        "typeIdentifier": "com.apple.reminders.TodayNotificationEntity"
+    },
+    {
+        "toolId": 178,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 179,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 180,
+        "typeIdentifier": "com.apple.reminders.ReminderEntity"
+    },
+    {
+        "toolId": 181,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 182,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 183,
+        "typeIdentifier": "string"
+    },
+    {
+        "toolId": 184,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 185,
+        "typeIdentifier": "com.apple.shortcuts.ShortcutsActionEntity"
+    },
+    {
+        "toolId": 186,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 187,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 188,
+        "typeIdentifier": "com.apple.shortcuts.WFPhoneNumberContentItem"
+    },
+    {
+        "toolId": 189,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 190,
+        "typeIdentifier": "com.apple.Bridge.AppViewDeepLinks"
+    },
+    {
+        "toolId": 191,
+        "typeIdentifier": "com.apple.shortcuts.WFArticleContentItem"
+    },
+    {
+        "toolId": 191,
+        "typeIdentifier": "url"
+    },
+    {
+        "toolId": 192,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 193,
+        "typeIdentifier": "com.apple.mobilecal.SettingsShowLocationSuggestionsEntity"
+    },
+    {
+        "toolId": 194,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 195,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 196,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 197,
+        "typeIdentifier": "com.apple.news.RecipeEntity"
+    },
+    {
+        "toolId": 198,
+        "typeIdentifier": "com.apple.reminders.SmartListEntity"
+    },
+    {
+        "toolId": 199,
+        "typeIdentifier": "com.apple.Preferences.SettingsCellularDeepLinks"
+    },
+    {
+        "toolId": 200,
+        "typeIdentifier": "file"
+    },
+    {
+        "toolId": 201,
+        "typeIdentifier": "com.apple.Bridge.EmergencySOSDeepLinks"
+    },
+    {
+        "toolId": 202,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 203,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 204,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 205,
+        "typeIdentifier": "com.apple.mobilesafari.TabBarLayoutEntity"
+    },
+    {
+        "toolId": 206,
+        "typeIdentifier": "com.apple.reminders.ReminderEntity"
+    },
+    {
+        "toolId": 207,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 208,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 209,
+        "typeIdentifier": "com.apple.shortcuts.WFEmailAddressContentItem"
+    },
+    {
+        "toolId": 210,
+        "typeIdentifier": "com.apple.mobilecal.SettingsBirthdaysDefaultAlertTimesEntity"
+    },
+    {
+        "toolId": 211,
+        "typeIdentifier": "com.apple.shortcuts.WFContentItem"
+    },
+    {
+        "toolId": 212,
+        "typeIdentifier": "com.apple.mobilecal.SettingsAllDayDefaultAlertTimesEntity"
+    },
+    {
+        "toolId": 213,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 214,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 215,
+        "typeIdentifier": "file"
+    },
+    {
+        "toolId": 216,
+        "typeIdentifier": "file"
+    },
+    {
+        "toolId": 217,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 218,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 219,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 220,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 221,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 222,
+        "typeIdentifier": "string"
+    },
+    {
+        "toolId": 223,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 224,
+        "typeIdentifier": "com.apple.DocumentsApp.FINodeEntity"
+    },
+    {
+        "toolId": 225,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 226,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 227,
+        "typeIdentifier": "com.apple.Preferences.SafetyCheckDeepLinks"
+    },
+    {
+        "toolId": 228,
+        "typeIdentifier": "com.apple.shortcuts.WFShazamMediaContentItem"
+    },
+    {
+        "toolId": 229,
+        "typeIdentifier": "com.apple.mobilesafari.LandscapeTabBarEntity"
+    },
+    {
+        "toolId": 230,
+        "typeIdentifier": "com.apple.TransparencySettingsIntents.TransparencyStatusEntity"
+    },
+    {
+        "toolId": 231,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 232,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 233,
+        "typeIdentifier": "com.apple.news.NewsSettingsDynamicDeepLinks"
+    },
+    {
+        "toolId": 234,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 235,
+        "typeIdentifier": "string"
+    },
+    {
+        "toolId": 236,
+        "typeIdentifier": "com.apple.mobilesafari.AutoFillCreditCardEntity"
+    },
+    {
+        "toolId": 237,
+        "typeIdentifier": "com.apple.mobilesafari.SafariSuggestionsEntity"
+    },
+    {
+        "toolId": 238,
+        "typeIdentifier": "com.apple.shortcuts.WFContentItem"
+    },
+    {
+        "toolId": 239,
+        "typeIdentifier": "file"
+    },
+    {
+        "toolId": 239,
+        "typeIdentifier": "string"
+    },
+    {
+        "toolId": 239,
+        "typeIdentifier": "url"
+    },
+    {
+        "toolId": 239,
+        "typeIdentifier": "bool"
+    },
+    {
+        "toolId": 240,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 241,
+        "typeIdentifier": "com.apple.mobilesafari.CloseTabsModeEntity"
+    },
+    {
+        "toolId": 242,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 243,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 244,
+        "typeIdentifier": "com.apple.mobilecal.EventEntity"
+    },
+    {
+        "toolId": 245,
+        "typeIdentifier": "string"
+    },
+    {
+        "toolId": 246,
+        "typeIdentifier": "com.apple.mobilesafari.LandscapeTabBarEntity"
+    },
+    {
+        "toolId": 247,
+        "typeIdentifier": "placemark"
+    },
+    {
+        "toolId": 248,
+        "typeIdentifier": "com.apple.reminders.GroupEntity"
+    },
+    {
+        "toolId": 249,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 250,
+        "typeIdentifier": "com.apple.Preferences.BusinessConnectCallingToggleEntity"
+    },
+    {
+        "toolId": 251,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 252,
+        "typeIdentifier": "date"
+    },
+    {
+        "toolId": 253,
+        "typeIdentifier": "com.apple.reminders.SectionEntity"
+    },
+    {
+        "toolId": 254,
+        "typeIdentifier": "number"
+    },
+    {
+        "toolId": 255,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 256,
+        "typeIdentifier": "date"
+    },
+    {
+        "toolId": 256,
+        "typeIdentifier": "com.apple.shortcuts.WFFileSizeContentItem"
+    },
+    {
+        "toolId": 256,
+        "typeIdentifier": "string"
+    },
+    {
+        "toolId": 256,
+        "typeIdentifier": "file"
+    },
+    {
+        "toolId": 256,
+        "typeIdentifier": "number"
+    },
+    {
+        "toolId": 257,
+        "typeIdentifier": "file"
+    },
+    {
+        "toolId": 257,
+        "typeIdentifier": "string"
+    },
+    {
+        "toolId": 258,
+        "typeIdentifier": "com.apple.mobilecal.LocationSearchResultsEntity"
+    },
+    {
+        "toolId": 259,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 260,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 261,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 262,
+        "typeIdentifier": "string"
+    },
+    {
+        "toolId": 263,
+        "typeIdentifier": "com.apple.Preferences.AmbientSettingsDeepLink"
+    },
+    {
+        "toolId": 264,
+        "typeIdentifier": "com.apple.shortcuts.WFUlyssesSheetContentItem"
+    },
+    {
+        "toolId": 265,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 266,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 267,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 268,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 269,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 270,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 271,
+        "typeIdentifier": "string"
+    },
+    {
+        "toolId": 272,
+        "typeIdentifier": "com.apple.Preferences.DefaultAppsSettingsDeepLink"
+    },
+    {
+        "toolId": 273,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 274,
+        "typeIdentifier": "com.apple.mobilecal.TransferableEventEntity"
+    },
+    {
+        "toolId": 275,
+        "typeIdentifier": "string"
+    },
+    {
+        "toolId": 276,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 277,
+        "typeIdentifier": "com.apple.Preferences.MessageListPreviewLinesPreferenceEntity"
+    },
+    {
+        "toolId": 278,
+        "typeIdentifier": "measurement_length"
+    },
+    {
+        "toolId": 279,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 280,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 281,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 282,
+        "typeIdentifier": "date"
+    },
+    {
+        "toolId": 283,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 284,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 285,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 286,
+        "typeIdentifier": "string"
+    },
+    {
+        "toolId": 287,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 288,
+        "typeIdentifier": "number"
+    },
+    {
+        "toolId": 289,
+        "typeIdentifier": "com.apple.shortcuts.WFFileSizeContentItem"
+    },
+    {
+        "toolId": 289,
+        "typeIdentifier": "number"
+    },
+    {
+        "toolId": 289,
+        "typeIdentifier": "url"
+    },
+    {
+        "toolId": 289,
+        "typeIdentifier": "file"
+    },
+    {
+        "toolId": 289,
+        "typeIdentifier": "string"
+    },
+    {
+        "toolId": 289,
+        "typeIdentifier": "com.apple.shortcuts.WFiTunesArtistContentItem"
+    },
+    {
+        "toolId": 289,
+        "typeIdentifier": "bool"
+    },
+    {
+        "toolId": 289,
+        "typeIdentifier": "date"
+    },
+    {
+        "toolId": 290,
+        "typeIdentifier": "file"
+    },
+    {
+        "toolId": 291,
+        "typeIdentifier": "person"
+    },
+    {
+        "toolId": 292,
+        "typeIdentifier": "com.apple.shortcuts.WFHKWorkoutContentItem"
+    },
+    {
+        "toolId": 293,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 294,
+        "typeIdentifier": "com.apple.news.AutoDownloadStoriesInFeedsEntity"
+    },
+    {
+        "toolId": 295,
+        "typeIdentifier": "string"
+    },
+    {
+        "toolId": 296,
+        "typeIdentifier": "int"
+    },
+    {
+        "toolId": 297,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 298,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 299,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 300,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 301,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 302,
+        "typeIdentifier": "com.apple.mobilecal.SettingsShowInviteeDeclinesEntity"
+    },
+    {
+        "toolId": 303,
+        "typeIdentifier": "com.apple.reminders.SectionEntity"
+    },
+    {
+        "toolId": 304,
+        "typeIdentifier": "com.apple.shortcuts.WFContentItem"
+    },
+    {
+        "toolId": 305,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 306,
+        "typeIdentifier": "file"
+    },
+    {
+        "toolId": 307,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 308,
+        "typeIdentifier": "com.apple.compass.CompassSettingsAppIntents.CompassSettingsDeepLink"
+    },
+    {
+        "toolId": 309,
+        "typeIdentifier": "com.apple.Spotlight.SearchFieldEntity"
+    },
+    {
+        "toolId": 310,
+        "typeIdentifier": "com.apple.news.AutoDownloadStoriesInFeedsEntity"
+    },
+    {
+        "toolId": 311,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 312,
+        "typeIdentifier": "url"
+    },
+    {
+        "toolId": 313,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 314,
+        "typeIdentifier": "app"
+    },
+    {
+        "toolId": 315,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 316,
+        "typeIdentifier": "com.apple.news.RecipeEntity"
+    },
+    {
+        "toolId": 317,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 318,
+        "typeIdentifier": "file"
+    },
+    {
+        "toolId": 319,
+        "typeIdentifier": "com.apple.mobilesafari.TabEntity"
+    },
+    {
+        "toolId": 320,
+        "typeIdentifier": "com.apple.Preferences.BluetoothPowerEntity"
+    },
+    {
+        "toolId": 321,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 322,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 323,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 324,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 325,
+        "typeIdentifier": "com.apple.Bridge.GeneralDeepLinks"
+    },
+    {
+        "toolId": 326,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 327,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 328,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 329,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 330,
+        "typeIdentifier": "url"
+    },
+    {
+        "toolId": 331,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 332,
+        "typeIdentifier": "com.apple.mobilecal.SettingsSyncDurationsEntity"
+    },
+    {
+        "toolId": 333,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 334,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 335,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 336,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 337,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 338,
+        "typeIdentifier": "string"
+    },
+    {
+        "toolId": 338,
+        "typeIdentifier": "bool"
+    },
+    {
+        "toolId": 338,
+        "typeIdentifier": "com.apple.shortcuts.WFAppearanceSettingContentItem"
+    },
+    {
+        "toolId": 339,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 340,
+        "typeIdentifier": "file"
+    },
+    {
+        "toolId": 341,
+        "typeIdentifier": "number"
+    },
+    {
+        "toolId": 341,
+        "typeIdentifier": "url"
+    },
+    {
+        "toolId": 341,
+        "typeIdentifier": "com.apple.shortcuts.WFTimeIntervalContentItem"
+    },
+    {
+        "toolId": 341,
+        "typeIdentifier": "date"
+    },
+    {
+        "toolId": 341,
+        "typeIdentifier": "string"
+    },
+    {
+        "toolId": 341,
+        "typeIdentifier": "com.apple.shortcuts.WFEKParticipantContentItem"
+    },
+    {
+        "toolId": 341,
+        "typeIdentifier": "file"
+    },
+    {
+        "toolId": 341,
+        "typeIdentifier": "com.apple.shortcuts.WFFileSizeContentItem"
+    },
+    {
+        "toolId": 341,
+        "typeIdentifier": "bool"
+    },
+    {
+        "toolId": 342,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 343,
+        "typeIdentifier": "placemark"
+    },
+    {
+        "toolId": 344,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 345,
+        "typeIdentifier": "file"
+    },
+    {
+        "toolId": 345,
+        "typeIdentifier": "url"
+    },
+    {
+        "toolId": 345,
+        "typeIdentifier": "number"
+    },
+    {
+        "toolId": 345,
+        "typeIdentifier": "com.apple.shortcuts.WFiTunesArtistContentItem"
+    },
+    {
+        "toolId": 345,
+        "typeIdentifier": "com.apple.shortcuts.WFTimeIntervalContentItem"
+    },
+    {
+        "toolId": 345,
+        "typeIdentifier": "bool"
+    },
+    {
+        "toolId": 345,
+        "typeIdentifier": "date"
+    },
+    {
+        "toolId": 345,
+        "typeIdentifier": "string"
+    },
+    {
+        "toolId": 346,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 347,
+        "typeIdentifier": "string"
+    },
+    {
+        "toolId": 347,
+        "typeIdentifier": "file"
+    },
+    {
+        "toolId": 348,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 349,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 350,
+        "typeIdentifier": "com.apple.Preferences.SettingsDeepLink"
+    },
+    {
+        "toolId": 351,
+        "typeIdentifier": "com.apple.news.OptimizeStorageEntity"
+    },
+    {
+        "toolId": 352,
+        "typeIdentifier": "com.apple.shortcuts.WFPosterContentItem"
+    },
+    {
+        "toolId": 353,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 354,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 355,
+        "typeIdentifier": "com.apple.Preferences.IncludeAttachmentRepliesPreferenceEntity"
+    },
+    {
+        "toolId": 356,
+        "typeIdentifier": "com.apple.mobilecal.SettingsStartWeekOnEntity"
+    },
+    {
+        "toolId": 357,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 358,
+        "typeIdentifier": "com.apple.Passbook.PassEntity"
+    },
+    {
+        "toolId": 359,
+        "typeIdentifier": "com.apple.Preferences.BlockedSenderEnabledPreferenceEntity"
+    },
+    {
+        "toolId": 360,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 361,
+        "typeIdentifier": "com.apple.reminders.ListEntity"
+    },
+    {
+        "toolId": 362,
+        "typeIdentifier": "com.apple.news.AutoDownloadEntity"
+    },
+    {
+        "toolId": 363,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 364,
+        "typeIdentifier": "com.apple.mobilecal.SettingsTimeToLeaveEntity"
+    },
+    {
+        "toolId": 365,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 366,
+        "typeIdentifier": "string"
+    },
+    {
+        "toolId": 367,
+        "typeIdentifier": "com.apple.Preferences.TwentyFourHourTimeEntity"
+    },
+    {
+        "toolId": 368,
+        "typeIdentifier": "string"
+    },
+    {
+        "toolId": 369,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 370,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 371,
+        "typeIdentifier": "number"
+    },
+    {
+        "toolId": 372,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 373,
+        "typeIdentifier": "number"
+    },
+    {
+        "toolId": 374,
+        "typeIdentifier": "com.apple.reminders.ListEntity"
+    },
+    {
+        "toolId": 375,
+        "typeIdentifier": "com.apple.Fitness.AwardEntity"
+    },
+    {
+        "toolId": 376,
+        "typeIdentifier": "string"
+    },
+    {
+        "toolId": 377,
+        "typeIdentifier": "file"
+    },
+    {
+        "toolId": 378,
+        "typeIdentifier": "com.apple.ShortcutsActions.Orientation"
+    },
+    {
+        "toolId": 379,
+        "typeIdentifier": "com.apple.mobilecal.EventEntity"
+    },
+    {
+        "toolId": 380,
+        "typeIdentifier": "number"
+    },
+    {
+        "toolId": 381,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 382,
+        "typeIdentifier": "com.apple.reminders.ShowSuggestionsEntity"
+    },
+    {
+        "toolId": 383,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 384,
+        "typeIdentifier": "com.apple.mobilecal.SettingsAlternateCalendarEntity"
+    },
+    {
+        "toolId": 385,
+        "typeIdentifier": "com.apple.shortcuts.WFParkedCarContentItem"
+    },
+    {
+        "toolId": 386,
+        "typeIdentifier": "placemark"
+    },
+    {
+        "toolId": 387,
+        "typeIdentifier": "placemark"
+    },
+    {
+        "toolId": 388,
+        "typeIdentifier": "file"
+    },
+    {
+        "toolId": 389,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 390,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 391,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 392,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 393,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 394,
+        "typeIdentifier": "com.apple.mobilecal.SettingsSyncDurationsEntity"
+    },
+    {
+        "toolId": 395,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 396,
+        "typeIdentifier": "file"
+    },
+    {
+        "toolId": 397,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 398,
+        "typeIdentifier": "com.apple.mobilecal.SettingsShowWeekNumbersEntity"
+    },
+    {
+        "toolId": 399,
+        "typeIdentifier": "com.apple.MobileAddressBook.ContactEntity"
+    },
+    {
+        "toolId": 400,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 401,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 402,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 403,
+        "typeIdentifier": "file"
+    },
+    {
+        "toolId": 404,
+        "typeIdentifier": "com.apple.Preferences.SpotlightSettingsDeepLinks"
+    },
+    {
+        "toolId": 405,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 406,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 407,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 408,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 409,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 410,
+        "typeIdentifier": "number"
+    },
+    {
+        "toolId": 411,
+        "typeIdentifier": "com.apple.Fitness.ActivityRingGoalSchedule"
+    },
+    {
+        "toolId": 412,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 413,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 414,
+        "typeIdentifier": "com.apple.mobilecal.EventEntity"
+    },
+    {
+        "toolId": 415,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 416,
+        "typeIdentifier": "com.apple.mobilesafari.TabEntity"
+    },
+    {
+        "toolId": 417,
+        "typeIdentifier": "com.apple.Preferences.AirDropReceivingModeEntity"
+    },
+    {
+        "toolId": 418,
+        "typeIdentifier": "com.apple.Bridge.WatchFace"
+    },
+    {
+        "toolId": 419,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 420,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 421,
+        "typeIdentifier": "com.apple.mobilesafari.WindowEntity"
+    },
+    {
+        "toolId": 422,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 423,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 424,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 425,
+        "typeIdentifier": "file"
+    },
+    {
+        "toolId": 425,
+        "typeIdentifier": "number"
+    },
+    {
+        "toolId": 425,
+        "typeIdentifier": "date"
+    },
+    {
+        "toolId": 425,
+        "typeIdentifier": "url"
+    },
+    {
+        "toolId": 425,
+        "typeIdentifier": "string"
+    },
+    {
+        "toolId": 425,
+        "typeIdentifier": "com.apple.shortcuts.WFTimeIntervalContentItem"
+    },
+    {
+        "toolId": 426,
+        "typeIdentifier": "com.apple.mobileslideshow.AssetEntity"
+    },
+    {
+        "toolId": 427,
+        "typeIdentifier": "com.apple.shortcuts.RootNavigationDestination"
+    },
+    {
+        "toolId": 428,
+        "typeIdentifier": "com.apple.Bridge.PasscodeDeepLinks"
+    },
+    {
+        "toolId": 429,
+        "typeIdentifier": "com.apple.news.AutoDownloadAudioStoriesEntity"
+    },
+    {
+        "toolId": 430,
+        "typeIdentifier": "com.apple.Preferences.BrandedCallingPrimaryToggleEntity"
+    },
+    {
+        "toolId": 431,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 432,
+        "typeIdentifier": "string"
+    },
+    {
+        "toolId": 433,
+        "typeIdentifier": "file"
+    },
+    {
+        "toolId": 434,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 435,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 436,
+        "typeIdentifier": "file"
+    },
+    {
+        "toolId": 437,
+        "typeIdentifier": "com.apple.Bridge.WatchFace"
+    },
+    {
+        "toolId": 438,
+        "typeIdentifier": "com.apple.WorkflowKit.BackgroundShortcutRunner.TextMatch"
+    },
+    {
+        "toolId": 439,
+        "typeIdentifier": "file"
+    },
+    {
+        "toolId": 440,
+        "typeIdentifier": "app"
+    },
+    {
+        "toolId": 441,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 442,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 443,
+        "typeIdentifier": "com.apple.Preferences.TVProviderDeepLinks"
+    },
+    {
+        "toolId": 444,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 445,
+        "typeIdentifier": "com.apple.mobilesafari.CloseTabsModeEntity"
+    },
+    {
+        "toolId": 446,
+        "typeIdentifier": "com.apple.Bridge.SoundsAndHapticsDeepLinks"
+    },
+    {
+        "toolId": 447,
+        "typeIdentifier": "com.apple.MobileSMS.MessageEntity"
+    },
+    {
+        "toolId": 448,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 449,
+        "typeIdentifier": "com.apple.SensitiveContentAnalysis.SensitiveContentAnalysisConfigurationExtension.SensitiveContentAnalysisConfigurationEntity"
+    },
+    {
+        "toolId": 450,
+        "typeIdentifier": "file"
+    },
+    {
+        "toolId": 451,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 452,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 453,
+        "typeIdentifier": "file"
+    },
+    {
+        "toolId": 454,
+        "typeIdentifier": "com.apple.Preferences.AskBeforeDeletingPreferenceEntity"
+    },
+    {
+        "toolId": 455,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 456,
+        "typeIdentifier": "string"
+    },
+    {
+        "toolId": 457,
+        "typeIdentifier": "string"
+    },
+    {
+        "toolId": 458,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 459,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 460,
+        "typeIdentifier": "com.apple.news.RecipeEntity"
+    },
+    {
+        "toolId": 461,
+        "typeIdentifier": "com.apple.omniSearch.SearchToolExtension.SearchEntity"
+    },
+    {
+        "toolId": 462,
+        "typeIdentifier": "string"
+    },
+    {
+        "toolId": 463,
+        "typeIdentifier": "number"
+    },
+    {
+        "toolId": 463,
+        "typeIdentifier": "string"
+    },
+    {
+        "toolId": 463,
+        "typeIdentifier": "url"
+    },
+    {
+        "toolId": 463,
+        "typeIdentifier": "date"
+    },
+    {
+        "toolId": 463,
+        "typeIdentifier": "file"
+    },
+    {
+        "toolId": 464,
+        "typeIdentifier": "com.apple.Preferences.FaceTimeSettingsDynamicDeepLinks"
+    },
+    {
+        "toolId": 465,
+        "typeIdentifier": "file"
+    },
+    {
+        "toolId": 466,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 467,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 468,
+        "typeIdentifier": "file"
+    },
+    {
+        "toolId": 469,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 470,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 471,
+        "typeIdentifier": "com.apple.mobilesafari.TabBarLayoutEntity"
+    },
+    {
+        "toolId": 472,
+        "typeIdentifier": "com.apple.shortcuts.WFTrelloBoardContentItem"
+    },
+    {
+        "toolId": 472,
+        "typeIdentifier": "com.apple.shortcuts.WFTrelloListContentItem"
+    },
+    {
+        "toolId": 472,
+        "typeIdentifier": "com.apple.shortcuts.WFTrelloCardContentItem"
+    },
+    {
+        "toolId": 473,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 474,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 475,
+        "typeIdentifier": "com.apple.news.AutoDownloadMagazineIssuesEntity"
+    },
+    {
+        "toolId": 476,
+        "typeIdentifier": "com.apple.mobilecal.SettingsAllDayDefaultAlertTimeType"
+    },
+    {
+        "toolId": 477,
+        "typeIdentifier": "com.apple.AppKit.RunIntelligenceCommandResultEntity"
+    },
+    {
+        "toolId": 478,
+        "typeIdentifier": "com.apple.Preferences.FamilyMemberDetailsDeepLink"
+    },
+    {
+        "toolId": 479,
+        "typeIdentifier": "com.apple.Fitness.WorkoutStat"
+    },
+    {
+        "toolId": 480,
+        "typeIdentifier": "com.apple.Preferences.FTSilenceUnknownCallersToggleEntity"
+    },
+    {
+        "toolId": 481,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 482,
+        "typeIdentifier": "com.apple.HealthStandaloneIntents.HealthSettingsDeepLink"
+    },
+    {
+        "toolId": 483,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 484,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 485,
+        "typeIdentifier": "com.apple.Bridge.SmartStackDeepLinks"
+    },
+    {
+        "toolId": 486,
+        "typeIdentifier": "com.apple.Bridge.PrivacyDeepLinks"
+    },
+    {
+        "toolId": 487,
+        "typeIdentifier": "file"
+    },
+    {
+        "toolId": 488,
+        "typeIdentifier": "com.apple.mobilecal.SettingsWeekViewStartsOnTodayEntity"
+    },
+    {
+        "toolId": 489,
+        "typeIdentifier": "date"
+    },
+    {
+        "toolId": 489,
+        "typeIdentifier": "placemark"
+    },
+    {
+        "toolId": 489,
+        "typeIdentifier": "string"
+    },
+    {
+        "toolId": 489,
+        "typeIdentifier": "person"
+    },
+    {
+        "toolId": 489,
+        "typeIdentifier": "currencyAmount"
+    },
+    {
+        "toolId": 490,
+        "typeIdentifier": "com.apple.mobilecal.SettingsAlternateCalendarEntity"
+    },
+    {
+        "toolId": 491,
+        "typeIdentifier": "com.apple.reminders.ReminderEntity"
+    },
+    {
+        "toolId": 492,
+        "typeIdentifier": "com.apple.DocumentsApp.FINodeEntity"
+    },
+    {
+        "toolId": 493,
+        "typeIdentifier": "url"
+    },
+    {
+        "toolId": 494,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 495,
+        "typeIdentifier": "string"
+    },
+    {
+        "toolId": 496,
+        "typeIdentifier": "com.apple.Preferences.LiveVoicemailToggleEntity"
+    },
+    {
+        "toolId": 497,
+        "typeIdentifier": "file"
+    },
+    {
+        "toolId": 498,
+        "typeIdentifier": "com.apple.shortcuts.WFPhoneNumberContentItem"
+    },
+    {
+        "toolId": 499,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 500,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 501,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 502,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 503,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 504,
+        "typeIdentifier": "com.apple.Preferences.SilentModeEntity"
+    },
+    {
+        "toolId": 505,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 506,
+        "typeIdentifier": "file"
+    },
+    {
+        "toolId": 507,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 508,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 509,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 510,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 511,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 512,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 513,
+        "typeIdentifier": "com.apple.Preferences.BrandedCallingPrimaryToggleEntity"
+    },
+    {
+        "toolId": 514,
+        "typeIdentifier": "bool"
+    },
+    {
+        "toolId": 515,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 516,
+        "typeIdentifier": "com.apple.shortcuts.WFTrelloListContentItem"
+    },
+    {
+        "toolId": 517,
+        "typeIdentifier": "com.apple.Preferences.AirDropBringDevicesTogetherEntity"
+    },
+    {
+        "toolId": 518,
+        "typeIdentifier": "com.apple.Preferences.ScreenTimeUsageResult"
+    },
+    {
+        "toolId": 519,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 520,
+        "typeIdentifier": "com.apple.Preferences.ShowContactPhotosPreferenceEntity"
+    },
+    {
+        "toolId": 521,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 522,
+        "typeIdentifier": "com.apple.reminders.ReminderEntity"
+    },
+    {
+        "toolId": 523,
+        "typeIdentifier": "file"
+    },
+    {
+        "toolId": 524,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 525,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 526,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 527,
+        "typeIdentifier": "com.apple.mobilecal.SettingsShowLocationSuggestionsEntity"
+    },
+    {
+        "toolId": 528,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 529,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 530,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 531,
+        "typeIdentifier": "com.apple.news.RecipeEntity"
+    },
+    {
+        "toolId": 532,
+        "typeIdentifier": "com.apple.shortcuts.WFContentItem"
+    },
+    {
+        "toolId": 533,
+        "typeIdentifier": "file"
+    },
+    {
+        "toolId": 534,
+        "typeIdentifier": "string"
+    },
+    {
+        "toolId": 535,
+        "typeIdentifier": "com.apple.Bridge.ZoomDeepLinks"
+    },
+    {
+        "toolId": 536,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 537,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 538,
+        "typeIdentifier": "com.apple.mobilesafari.WindowEntity"
+    },
+    {
+        "toolId": 539,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 540,
+        "typeIdentifier": "string"
+    },
+    {
+        "toolId": 541,
+        "typeIdentifier": "com.apple.Preferences.BrandedCallingSecondaryToggleEntity"
+    },
+    {
+        "toolId": 542,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 543,
+        "typeIdentifier": "com.apple.Preview.DocumentEntity"
+    },
+    {
+        "toolId": 544,
+        "typeIdentifier": "file"
+    },
+    {
+        "toolId": 545,
+        "typeIdentifier": "com.apple.MobileSMS.ConversationEntity"
+    },
+    {
+        "toolId": 546,
+        "typeIdentifier": "file"
+    },
+    {
+        "toolId": 547,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 548,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 549,
+        "typeIdentifier": "file"
+    },
+    {
+        "toolId": 550,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 551,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 552,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 553,
+        "typeIdentifier": "file"
+    },
+    {
+        "toolId": 554,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 555,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 556,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 557,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 558,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 559,
+        "typeIdentifier": "url"
+    },
+    {
+        "toolId": 560,
+        "typeIdentifier": "number"
+    },
+    {
+        "toolId": 561,
+        "typeIdentifier": "com.apple.news.OptimizeStorageEntity"
+    },
+    {
+        "toolId": 562,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 563,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 564,
+        "typeIdentifier": "file"
+    },
+    {
+        "toolId": 565,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 566,
+        "typeIdentifier": "file"
+    },
+    {
+        "toolId": 567,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 568,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 569,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 570,
+        "typeIdentifier": "com.apple.Preview.DocumentEntity"
+    },
+    {
+        "toolId": 571,
+        "typeIdentifier": "com.apple.Passbook.SavingsAccountEntity"
+    },
+    {
+        "toolId": 572,
+        "typeIdentifier": "com.apple.shortcuts.WFHKSampleContentItem"
+    },
+    {
+        "toolId": 573,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 574,
+        "typeIdentifier": "com.apple.reminders.ReminderEntity"
+    },
+    {
+        "toolId": 575,
+        "typeIdentifier": "com.apple.news.RecipeEntity"
+    },
+    {
+        "toolId": 576,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 577,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 578,
+        "typeIdentifier": "com.apple.Preview.DocumentEntity"
+    },
+    {
+        "toolId": 579,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 580,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 581,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 582,
+        "typeIdentifier": "com.apple.news.AutoDownloadRecipesEntity"
+    },
+    {
+        "toolId": 583,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 584,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 585,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 586,
+        "typeIdentifier": "string"
+    },
+    {
+        "toolId": 586,
+        "typeIdentifier": "date"
+    },
+    {
+        "toolId": 586,
+        "typeIdentifier": "bool"
+    },
+    {
+        "toolId": 586,
+        "typeIdentifier": "file"
+    },
+    {
+        "toolId": 586,
+        "typeIdentifier": "number"
+    },
+    {
+        "toolId": 587,
+        "typeIdentifier": "com.apple.shortcuts.WFRideStatusContentItem"
+    },
+    {
+        "toolId": 588,
+        "typeIdentifier": "com.apple.reminders.SmartListEntity"
+    },
+    {
+        "toolId": 589,
+        "typeIdentifier": "com.apple.reminders.ShowSuggestionsEntity"
+    },
+    {
+        "toolId": 590,
+        "typeIdentifier": "file"
+    },
+    {
+        "toolId": 591,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 592,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 593,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 594,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 595,
+        "typeIdentifier": "com.apple.shortcuts.WFEvernoteContentItem"
+    },
+    {
+        "toolId": 596,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 597,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 598,
+        "typeIdentifier": "com.apple.Bridge.DisplayBrightnessDeepLinks"
+    },
+    {
+        "toolId": 599,
+        "typeIdentifier": "file"
+    },
+    {
+        "toolId": 600,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 601,
+        "typeIdentifier": "com.apple.reminders.IncludeDueTodayEntity"
+    },
+    {
+        "toolId": 602,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 603,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 604,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 605,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 606,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 607,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 608,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 609,
+        "typeIdentifier": "bool"
+    },
+    {
+        "toolId": 610,
+        "typeIdentifier": "com.apple.news.RecipeEntity"
+    },
+    {
+        "toolId": 611,
+        "typeIdentifier": "com.apple.reminders.SectionEntity"
+    },
+    {
+        "toolId": 612,
+        "typeIdentifier": "file"
+    },
+    {
+        "toolId": 613,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 614,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 615,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 616,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 617,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 618,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 619,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 620,
+        "typeIdentifier": "com.apple.Preferences.MultitaskingAndGesturesDeepLink"
+    },
+    {
+        "toolId": 621,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 622,
+        "typeIdentifier": "file"
+    },
+    {
+        "toolId": 623,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 624,
+        "typeIdentifier": "com.apple.news.RecipeEntity"
+    },
+    {
+        "toolId": 625,
+        "typeIdentifier": "com.apple.intelligenceplatform.IntelligencePlatform.IntelligencePlatformDataActionsAppIntentsExtension.SportsEventAppEntity"
+    },
+    {
+        "toolId": 626,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 627,
+        "typeIdentifier": "com.apple.shortcuts.WFReminderContentItem"
+    },
+    {
+        "toolId": 628,
+        "typeIdentifier": "com.apple.Preferences.CameraSettingsDeepLink"
+    },
+    {
+        "toolId": 629,
+        "typeIdentifier": "com.apple.mobilesafari.AutoFillContactInfoEntity"
+    },
+    {
+        "toolId": 630,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 631,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 632,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 633,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 634,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 635,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 636,
+        "typeIdentifier": "com.apple.mobilesafari.OpenLinksInBackgroundEntity"
+    },
+    {
+        "toolId": 637,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 638,
+        "typeIdentifier": "com.apple.Preferences.DisplayAndBrightnessDeepLink"
+    },
+    {
+        "toolId": 639,
+        "typeIdentifier": "person"
+    },
+    {
+        "toolId": 640,
+        "typeIdentifier": "com.apple.Preferences.FitnessSettingsDeepLink"
+    },
+    {
+        "toolId": 641,
+        "typeIdentifier": "com.apple.reminders.SmartListEntity"
+    },
+    {
+        "toolId": 642,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 643,
+        "typeIdentifier": "string"
+    },
+    {
+        "toolId": 644,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 645,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 646,
+        "typeIdentifier": "com.apple.Preferences.FTSilenceUnknownCallersToggleEntity"
+    },
+    {
+        "toolId": 647,
+        "typeIdentifier": "com.apple.contacts.autocomplete.appintentextension.ComposeRecipientAppEntity"
+    },
+    {
+        "toolId": 648,
+        "typeIdentifier": "com.apple.Fitness.ActivityRingGoals"
+    },
+    {
+        "toolId": 649,
+        "typeIdentifier": "com.apple.Preferences.BrandedCallingSecondaryToggleEntity"
+    },
+    {
+        "toolId": 650,
+        "typeIdentifier": "com.apple.shortcuts.WFTripInfoContentItem"
+    },
+    {
+        "toolId": 651,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 652,
+        "typeIdentifier": "com.apple.mobilesafari.TabLayoutEntity"
+    },
+    {
+        "toolId": 653,
+        "typeIdentifier": "com.apple.shortcuts.WFEmailAddressContentItem"
+    },
+    {
+        "toolId": 654,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 655,
+        "typeIdentifier": "com.apple.mobilesafari.SearchEngineSuggestionsEntity"
+    },
+    {
+        "toolId": 656,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 657,
+        "typeIdentifier": "com.apple.shortcuts.WFParkedCarContentItem"
+    },
+    {
+        "toolId": 658,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 659,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 660,
+        "typeIdentifier": "com.apple.mobilesafari.BlockPopUpsEntity"
+    },
+    {
+        "toolId": 661,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 662,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 663,
+        "typeIdentifier": "file"
+    },
+    {
+        "toolId": 664,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 665,
+        "typeIdentifier": "com.apple.mobilecal.SettingsWeekViewStartsOnTodayEntity"
+    },
+    {
+        "toolId": 666,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 667,
+        "typeIdentifier": "com.apple.shortcuts.WFContentItem"
+    },
+    {
+        "toolId": 668,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 669,
+        "typeIdentifier": "url"
+    },
+    {
+        "toolId": 670,
+        "typeIdentifier": "string"
+    },
+    {
+        "toolId": 671,
+        "typeIdentifier": "com.apple.DocumentsApp.FINodeEntity"
+    },
+    {
+        "toolId": 672,
+        "typeIdentifier": "file"
+    },
+    {
+        "toolId": 673,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 674,
+        "typeIdentifier": "file"
+    },
+    {
+        "toolId": 675,
+        "typeIdentifier": "string"
+    },
+    {
+        "toolId": 676,
+        "typeIdentifier": "com.apple.shortcuts.WFArticleContentItem"
+    },
+    {
+        "toolId": 677,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 678,
+        "typeIdentifier": "com.apple.shortcuts.WFPodcastEpisodeContentItem"
+    },
+    {
+        "toolId": 679,
+        "typeIdentifier": "com.apple.Preferences.CollapsedReadMessagesPreferenceEntity"
+    },
+    {
+        "toolId": 680,
+        "typeIdentifier": "com.apple.news.NewsTabDeepLink"
+    },
+    {
+        "toolId": 681,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 682,
+        "typeIdentifier": "string"
+    },
+    {
+        "toolId": 683,
+        "typeIdentifier": "file"
+    },
+    {
+        "toolId": 684,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 685,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 686,
+        "typeIdentifier": "file"
+    },
+    {
+        "toolId": 687,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 688,
+        "typeIdentifier": "com.apple.Preview.DocumentEntity"
+    },
+    {
+        "toolId": 689,
+        "typeIdentifier": "file"
+    },
+    {
+        "toolId": 690,
+        "typeIdentifier": "com.apple.shortcuts.WFPodcastShowContentItem"
+    },
+    {
+        "toolId": 691,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 692,
+        "typeIdentifier": "com.apple.reminders.ShowAsOverdueEntity"
+    },
+    {
+        "toolId": 693,
+        "typeIdentifier": "file"
+    },
+    {
+        "toolId": 694,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 695,
+        "typeIdentifier": "com.apple.Preferences.SetupFamilyDeepLink"
+    },
+    {
+        "toolId": 696,
+        "typeIdentifier": "com.apple.MobileAddressBook.ContactFetchResultEntity"
+    },
+    {
+        "toolId": 697,
+        "typeIdentifier": "url"
+    },
+    {
+        "toolId": 698,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 699,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 700,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 701,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 702,
+        "typeIdentifier": "com.apple.mobilesafari.SafariSuggestionsEntity"
+    },
+    {
+        "toolId": 703,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 704,
+        "typeIdentifier": "url"
+    },
+    {
+        "toolId": 704,
+        "typeIdentifier": "string"
+    },
+    {
+        "toolId": 704,
+        "typeIdentifier": "file"
+    },
+    {
+        "toolId": 704,
+        "typeIdentifier": "number"
+    },
+    {
+        "toolId": 705,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 706,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 707,
+        "typeIdentifier": "file"
+    },
+    {
+        "toolId": 708,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 709,
+        "typeIdentifier": "url"
+    },
+    {
+        "toolId": 709,
+        "typeIdentifier": "string"
+    },
+    {
+        "toolId": 710,
+        "typeIdentifier": "com.apple.intelligenceplatform.IntelligencePlatform.IntelligencePlatformDataActionsAppIntentsExtension.AppUsageResultEntity"
+    },
+    {
+        "toolId": 711,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 712,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 713,
+        "typeIdentifier": "com.apple.Preferences.iCloudCalendarSettingsAppIntentsExtensionDeepLinks"
+    },
+    {
+        "toolId": 714,
+        "typeIdentifier": "com.apple.news.GameCenterEntity"
+    },
+    {
+        "toolId": 715,
+        "typeIdentifier": "placemark"
+    },
+    {
+        "toolId": 716,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 717,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 718,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 719,
+        "typeIdentifier": "com.apple.Preferences.HomeScreenAndAppLibraryDeepLink"
+    },
+    {
+        "toolId": 720,
+        "typeIdentifier": "com.apple.news.RecipeEntity"
+    },
+    {
+        "toolId": 721,
+        "typeIdentifier": "com.apple.shortcuts.WFReminderContentItem"
+    },
+    {
+        "toolId": 722,
+        "typeIdentifier": "int"
+    },
+    {
+        "toolId": 723,
+        "typeIdentifier": "file"
+    },
+    {
+        "toolId": 724,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 725,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 726,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 727,
+        "typeIdentifier": "url"
+    },
+    {
+        "toolId": 728,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 729,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 730,
+        "typeIdentifier": "com.apple.intelligenceplatformd.PersonalKnowledgeResult"
+    },
+    {
+        "toolId": 731,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 732,
+        "typeIdentifier": "file"
+    },
+    {
+        "toolId": 733,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 734,
+        "typeIdentifier": "com.apple.shortcuts.WFContentItem"
+    },
+    {
+        "toolId": 735,
+        "typeIdentifier": "com.apple.news.AutoDownloadMagazineIssuesEntity"
+    },
+    {
+        "toolId": 736,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 737,
+        "typeIdentifier": "string"
+    },
+    {
+        "toolId": 738,
+        "typeIdentifier": "com.apple.Preferences.SOSSettingsDeepLink"
+    },
+    {
+        "toolId": 739,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 740,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 741,
+        "typeIdentifier": "bool"
+    },
+    {
+        "toolId": 742,
+        "typeIdentifier": "url"
+    },
+    {
+        "toolId": 742,
+        "typeIdentifier": "string"
+    },
+    {
+        "toolId": 743,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 744,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 745,
+        "typeIdentifier": "com.apple.reminders.ReminderEntity"
+    },
+    {
+        "toolId": 746,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 747,
+        "typeIdentifier": "com.apple.shortcuts.WFTrelloCardContentItem"
+    },
+    {
+        "toolId": 748,
+        "typeIdentifier": "file"
+    },
+    {
+        "toolId": 749,
+        "typeIdentifier": "com.apple.mobilecal.SettingsAllDayDefaultAlertTimesEntity"
+    },
+    {
+        "toolId": 750,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 751,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 752,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 753,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 754,
+        "typeIdentifier": "measurement_length"
+    },
+    {
+        "toolId": 755,
+        "typeIdentifier": "com.apple.DocumentsApp.FINodeEntity"
+    },
+    {
+        "toolId": 756,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 757,
+        "typeIdentifier": "com.apple.Preferences.AirDropBringDevicesTogetherEntity"
+    },
+    {
+        "toolId": 758,
+        "typeIdentifier": "com.apple.Preferences.FamilySubscriptionsDeepLink"
+    },
+    {
+        "toolId": 759,
+        "typeIdentifier": "com.apple.Bridge.AboutDeepLinks"
+    },
+    {
+        "toolId": 760,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 761,
+        "typeIdentifier": "com.apple.mobilesafari.BookmarkEntity"
+    },
+    {
+        "toolId": 762,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 763,
+        "typeIdentifier": "com.apple.news.AutoDownloadPuzzlesEntity"
+    },
+    {
+        "toolId": 764,
+        "typeIdentifier": "com.apple.Preview.DocumentEntity"
+    },
+    {
+        "toolId": 765,
+        "typeIdentifier": "file"
+    },
+    {
+        "toolId": 766,
+        "typeIdentifier": "com.apple.AppKit.WindowTabEntity"
+    },
+    {
+        "toolId": 767,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 768,
+        "typeIdentifier": "measurement_length"
+    },
+    {
+        "toolId": 769,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 770,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 771,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 772,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 773,
+        "typeIdentifier": "com.apple.shortcuts.WFContentItem"
+    },
+    {
+        "toolId": 773,
+        "typeIdentifier": "com.apple.shortcuts.WFCalendarEventContentItem"
+    },
+    {
+        "toolId": 773,
+        "typeIdentifier": "com.apple.shortcuts.WFMessageContentItem"
+    },
+    {
+        "toolId": 773,
+        "typeIdentifier": "person"
+    },
+    {
+        "toolId": 773,
+        "typeIdentifier": "file"
+    },
+    {
+        "toolId": 773,
+        "typeIdentifier": "com.apple.shortcuts.WFReminderContentItem"
+    },
+    {
+        "toolId": 773,
+        "typeIdentifier": "com.apple.shortcuts.WFEmailContentItem"
+    },
+    {
+        "toolId": 773,
+        "typeIdentifier": "."
+    },
+    {
+        "toolId": 774,
+        "typeIdentifier": "date"
+    },
+    {
+        "toolId": 775,
+        "typeIdentifier": "com.apple.shortcuts.WFPodcastShowContentItem"
+    },
+    {
+        "toolId": 776,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 777,
+        "typeIdentifier": "com.apple.shortcuts.WFEKParticipantContentItem"
+    },
+    {
+        "toolId": 778,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 779,
+        "typeIdentifier": "com.apple.mobilesafari.TabGroupEntity"
+    },
+    {
+        "toolId": 780,
+        "typeIdentifier": "app"
+    },
+    {
+        "toolId": 781,
+        "typeIdentifier": "com.apple.shortcuts.WFTrelloBoardContentItem"
+    },
+    {
+        "toolId": 782,
+        "typeIdentifier": "com.apple.Bridge.NotificationsDeepLinks"
+    },
+    {
+        "toolId": 783,
+        "typeIdentifier": "com.apple.reminders.GroupEntity"
+    },
+    {
+        "toolId": 784,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 785,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 786,
+        "typeIdentifier": "file"
+    },
+    {
+        "toolId": 787,
+        "typeIdentifier": "bool"
+    },
+    {
+        "toolId": 787,
+        "typeIdentifier": "string"
+    },
+    {
+        "toolId": 787,
+        "typeIdentifier": "com.apple.shortcuts.WFEmailAddressContentItem"
+    },
+    {
+        "toolId": 788,
+        "typeIdentifier": "com.apple.Preferences.AlertHapticsEntity"
+    },
+    {
+        "toolId": 789,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 790,
+        "typeIdentifier": "person"
+    },
+    {
+        "toolId": 791,
+        "typeIdentifier": "com.apple.news.AutoDownloadRecipesEntity"
+    },
+    {
+        "toolId": 792,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 793,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 794,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 795,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 796,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 797,
+        "typeIdentifier": "com.apple.news.AutoDownloadAudioStoriesEntity"
+    },
+    {
+        "toolId": 798,
+        "typeIdentifier": "number"
+    },
+    {
+        "toolId": 799,
+        "typeIdentifier": "file"
+    },
+    {
+        "toolId": 800,
+        "typeIdentifier": "com.apple.shortcuts.GeneratedContent"
+    },
+    {
+        "toolId": 800,
+        "typeIdentifier": "date"
+    },
+    {
+        "toolId": 800,
+        "typeIdentifier": "com.apple.shortcuts.WFContentItem"
+    },
+    {
+        "toolId": 800,
+        "typeIdentifier": "number"
+    },
+    {
+        "toolId": 800,
+        "typeIdentifier": "bool"
+    },
+    {
+        "toolId": 800,
+        "typeIdentifier": "file"
+    },
+    {
+        "toolId": 801,
+        "typeIdentifier": "file"
+    },
+    {
+        "toolId": 802,
+        "typeIdentifier": "file"
+    },
+    {
+        "toolId": 803,
+        "typeIdentifier": "com.apple.mobilecal.CalendarEntity"
+    },
+    {
+        "toolId": 804,
+        "typeIdentifier": "string"
+    },
+    {
+        "toolId": 805,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 806,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 807,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 808,
+        "typeIdentifier": "file"
+    },
+    {
+        "toolId": 809,
+        "typeIdentifier": "url"
+    },
+    {
+        "toolId": 810,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 811,
+        "typeIdentifier": "com.apple.Preferences.BluetoothPowerEntity"
+    },
+    {
+        "toolId": 812,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 813,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 814,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 815,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 816,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 817,
+        "typeIdentifier": "file"
+    },
+    {
+        "toolId": 818,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 819,
+        "typeIdentifier": "com.apple.mobilecal.EventEntity"
+    },
+    {
+        "toolId": 820,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 821,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 822,
+        "typeIdentifier": "com.apple.news.RecipeEntity"
+    },
+    {
+        "toolId": 823,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 824,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 825,
+        "typeIdentifier": "com.apple.DocumentsApp.FINodeEntity"
+    },
+    {
+        "toolId": 826,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 827,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 828,
+        "typeIdentifier": "com.apple.reminders.ListEntity"
+    },
+    {
+        "toolId": 829,
+        "typeIdentifier": "com.apple.mobilecal.SettingsDurationForNewEventsEntity"
+    },
+    {
+        "toolId": 830,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 831,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 832,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 833,
+        "typeIdentifier": "string"
+    },
+    {
+        "toolId": 834,
+        "typeIdentifier": "com.apple.shortcuts.WFReminderContentItem"
+    },
+    {
+        "toolId": 835,
+        "typeIdentifier": "com.apple.Preferences.MPSilenceUnknownCallersToggleEntity"
+    },
+    {
+        "toolId": 836,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 837,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 838,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 839,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 840,
+        "typeIdentifier": "com.apple.mobilecal.SettingsEventsDefaultAlertTimesEntity"
+    },
+    {
+        "toolId": 841,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 842,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 843,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 844,
+        "typeIdentifier": "com.apple.mobilesafari.PrivateSearchEngineEntity"
+    },
+    {
+        "toolId": 845,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 846,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 847,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 848,
+        "typeIdentifier": "com.apple.reminders.TodayNotificationEntity"
+    },
+    {
+        "toolId": 849,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 850,
+        "typeIdentifier": "com.apple.omniSearch.SearchToolExtension.MemoryCreationQUResult"
+    },
+    {
+        "toolId": 851,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 852,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 853,
+        "typeIdentifier": "file"
+    },
+    {
+        "toolId": 853,
+        "typeIdentifier": "com.apple.shortcuts.WFEmailAddressContentItem"
+    },
+    {
+        "toolId": 853,
+        "typeIdentifier": "string"
+    },
+    {
+        "toolId": 853,
+        "typeIdentifier": "placemark"
+    },
+    {
+        "toolId": 853,
+        "typeIdentifier": "url"
+    },
+    {
+        "toolId": 853,
+        "typeIdentifier": "com.apple.shortcuts.WFPhoneNumberContentItem"
+    },
+    {
+        "toolId": 853,
+        "typeIdentifier": "com.apple.shortcuts.WFFileSizeContentItem"
+    },
+    {
+        "toolId": 853,
+        "typeIdentifier": "date"
+    },
+    {
+        "toolId": 854,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 855,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 856,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 857,
+        "typeIdentifier": "com.apple.mobileslideshow.AssetEntity"
+    },
+    {
+        "toolId": 858,
+        "typeIdentifier": "com.apple.news.AutoDownloadSavedStoriesEntity"
+    },
+    {
+        "toolId": 859,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 860,
+        "typeIdentifier": "string"
+    },
+    {
+        "toolId": 861,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 862,
+        "typeIdentifier": "file"
+    },
+    {
+        "toolId": 863,
+        "typeIdentifier": "com.apple.mobilesafari.SearchEngineSuggestionsEntity"
+    },
+    {
+        "toolId": 864,
+        "typeIdentifier": "com.apple.Preferences.SilentModeEntity"
+    },
+    {
+        "toolId": 865,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 866,
+        "typeIdentifier": "com.apple.mobilecal.SettingsDurationForNewEventsEntity"
+    },
+    {
+        "toolId": 867,
+        "typeIdentifier": "com.apple.shortcuts.WFMKMapItemContentItem"
+    },
+    {
+        "toolId": 868,
+        "typeIdentifier": "number"
+    },
+    {
+        "toolId": 868,
+        "typeIdentifier": "string"
+    },
+    {
+        "toolId": 868,
+        "typeIdentifier": "com.apple.shortcuts.WFPhoneNumberContentItem"
+    },
+    {
+        "toolId": 868,
+        "typeIdentifier": "url"
+    },
+    {
+        "toolId": 869,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 870,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 871,
+        "typeIdentifier": "file"
+    },
+    {
+        "toolId": 872,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 873,
+        "typeIdentifier": "com.apple.shortcuts.WFEvernoteContentItem"
+    },
+    {
+        "toolId": 874,
+        "typeIdentifier": "com.apple.TransparencySettingsIntents.TransparencyPublicVerificationCodeEntity"
+    },
+    {
+        "toolId": 875,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 876,
+        "typeIdentifier": "com.apple.shortcuts.WFCalendarEventContentItem"
+    },
+    {
+        "toolId": 877,
+        "typeIdentifier": "com.apple.mobilesafari.BookmarkEntity"
+    },
+    {
+        "toolId": 878,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 879,
+        "typeIdentifier": "com.apple.Preferences.LiveVoicemailToggleEntity"
+    },
+    {
+        "toolId": 880,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 881,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 882,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 883,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 884,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 885,
+        "typeIdentifier": "com.apple.mobilesafari.TabGroupEntity"
+    },
+    {
+        "toolId": 886,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 887,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 888,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 889,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 890,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 891,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 892,
+        "typeIdentifier": "com.apple.mobilesafari.AutoFillCreditCardEntity"
+    },
+    {
+        "toolId": 893,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 894,
+        "typeIdentifier": "com.apple.Preferences.TwentyFourHourTimeEntity"
+    },
+    {
+        "toolId": 895,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 896,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 897,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 898,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 899,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 900,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 901,
+        "typeIdentifier": "com.apple.Bridge.ActionButtonDeepLinks"
+    },
+    {
+        "toolId": 902,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 903,
+        "typeIdentifier": "string"
+    },
+    {
+        "toolId": 904,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 905,
+        "typeIdentifier": "com.apple.ShortcutsActions.PhysicalActivity"
+    },
+    {
+        "toolId": 906,
+        "typeIdentifier": "com.apple.Preferences.ShowInStatusBarEntity"
+    },
+    {
+        "toolId": 907,
+        "typeIdentifier": "com.apple.shortcuts.WFReminderContentItem"
+    },
+    {
+        "toolId": 908,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 909,
+        "typeIdentifier": "com.apple.mobilecal.TransferableSourceEntity"
+    },
+    {
+        "toolId": 910,
+        "typeIdentifier": "com.apple.AppKit.WritingToolsResult"
+    },
+    {
+        "toolId": 911,
+        "typeIdentifier": "file"
+    },
+    {
+        "toolId": 912,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 913,
+        "typeIdentifier": "file"
+    },
+    {
+        "toolId": 914,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 915,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 916,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 917,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 918,
+        "typeIdentifier": "com.apple.mobilecal.SettingsTimeToLeaveEntity"
+    },
+    {
+        "toolId": 919,
+        "typeIdentifier": "com.apple.mobilecal.TransferableEventEntity"
+    },
+    {
+        "toolId": 920,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 921,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 922,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 923,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 924,
+        "typeIdentifier": "com.apple.news.AutoDownloadEntity"
+    },
+    {
+        "toolId": 925,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 926,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 927,
+        "typeIdentifier": "com.apple.shortcuts.WFHKSampleContentItem"
+    },
+    {
+        "toolId": 928,
+        "typeIdentifier": "file"
+    },
+    {
+        "toolId": 929,
+        "typeIdentifier": "file"
+    },
+    {
+        "toolId": 929,
+        "typeIdentifier": "url"
+    },
+    {
+        "toolId": 929,
+        "typeIdentifier": "string"
+    },
+    {
+        "toolId": 929,
+        "typeIdentifier": "number"
+    },
+    {
+        "toolId": 930,
+        "typeIdentifier": "app"
+    },
+    {
+        "toolId": 931,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 932,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 933,
+        "typeIdentifier": "string"
+    },
+    {
+        "toolId": 934,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 935,
+        "typeIdentifier": "com.apple.shortcuts.WFPosterContentItem"
+    },
+    {
+        "toolId": 936,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 937,
+        "typeIdentifier": "bool"
+    },
+    {
+        "toolId": 938,
+        "typeIdentifier": "date"
+    },
+    {
+        "toolId": 938,
+        "typeIdentifier": "number"
+    },
+    {
+        "toolId": 938,
+        "typeIdentifier": "placemark"
+    },
+    {
+        "toolId": 938,
+        "typeIdentifier": "bool"
+    },
+    {
+        "toolId": 938,
+        "typeIdentifier": "com.apple.shortcuts.WFTimeIntervalContentItem"
+    },
+    {
+        "toolId": 938,
+        "typeIdentifier": "string"
+    },
+    {
+        "toolId": 938,
+        "typeIdentifier": "file"
+    },
+    {
+        "toolId": 938,
+        "typeIdentifier": "com.apple.shortcuts.WFFileSizeContentItem"
+    },
+    {
+        "toolId": 939,
+        "typeIdentifier": "com.apple.Bridge.VoiceOverDeepLinks"
+    },
+    {
+        "toolId": 940,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 941,
+        "typeIdentifier": "com.apple.mobilecal.TransferableCalendarEntity"
+    },
+    {
+        "toolId": 942,
+        "typeIdentifier": "file"
+    },
+    {
+        "toolId": 943,
+        "typeIdentifier": "url"
+    },
+    {
+        "toolId": 944,
+        "typeIdentifier": "file"
+    },
+    {
+        "toolId": 945,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 946,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 947,
+        "typeIdentifier": "com.apple.mobilesafari.AutoFillContactInfoEntity"
+    },
+    {
+        "toolId": 948,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 949,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 950,
+        "typeIdentifier": "com.apple.news.AutoDownloadSavedStoriesEntity"
+    },
+    {
+        "toolId": 951,
+        "typeIdentifier": "com.apple.Preferences.BlockedSenderPreferenceEntity"
+    },
+    {
+        "toolId": 952,
+        "typeIdentifier": "com.apple.Preferences.AirDropUseCellularDataEntity"
+    },
+    {
+        "toolId": 953,
+        "typeIdentifier": "com.apple.DocumentsApp.FINodeEntity"
+    },
+    {
+        "toolId": 954,
+        "typeIdentifier": "number"
+    },
+    {
+        "toolId": 955,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 956,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 957,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 958,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 959,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 960,
+        "typeIdentifier": "com.apple.mobilesafari.OpenLinksInBackgroundEntity"
+    },
+    {
+        "toolId": 961,
+        "typeIdentifier": "file"
+    },
+    {
+        "toolId": 962,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 963,
+        "typeIdentifier": "com.apple.mobilecal.InboxItemEntity"
+    },
+    {
+        "toolId": 964,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 965,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 966,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 967,
+        "typeIdentifier": "file"
+    },
+    {
+        "toolId": 968,
+        "typeIdentifier": "com.apple.Preferences.MPSilenceUnknownCallersToggleEntity"
+    },
+    {
+        "toolId": 969,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 970,
+        "typeIdentifier": "com.apple.Fitness.AwardEntity"
+    },
+    {
+        "toolId": 971,
+        "typeIdentifier": "file"
+    },
+    {
+        "toolId": 972,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 973,
+        "typeIdentifier": "com.apple.AppKit.WritingToolsResult"
+    },
+    {
+        "toolId": 974,
+        "typeIdentifier": "com.apple.Bridge.SiriDeepLinks"
+    },
+    {
+        "toolId": 975,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 976,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 977,
+        "typeIdentifier": "com.apple.news.NewsRecipeEntity"
+    },
+    {
+        "toolId": 978,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 979,
+        "typeIdentifier": "url"
+    },
+    {
+        "toolId": 979,
+        "typeIdentifier": "string"
+    },
+    {
+        "toolId": 980,
+        "typeIdentifier": "com.apple.reminders.RemindersSettingsDeepLinks"
+    },
+    {
+        "toolId": 981,
+        "typeIdentifier": "com.apple.mobilecal.SettingsShowInviteeDeclinesEntity"
+    },
+    {
+        "toolId": 982,
+        "typeIdentifier": "com.apple.mobilecal.SettingsBirthdaysDefaultAlertTimesEntity"
+    },
+    {
+        "toolId": 983,
+        "typeIdentifier": "file"
+    },
+    {
+        "toolId": 984,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 985,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 986,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 987,
+        "typeIdentifier": "url"
+    },
+    {
+        "toolId": 988,
+        "typeIdentifier": "url"
+    },
+    {
+        "toolId": 989,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 990,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 991,
+        "typeIdentifier": "com.apple.Preferences.FamilySettingsDeepLink"
+    },
+    {
+        "toolId": 992,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 993,
+        "typeIdentifier": "bool"
+    },
+    {
+        "toolId": 993,
+        "typeIdentifier": "string"
+    },
+    {
+        "toolId": 993,
+        "typeIdentifier": "file"
+    },
+    {
+        "toolId": 993,
+        "typeIdentifier": "number"
+    },
+    {
+        "toolId": 994,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 995,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 996,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 997,
+        "typeIdentifier": "url"
+    },
+    {
+        "toolId": 998,
+        "typeIdentifier": "com.apple.Preferences.BusinessConnectCallingToggleEntity"
+    },
+    {
+        "toolId": 999,
+        "typeIdentifier": "file"
+    },
+    {
+        "toolId": 1000,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 1001,
+        "typeIdentifier": "com.apple.shortcuts.WFWorkflowReference"
+    },
+    {
+        "toolId": 1002,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 1003,
+        "typeIdentifier": "com.apple.news.GameCenterEntity"
+    },
+    {
+        "toolId": 1004,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 1005,
+        "typeIdentifier": "string"
+    },
+    {
+        "toolId": 1006,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 1007,
+        "typeIdentifier": "number"
+    },
+    {
+        "toolId": 1008,
+        "typeIdentifier": "person"
+    },
+    {
+        "toolId": 1009,
+        "typeIdentifier": "number"
+    },
+    {
+        "toolId": 1010,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 1011,
+        "typeIdentifier": "com.apple.shortcuts.WFWindowContentItem"
+    },
+    {
+        "toolId": 1012,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 1013,
+        "typeIdentifier": "com.apple.MobileAddressBook.ContactAvatarFetchResultEntity"
+    },
+    {
+        "toolId": 1014,
+        "typeIdentifier": "com.apple.news.NewsSettingsAutomaticDownloadDynamicDeepLinks"
+    },
+    {
+        "toolId": 1015,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 1016,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 1017,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 1018,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 1019,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 1020,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 1021,
+        "typeIdentifier": "file"
+    },
+    {
+        "toolId": 1021,
+        "typeIdentifier": "string"
+    },
+    {
+        "toolId": 1021,
+        "typeIdentifier": "url"
+    },
+    {
+        "toolId": 1022,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 1023,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 1024,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 1025,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 1026,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 1027,
+        "typeIdentifier": "com.apple.mobilesafari.SafariSettingsDeepLinks"
+    },
+    {
+        "toolId": 1028,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 1029,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 1030,
+        "typeIdentifier": "com.apple.ShortcutsActions.CellularPlanEntity"
+    },
+    {
+        "toolId": 1031,
+        "typeIdentifier": "com.apple.Preferences.SilenceJunkCallersToggleEntity"
+    },
+    {
+        "toolId": 1032,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 1033,
+        "typeIdentifier": "com.apple.MobileSMS.MessageEntity"
+    },
+    {
+        "toolId": 1034,
+        "typeIdentifier": "com.apple.AppStoreSettingsAppIntents.AppStoreSettingsDeepLink"
+    },
+    {
+        "toolId": 1035,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 1036,
+        "typeIdentifier": "com.apple.shortcuts.WFCalendarEventContentItem"
+    },
+    {
+        "toolId": 1037,
+        "typeIdentifier": "com.apple.Bridge.AccessibilityDeepLinks"
+    },
+    {
+        "toolId": 1038,
+        "typeIdentifier": "number"
+    },
+    {
+        "toolId": 1039,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 1040,
+        "typeIdentifier": "file"
+    },
+    {
+        "toolId": 1041,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 1042,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 1043,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 1044,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 1045,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 1046,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 1047,
+        "typeIdentifier": "com.apple.AppKit.RunIntelligenceCommandResultEntity"
+    },
+    {
+        "toolId": 1048,
+        "typeIdentifier": "com.apple.mobileslideshow.AlbumEntity"
+    },
+    {
+        "toolId": 1049,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 1050,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 1051,
+        "typeIdentifier": "com.apple.shortcuts.WFCalendarEventContentItem"
+    },
+    {
+        "toolId": 1052,
+        "typeIdentifier": "com.apple.mobilesafari.BlockPopUpsEntity"
+    },
+    {
+        "toolId": 1053,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 1054,
+        "typeIdentifier": "file"
+    },
+    {
+        "toolId": 1055,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 1056,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 1057,
+        "typeIdentifier": "com.apple.mobileslideshow.AssetEntity"
+    },
+    {
+        "toolId": 1058,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 1059,
+        "typeIdentifier": "string"
+    },
+    {
+        "toolId": 1060,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 1061,
+        "typeIdentifier": "com.apple.reminders.MuteNotificationsEntity"
+    },
+    {
+        "toolId": 1062,
+        "typeIdentifier": "com.apple.Bridge.BoldTextEntity"
+    },
+    {
+        "toolId": 1063,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 1064,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 1065,
+        "typeIdentifier": "com.apple.Preferences.FocusEntity"
+    },
+    {
+        "toolId": 1066,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 1067,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 1068,
+        "typeIdentifier": "com.apple.mobilecal.SettingsEventsDefaultAlertTimesEntity"
+    },
+    {
+        "toolId": 1069,
+        "typeIdentifier": "string"
+    },
+    {
+        "toolId": 1070,
+        "typeIdentifier": "com.apple.shortcuts.WFContentItem"
+    },
+    {
+        "toolId": 1071,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 1072,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 1073,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 1074,
+        "typeIdentifier": "url"
+    },
+    {
+        "toolId": 1075,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 1076,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 1077,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 1078,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 1079,
+        "typeIdentifier": "com.apple.shortcuts.WFDisplayContentItem"
+    },
+    {
+        "toolId": 1080,
+        "typeIdentifier": "com.apple.mobilesafari.TabEntity"
+    },
+    {
+        "toolId": 1081,
+        "typeIdentifier": "com.apple.mobilesafari.ReadingListItemEntity"
+    },
+    {
+        "toolId": 1082,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 1083,
+        "typeIdentifier": "string"
+    },
+    {
+        "toolId": 1083,
+        "typeIdentifier": "com.apple.shortcuts.WFTimeIntervalContentItem"
+    },
+    {
+        "toolId": 1083,
+        "typeIdentifier": "date"
+    },
+    {
+        "toolId": 1084,
+        "typeIdentifier": "com.apple.news.RecipeEntity"
+    },
+    {
+        "toolId": 1085,
+        "typeIdentifier": "url"
+    },
+    {
+        "toolId": 1086,
+        "typeIdentifier": "file"
+    },
+    {
+        "toolId": 1087,
+        "typeIdentifier": "com.apple.shortcuts.WFArticleContentItem"
+    },
+    {
+        "toolId": 1088,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 1089,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 1090,
+        "typeIdentifier": "com.apple.news.RecipeEntity"
+    },
+    {
+        "toolId": 1091,
+        "typeIdentifier": "string"
+    },
+    {
+        "toolId": 1092,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 1093,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 1094,
+        "typeIdentifier": "com.apple.mobileslideshow.AssetEntity"
+    },
+    {
+        "toolId": 1095,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 1096,
+        "typeIdentifier": "com.apple.Preferences.UndoSendDelayPreferenceEntity"
+    },
+    {
+        "toolId": 1097,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 1098,
+        "typeIdentifier": "com.apple.AppKit.IntelligenceCommandEntity"
+    },
+    {
+        "toolId": 1099,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 1100,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 1101,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 1102,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 1103,
+        "typeIdentifier": "com.apple.shortcuts.WFCalendarEventContentItem"
+    },
+    {
+        "toolId": 1104,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 1105,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 1106,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 1107,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 1108,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 1109,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 1110,
+        "typeIdentifier": "bool"
+    },
+    {
+        "toolId": 1111,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 1112,
+        "typeIdentifier": "com.apple.shortcuts.WFContentItem"
+    },
+    {
+        "toolId": 1113,
+        "typeIdentifier": "com.apple.mobilesafari.SearchEngineEntity"
+    },
+    {
+        "toolId": 1114,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 1115,
+        "typeIdentifier": "com.apple.shortcuts.WFPhoneNumberContentItem"
+    },
+    {
+        "toolId": 1116,
+        "typeIdentifier": "none"
+    },
+    {
+        "toolId": 1117,
+        "typeIdentifier": "string"
+    },
+    {
+        "toolId": 1118,
+        "typeIdentifier": "string"
+    },
+    {
+        "toolId": 1119,
+        "typeIdentifier": "com.apple.DocumentsApp.FINodeEntity"
+    },
+    {
+        "toolId": 1120,
+        "typeIdentifier": "com.apple.Bridge.AssistiveTouchDeepLinks"
+    },
+    {
+        "toolId": 1121,
+        "typeIdentifier": "com.apple.Preferences.ScreenshotServicesSettingsDeepLink"
+    }
+]
