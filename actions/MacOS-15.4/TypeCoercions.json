@@ -1,0 +1,1114 @@
+[
+    {
+        "coercionDefinition": "CAESGioYCgUKA4gBABIPEg0KC3B1YmxpYy5pdGVt",
+        "typeId": "com.apple.Notes.AttachmentEntity"
+    },
+    {
+        "coercionDefinition": "CAESIyohCgUKA4gBABIYEhYKFGNvbS5hcHBsZS53ZWJhcmNoaXZl",
+        "typeId": "com.apple.Notes.NoteEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.mail.MailMessageEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.mail.DraftMessageEntity"
+    },
+    {
+        "coercionDefinition": "EhoqGAoFCgOIAQASDxINCgtwdWJsaWMuaXRlbQ==",
+        "typeId": "com.apple.finder.FINodeEntity"
+    },
+    {
+        "coercionDefinition": "CAESGioYCgUKA4gBABIPEg0KC3B1YmxpYy5pdGVt",
+        "typeId": "com.apple.finder.FINodeEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.systempreferences.TrueToneEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.systempreferences.KeyboardSettingsDeepLink"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.systempreferences.AxSwitchHoverTextToolbarEntity"
+    },
+    {
+        "coercionDefinition": "CAESwgEqvwEKBQoDiAEAErUBErIBCiNjb20uYXBwbGUucHJpdmF0ZS5saXZlLXBob3RvLWJ1bmRsZQoMcHVibGljLm1vdmllCgtwdWJsaWMuaGVpYwoNcHVibGljLm1wZWctNAoZY29tLmFwcGxlLnF1aWNrdGltZS1tb3ZpZQoMcHVibGljLmltYWdlChJjb20uY29tcHVzZXJ2ZS5naWYKCnB1YmxpYy5wbmcKC3B1YmxpYy5oZWlmCgtwdWJsaWMuanBlZw==",
+        "typeId": "com.apple.Photos.AssetEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.freeform.CRLBoardEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.systempreferences.HourFormatEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.systempreferences.AxKbKeyAcceptedMouseEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.systempreferences.ClockOptionsEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.siri.AssistantSettingsControls.SiriAndDictationHistoryEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.systempreferences.AxZoomSmoothEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.systempreferences.AxHotCornerBottomRightEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.systempreferences.BatterySettingsPaneDynamicDeepLinks"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.systempreferences.AxZoomFollowFocusActivationEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.systempreferences.AxFacetimeTranscriptionsEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.siri.AssistantSettingsControls.AlwaysPrintSiriResponseEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.systempreferences.AxFkaEnableCheckboxEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.siri.AssistantSettingsControls.SiriSuggestionsAndPrivacyForAppEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.systempreferences.ApplicationNotificationsSettings"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.systempreferences.AxSpokenDetectLanguagesEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.systempreferences.AxKbAutoCapitalizationEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.systempreferences.InternetAccountEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.systempreferences.AxFeatureLivespeechEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.siri.AssistantSettingsControls.AlwaysShowSpeechEntity"
+    },
+    {
+        "coercionDefinition": "CAESPCo6CgUKA4gBABIxEi8KFnB1YmxpYy51dGY4LXBsYWluLXRleHQKFXB1YmxpYy5jYWxlbmRhci1ldmVudA==",
+        "typeId": "com.apple.iCal.EventEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.systempreferences.AxSwitchCursorSizeEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.iBooksX.BookAppEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.systempreferences.AxZoomRestoreEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.systempreferences.AxMouseKeysEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.systempreferences.AxReduceTransparencyEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.systempreferences.SoundSettingsInterfaceEffectsEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.systempreferences.AxZoomStylePopupEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.systempreferences.AxSpokenAlertsEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.systempreferences.AxMonoAudioEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.systempreferences.VPNConfigurationEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.systempreferences.AxSwitchHideAfterDelayEntity"
+    },
+    {
+        "coercionDefinition": "CAESHCoaCgUKA4gBABIREg8KDWNvbS5hZG9iZS5wZGY=",
+        "typeId": "com.apple.Safari.TabEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.stocks.ArticleEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.systempreferences.SettingsEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.siri.AssistantSettingsControls.SiriVoiceEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.systempreferences.TrackpadForceClickEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.systempreferences.AxSwitchMouseCursorEdgeEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.systempreferences.DockSettingsEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.systempreferences.TrackpadShowDesktopEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.systempreferences.AxFeatureVoicecontrolEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.systempreferences.AxVirtualKeyboardEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.systempreferences.AxSwitchAutoSpacingEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.systempreferences.AxTrackpadScrollEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.systempreferences.AxInvertColorEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.systempreferences.AxSlowKeysSoundEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.MobileSMS.ConversationEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.systempreferences.AxMouseKeysShortcutEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.systempreferences.InstallMacUpdatesPreferenceEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.systempreferences.BatteryHealthPaneDynamicDeepLinks"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.systempreferences.AxFkaHighContrastCheckboxEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.systempreferences.AxSwitchMouseMoveStyleEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.systempreferences.AxRttEnableEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.systempreferences.AxHotCornerMoveHomePanelEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.systempreferences.AxSpokenHotkeyEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.systempreferences.AxKbRightClickEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.systempreferences.AxIgnoreTrackpadEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.systempreferences.MouseTrackingSpeedEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.systempreferences.AxSpringLoadingEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.systempreferences.AxAdaptiveVoiceShortcutsEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.siri.AssistantSettingsControls.SiriSuggestionsAndPrivacyEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.stocks.SymbolEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.systempreferences.AxSpokenTypingEchoEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.systempreferences.AxSpokenSelectionHighlightWordColorEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.systempreferences.AxVideoDescriptionEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.MobileSMS.MessageEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.systempreferences.AxVoiceControlOverlayEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.systempreferences.TrackpadNotificiationCenterEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.systempreferences.AxFeatureZoomEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.news.ArticleEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.systempreferences.AxSpokenSelectionShowControllerEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.news.GameCenterEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.systempreferences.AxStickyKeysDisplayEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.news.FeedEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.systempreferences.AxZoomFocusMovementEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.systempreferences.AxSpatialAudioFollowsHeadEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.systempreferences.AutoDateTimeEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.systempreferences.AutoTimeZoneEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.systempreferences.MissionControlSettingsEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.systempreferences.AxZoomTrackpadEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.systempreferences.AxStickyKeysBeepEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.systempreferences.AxSpokenTypingEchoModifierKeysEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.systempreferences.AxAnimatedImagesEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.systempreferences.AppleAccountMainDynamicDeepLinks"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.systempreferences.AxZoomKeepStationaryEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.systempreferences.SoundSettingsStartupSoundEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.systempreferences.ClassroomDynamicDeepLinks"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.systempreferences.AxZoomResizeShortcutsEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.systempreferences.ShareKeyboardEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.systempreferences.AxKbHideEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.systempreferences.AxZoomTempToggleEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.systempreferences.SoundSettingsFeedbackSoundEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.systempreferences.StorageSettingsDeeplinks"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.systempreferences.AxStickyKeysDisplayLocationEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.systempreferences.AxSwitchAutoCapitalizationEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.systempreferences.FullScreenSwipeEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.systempreferences.AxKbUseClickSoundsEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.systempreferences.MissionControlEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.siri.AssistantSettingsControls.SiriSuggestionsShowInAppEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.siri.AssistantSettingsControls.VoiceFeedbackToggleEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.systempreferences.TrackpadSettingDeepLink"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.systempreferences.AxZoomEnableHotkeysEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.systempreferences.MagicEdgeEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.systempreferences.AxZoomIndividualDisplaysEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.systempreferences.ControlCenterModule"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.systempreferences.TrackpadSwipeBetweenPagesEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.siri.AssistantSettingsControls.KeyboardShortcutEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.systempreferences.ShowScrollBarsEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.systempreferences.DesktopSettingsEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.systempreferences.AxHotCornerBottomLeftEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.systempreferences.WindowsSettingsEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.systempreferences.AxDisplayFilterEnabledEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.systempreferences.AxCaptioningPreferSdhEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.systempreferences.SmartZoomEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.systempreferences.TrackpadClickPressureEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.systempreferences.AxFindCursorEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.systempreferences.AutomaticReconnectEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.systempreferences.AxKbAppearanceTypeEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.systempreferences.AxHoverTextActivationLockModeEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.VoiceMemos.LocationBasedNamingEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.systempreferences.AxTouchBarZoomEnableEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.systempreferences.ScrollDirectionEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.systempreferences.AxSpokenTypingEchoSelectionEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.systempreferences.AllowWallPaperTintingEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.systempreferences.TrackpadMissionControlEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.donotdisturb.DoNotDisturbAppIntents.FocusEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.systempreferences.AxMouseKeysIgnoreTrackpadEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.systempreferences.TrackpadAppExposeEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.systempreferences.AxSpokenPointerElementEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.systempreferences.AxBackgroundSoundsLockScreenEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.systempreferences.AxSpokenTypingEchoCharsEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.systempreferences.SpotlightSettingsDeepLinks"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.systempreferences.AxSwitchControlAppearanceTypeEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.systempreferences.AxSlowKeysEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.systempreferences.AxZoomEnableGestureEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.systempreferences.AxDwellProgressIndicatorEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.systempreferences.AxZoomDisableUniversalControlEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.systempreferences.AxSiriAtypicalSpeechEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.systempreferences.AxFkaAutoHideCheckboxEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.systempreferences.AxVoiceControlPlaySoundEnabledEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.systempreferences.AxHoverTextEnableEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.systempreferences.TrackpadSecondaryClickEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.systempreferences.AxDwellInPanelsEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.systempreferences.AxStickyKeysEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.systempreferences.AxMenubarDwellActionsEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.systempreferences.AxZoomFollowFocusModeEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.siri.AssistantSettingsControls.SiriLanguageEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.systempreferences.AxHeadMouseEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.systempreferences.AxAltMouseButtonsEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.systempreferences.WidgetSettingsEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.systempreferences.SidebarIconSizeEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.systempreferences.AxHoverTypingEnableEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.systempreferences.AxDwellZoomEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.systempreferences.AxRttSendImmediatelyEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.systempreferences.DateTimeEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.systempreferences.NotificationCenterEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.systempreferences.AxKbAutoSpacingEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.systempreferences.AxSwitchScanRestartEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.siri.AssistantSettingsControls.AskSiriEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.systempreferences.AxDwellAutoRevertEntity"
+    },
+    {
+        "coercionDefinition": "CAESWipYCgUKA4gBABJPEk0KFHB1YmxpYy5lbWFpbC1tZXNzYWdlCg5wdWJsaWMubWVzc2FnZQoVcHVibGljLmNhbGVuZGFyLWV2ZW50Cg5wdWJsaWMuY29udGFjdA==",
+        "typeId": "com.apple.omniSearch.SearchToolExtension.SearchSpotlightEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.systempreferences.AxStickyKeysShortcutEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.systempreferences.AxZoomMoveEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.systempreferences.AxSpokenTypingEchoWordsEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.systempreferences.AxSwitchAutoscanEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.systempreferences.AxDwellActionEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.systempreferences.FamilySubscriptionsDeepLink"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.systempreferences.AxVoiceControlOverlayFadingEnabledEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.systempreferences.AxSpokenPointerElementVerbosityEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.systempreferences.AccentColorEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.systempreferences.TrackpadQuietClickEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.news.RestrictStoriesInTodaySettingEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.systempreferences.AxZoomFlashEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.systempreferences.BatteryOptionsPaneDynamicDeepLinks"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.systempreferences.AxSpokenSelectionHighlightContentEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.TransparencySettingsIntents.TransparencyPublicVerificationCodeEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.systempreferences.MouseSettingDeepLink"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.systempreferences.AxTrackpadScrollBehaviorEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.systempreferences.AxZoomFreezePanningEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.systempreferences.TrackpadRotateEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.systempreferences.AxReduceCursorModulationEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.systempreferences.EnergySaverPaneDynamicDeepLinks"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.systempreferences.AxHoverTextModifierEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.systempreferences.AppearanceSettingsDeepLink"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.systempreferences.TrackpadTapToClickEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.systempreferences.AxZoomInvertEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.systempreferences.InstallAppUpdatesPreferenceEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.systempreferences.AxSwitchNavFeedbackEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.systempreferences.AxSystemTranscriptionEnabledEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.TransparencySettingsIntents.TransparencyStatusEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.systempreferences.AxShowToolbarButtonShapesEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.systempreferences.AxFeatureVoiceoverEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.systempreferences.TrackpadLookUpAndDataDetectorsEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.systempreferences.AxInvertColorModeEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.systempreferences.AxAltMouseEnableVisualsEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.systempreferences.TrackpadSmartZoomEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.systempreferences.AxSwitchResumeAutoScanningEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.systempreferences.DownloadUpdatesPreferenceEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.VoiceMemos.AudioQualityEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.systempreferences.AxDwellCursorColorEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.systempreferences.AxHoverTypingEntryLocationEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.systempreferences.SwipeBetweenPagesEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.systempreferences.AxTypeToSiriEnabledEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.systempreferences.AxFeatureSwitchcontrolEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.systempreferences.AxHotCornerTopRightEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.systempreferences.AxDwellInMenuExtraEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.systempreferences.AxAltMouseEnableSoundsEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.systempreferences.AxZoomTempDetachEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.systempreferences.AxZoomMonitorSelectionTrackpadEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.systempreferences.CurrentlyConnectedVPN"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.systempreferences.FamilyMemberDetailsDeepLink"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.systempreferences.AppearanceEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.systempreferences.AxMouseScrollEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.systempreferences.TimeZoneEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.systempreferences.FamilySettingsDeepLink"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.systempreferences.AxZoomToggleFsAndPipEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.systempreferences.InstallSecurityUpdatesPreferenceEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.systempreferences.SetupFamilyDeepLink"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.systempreferences.TrackpadLaunchpadEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.systempreferences.AxHomePanelDwellActionsEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.systempreferences.TrackpadZoomInOutEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.systempreferences.AxSpokenPointerElementModeEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.systempreferences.AxShowWindowTitlebarIconsEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.systempreferences.AxSpokenSelectionHighlightSentenceColorEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.systempreferences.AxDifferentiateWithoutColorEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.systempreferences.AutoBrightnessEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.systempreferences.AxSpokenPronunciationsEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.systempreferences.AxZoomMonitorSelectionEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.systempreferences.AxVoiceControlShowHintsEnabledEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.systempreferences.AxSpokenSelectionHighlightSentenceStyleEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.systempreferences.AxMouseScrollBehaviorEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.news.NewsTabDeepLink"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.VoiceMemos.ClearDeletedEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.systempreferences.AxFkaIncreaseSizeCheckboxEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.systempreferences.AxReduceMotionEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.systempreferences.AxIncreaseContrastEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.systempreferences.AxDimFlashingEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.systempreferences.AxPrefersHorizTextLayoutEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.systempreferences.TrackpadTrackingSpeedEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.systempreferences.AxFlashScreenEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.systempreferences.TrackpadSwipeBetweenAppsEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.systempreferences.SecondaryClickEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.systempreferences.AxDisplayFilterTypeEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.systempreferences.ClickScrollBarToEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.systempreferences.AxHotCornerTopLeftEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.systempreferences.AxBackgroundSoundsEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.systempreferences.HighlightColorEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.Maps.PlaceEntity"
+    },
+    {
+        "coercionDefinition": "CAESGioYCgUKA4gBABIPEg0KC3B1YmxpYy5qc29u",
+        "typeId": "com.apple.iCal.TransferableEventEntity"
+    },
+    {
+        "coercionDefinition": "CAESGioYCgUKA4gBABIPEg0KC3B1YmxpYy5qc29u",
+        "typeId": "com.apple.iCal.TransferableCalendarEntity"
+    },
+    {
+        "coercionDefinition": "CAESSypJCgUKA4gBABJAEj4KDWNvbS5hZG9iZS5wZGYKC3B1YmxpYy50ZXh0CgpwdWJsaWMucnRmChRvcmcud2VibXByb2plY3Qud2VicA==",
+        "typeId": "com.apple.generativeassistanttools.GenerativeAssistantExtension.GenerativeResponseEntity"
+    },
+    {
+        "coercionDefinition": "CAESGioYCgUKA4gBABIPEg0KC3B1YmxpYy5qc29u",
+        "typeId": "com.apple.iCal.TransferableSourceEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.AppStore.ArticleEntity"
+    },
+    {
+        "coercionDefinition": "CAESJSojCgUKA4gBABIaEhgKFnB1YmxpYy51dGY4LXBsYWluLXRleHQ=",
+        "typeId": "com.apple.omniSearch.SearchToolExtension.SearchAnswerEntity"
+    },
+    {
+        "coercionDefinition": "CAESBwoFCgOAAQA=",
+        "typeId": "com.apple.iCal.ParticipantEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.AppStore.ProductPageAppEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.stocks.NewsRecipeEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.news.NewsRecipeEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.systempreferences.DeviceProcessorEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.systempreferences.DeviceModelNameEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.systempreferences.DeviceGraphicsEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.systempreferences.DeviceMemoryEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.systempreferences.AvailableDisplaysEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.news.NewsSettingsAutomaticDownloadDynamicDeepLinks"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.systempreferences.DeviceOSInfoEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.systempreferences.DeviceSerialNumberEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.systempreferences.DeviceStorageEntity"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.news.NewsSettingsDynamicDeepLinks"
+    },
+    {
+        "coercionDefinition": "CAESGSoXCgUKA4gBABIOEgwKCnB1YmxpYy51cmw=",
+        "typeId": "com.apple.systempreferences.ComputerNameEntity"
+    }
+]
