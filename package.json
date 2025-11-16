@@ -23,5 +23,8 @@
     "form-data": "^4.0.4",
     "plist": "^3.1.0",
     "yargs": "^18.0.0"
+  },
+  "devDependencies": {
+    "@ljharb/tsconfig": "^0.3.2"
   }
 }
