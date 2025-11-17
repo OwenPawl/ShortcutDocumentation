@@ -1,0 +1,947 @@
+[
+    {
+        "flags": 0,
+        "key": "requiresConfirmation",
+        "relationships": "",
+        "sortOrder": 0,
+        "triggerId": 1,
+        "typeId": "bool",
+        "typeInstance": "CgQKAhAA"
+    },
+    {
+        "flags": 0,
+        "key": "selectedNetworks",
+        "relationships": "",
+        "sortOrder": 1,
+        "triggerId": 1,
+        "typeId": "string",
+        "typeInstance": "EgYKBAoCMAA="
+    },
+    {
+        "flags": 0,
+        "key": "runAfterConnectionInterruption",
+        "relationships": "",
+        "sortOrder": 2,
+        "triggerId": 1,
+        "typeId": "bool",
+        "typeInstance": "CgQKAhAA"
+    },
+    {
+        "flags": 0,
+        "key": "requiresConfirmation",
+        "relationships": "",
+        "sortOrder": 0,
+        "triggerId": 2,
+        "typeId": "bool",
+        "typeInstance": "CgQKAhAA"
+    },
+    {
+        "flags": 0,
+        "key": "selectedNetworks",
+        "relationships": "",
+        "sortOrder": 1,
+        "triggerId": 2,
+        "typeId": "string",
+        "typeInstance": "EgYKBAoCMAA="
+    },
+    {
+        "flags": 0,
+        "key": "requiresConfirmation",
+        "relationships": "",
+        "sortOrder": 0,
+        "triggerId": 3,
+        "typeId": "bool",
+        "typeInstance": "CgQKAhAA"
+    },
+    {
+        "flags": 0,
+        "key": "requiresConfirmation",
+        "relationships": "",
+        "sortOrder": 0,
+        "triggerId": 4,
+        "typeId": "bool",
+        "typeInstance": "CgQKAhAA"
+    },
+    {
+        "flags": 0,
+        "key": "requiresConfirmation",
+        "relationships": "",
+        "sortOrder": 0,
+        "triggerId": 5,
+        "typeId": "bool",
+        "typeInstance": "CgQKAhAA"
+    },
+    {
+        "flags": 0,
+        "key": "requiresConfirmation",
+        "relationships": "",
+        "sortOrder": 0,
+        "triggerId": 6,
+        "typeId": "bool",
+        "typeInstance": "CgQKAhAA"
+    },
+    {
+        "flags": 0,
+        "key": "requiresConfirmation",
+        "relationships": "",
+        "sortOrder": 0,
+        "triggerId": 7,
+        "typeId": "bool",
+        "typeInstance": "CgQKAhAA"
+    },
+    {
+        "flags": 0,
+        "key": "requiresConfirmation",
+        "relationships": "",
+        "sortOrder": 0,
+        "triggerId": 8,
+        "typeId": "bool",
+        "typeInstance": "CgQKAhAA"
+    },
+    {
+        "flags": 0,
+        "key": "requiresConfirmation",
+        "relationships": "",
+        "sortOrder": 0,
+        "triggerId": 9,
+        "typeId": "bool",
+        "typeInstance": "CgQKAhAA"
+    },
+    {
+        "flags": 0,
+        "key": "requiresConfirmation",
+        "relationships": "",
+        "sortOrder": 0,
+        "triggerId": 10,
+        "typeId": "bool",
+        "typeInstance": "CgQKAhAA"
+    },
+    {
+        "flags": 0,
+        "key": "requiresConfirmation",
+        "relationships": "",
+        "sortOrder": 0,
+        "triggerId": 11,
+        "typeId": "bool",
+        "typeInstance": "CgQKAhAA"
+    },
+    {
+        "flags": 0,
+        "key": "requiresConfirmation",
+        "relationships": "",
+        "sortOrder": 0,
+        "triggerId": 12,
+        "typeId": "bool",
+        "typeInstance": "CgQKAhAA"
+    },
+    {
+        "flags": 0,
+        "key": "requiresConfirmation",
+        "relationships": "",
+        "sortOrder": 0,
+        "triggerId": 13,
+        "typeId": "bool",
+        "typeInstance": "CgQKAhAA"
+    },
+    {
+        "flags": 0,
+        "key": "requiresConfirmation",
+        "relationships": "",
+        "sortOrder": 0,
+        "triggerId": 14,
+        "typeId": "bool",
+        "typeInstance": "CgQKAhAA"
+    },
+    {
+        "flags": 0,
+        "key": "requiresConfirmation",
+        "relationships": "",
+        "sortOrder": 0,
+        "triggerId": 15,
+        "typeId": "bool",
+        "typeInstance": "CgQKAhAA"
+    },
+    {
+        "flags": 0,
+        "key": "requiresConfirmation",
+        "relationships": "",
+        "sortOrder": 0,
+        "triggerId": 16,
+        "typeId": "bool",
+        "typeInstance": "CgQKAhAA"
+    },
+    {
+        "flags": 0,
+        "key": "requiresConfirmation",
+        "relationships": "",
+        "sortOrder": 0,
+        "triggerId": 17,
+        "typeId": "bool",
+        "typeInstance": "CgQKAhAA"
+    },
+    {
+        "flags": 0,
+        "key": "requiresConfirmation",
+        "relationships": "",
+        "sortOrder": 0,
+        "triggerId": 18,
+        "typeId": "bool",
+        "typeInstance": "CgQKAhAA"
+    },
+    {
+        "flags": 0,
+        "key": "requiresConfirmation",
+        "relationships": "",
+        "sortOrder": 0,
+        "triggerId": 19,
+        "typeId": "bool",
+        "typeInstance": "CgQKAhAA"
+    },
+    {
+        "flags": 0,
+        "key": "requiresConfirmation",
+        "relationships": "",
+        "sortOrder": 0,
+        "triggerId": 20,
+        "typeId": "bool",
+        "typeInstance": "CgQKAhAA"
+    },
+    {
+        "flags": 0,
+        "key": "requiresConfirmation",
+        "relationships": "",
+        "sortOrder": 0,
+        "triggerId": 21,
+        "typeId": "bool",
+        "typeInstance": "CgQKAhAA"
+    },
+    {
+        "flags": 0,
+        "key": "requiresConfirmation",
+        "relationships": "",
+        "sortOrder": 0,
+        "triggerId": 22,
+        "typeId": "bool",
+        "typeInstance": "CgQKAhAA"
+    },
+    {
+        "flags": 0,
+        "key": "requiresConfirmation",
+        "relationships": "",
+        "sortOrder": 0,
+        "triggerId": 23,
+        "typeId": "bool",
+        "typeInstance": "CgQKAhAA"
+    },
+    {
+        "flags": 0,
+        "key": "requiresConfirmation",
+        "relationships": "",
+        "sortOrder": 0,
+        "triggerId": 24,
+        "typeId": "bool",
+        "typeInstance": "CgQKAhAA"
+    },
+    {
+        "flags": 0,
+        "key": "requiresConfirmation",
+        "relationships": "",
+        "sortOrder": 0,
+        "triggerId": 25,
+        "typeId": "bool",
+        "typeInstance": "CgQKAhAA"
+    },
+    {
+        "flags": 0,
+        "key": "requiresConfirmation",
+        "relationships": "",
+        "sortOrder": 0,
+        "triggerId": 26,
+        "typeId": "bool",
+        "typeInstance": "CgQKAhAA"
+    },
+    {
+        "flags": 0,
+        "key": "requiresConfirmation",
+        "relationships": "",
+        "sortOrder": 0,
+        "triggerId": 27,
+        "typeId": "bool",
+        "typeInstance": "CgQKAhAA"
+    },
+    {
+        "flags": 0,
+        "key": "selectedApps",
+        "relationships": "",
+        "sortOrder": 1,
+        "triggerId": 27,
+        "typeId": "app",
+        "typeInstance": "EgcKBQoDkAEA"
+    },
+    {
+        "flags": 0,
+        "key": "requiresConfirmation",
+        "relationships": "",
+        "sortOrder": 0,
+        "triggerId": 28,
+        "typeId": "bool",
+        "typeInstance": "CgQKAhAA"
+    },
+    {
+        "flags": 0,
+        "key": "selectedApps",
+        "relationships": "",
+        "sortOrder": 1,
+        "triggerId": 28,
+        "typeId": "app",
+        "typeInstance": "EgcKBQoDkAEA"
+    },
+    {
+        "flags": 0,
+        "key": "requiresConfirmation",
+        "relationships": "",
+        "sortOrder": 0,
+        "triggerId": 29,
+        "typeId": "bool",
+        "typeInstance": "CgQKAhAA"
+    },
+    {
+        "flags": 0,
+        "key": "selectedApps",
+        "relationships": "",
+        "sortOrder": 1,
+        "triggerId": 29,
+        "typeId": "app",
+        "typeInstance": "EgcKBQoDkAEA"
+    },
+    {
+        "flags": 0,
+        "key": "requiresConfirmation",
+        "relationships": "",
+        "sortOrder": 0,
+        "triggerId": 30,
+        "typeId": "bool",
+        "typeInstance": "CgQKAhAA"
+    },
+    {
+        "flags": 0,
+        "key": "location",
+        "relationships": "",
+        "sortOrder": 1,
+        "triggerId": 30,
+        "typeId": "placemark",
+        "typeInstance": "CgQKAngA"
+    },
+    {
+        "flags": 0,
+        "key": "requiresConfirmation",
+        "relationships": "",
+        "sortOrder": 0,
+        "triggerId": 31,
+        "typeId": "bool",
+        "typeInstance": "CgQKAhAA"
+    },
+    {
+        "flags": 0,
+        "key": "location",
+        "relationships": "",
+        "sortOrder": 1,
+        "triggerId": 31,
+        "typeId": "placemark",
+        "typeInstance": "CgQKAngA"
+    },
+    {
+        "flags": 0,
+        "key": "startTime",
+        "relationships": "",
+        "sortOrder": 2,
+        "triggerId": 31,
+        "typeId": "dateComponents",
+        "typeInstance": "KgoKBAoCQAASAiAC"
+    },
+    {
+        "flags": 0,
+        "key": "endTime",
+        "relationships": "",
+        "sortOrder": 3,
+        "triggerId": 31,
+        "typeId": "dateComponents",
+        "typeInstance": "KgoKBAoCQAASAiAC"
+    },
+    {
+        "flags": 0,
+        "key": "requiresConfirmation",
+        "relationships": "",
+        "sortOrder": 0,
+        "triggerId": 32,
+        "typeId": "bool",
+        "typeInstance": "CgQKAhAA"
+    },
+    {
+        "flags": 0,
+        "key": "location",
+        "relationships": "",
+        "sortOrder": 1,
+        "triggerId": 32,
+        "typeId": "placemark",
+        "typeInstance": "CgQKAngA"
+    },
+    {
+        "flags": 0,
+        "key": "requiresConfirmation",
+        "relationships": "",
+        "sortOrder": 0,
+        "triggerId": 33,
+        "typeId": "bool",
+        "typeInstance": "CgQKAhAA"
+    },
+    {
+        "flags": 0,
+        "key": "location",
+        "relationships": "",
+        "sortOrder": 1,
+        "triggerId": 33,
+        "typeId": "placemark",
+        "typeInstance": "CgQKAngA"
+    },
+    {
+        "flags": 0,
+        "key": "startTime",
+        "relationships": "",
+        "sortOrder": 2,
+        "triggerId": 33,
+        "typeId": "dateComponents",
+        "typeInstance": "KgoKBAoCQAASAiAC"
+    },
+    {
+        "flags": 0,
+        "key": "endTime",
+        "relationships": "",
+        "sortOrder": 3,
+        "triggerId": 33,
+        "typeId": "dateComponents",
+        "typeInstance": "KgoKBAoCQAASAiAC"
+    },
+    {
+        "flags": 0,
+        "key": "requiresConfirmation",
+        "relationships": "",
+        "sortOrder": 0,
+        "triggerId": 34,
+        "typeId": "bool",
+        "typeInstance": "CgQKAhAA"
+    },
+    {
+        "flags": 0,
+        "key": "senders",
+        "relationships": "",
+        "sortOrder": 1,
+        "triggerId": 34,
+        "typeId": "person",
+        "typeInstance": "EgcKBQoDgAEA"
+    },
+    {
+        "flags": 0,
+        "key": "requiresConfirmation",
+        "relationships": "",
+        "sortOrder": 0,
+        "triggerId": 35,
+        "typeId": "bool",
+        "typeInstance": "CgQKAhAA"
+    },
+    {
+        "flags": 0,
+        "key": "searchTerm",
+        "relationships": "",
+        "sortOrder": 1,
+        "triggerId": 35,
+        "typeId": "string",
+        "typeInstance": "GggKBgoECgIwAA=="
+    },
+    {
+        "flags": 0,
+        "key": "requiresConfirmation",
+        "relationships": "",
+        "sortOrder": 0,
+        "triggerId": 36,
+        "typeId": "bool",
+        "typeInstance": "CgQKAhAA"
+    },
+    {
+        "flags": 0,
+        "key": "senders",
+        "relationships": "",
+        "sortOrder": 1,
+        "triggerId": 36,
+        "typeId": "person",
+        "typeInstance": "EgcKBQoDgAEA"
+    },
+    {
+        "flags": 0,
+        "key": "searchTerm",
+        "relationships": "",
+        "sortOrder": 2,
+        "triggerId": 36,
+        "typeId": "string",
+        "typeInstance": "GggKBgoECgIwAA=="
+    },
+    {
+        "flags": 0,
+        "key": "requiresConfirmation",
+        "relationships": "",
+        "sortOrder": 0,
+        "triggerId": 37,
+        "typeId": "bool",
+        "typeInstance": "CgQKAhAA"
+    },
+    {
+        "flags": 0,
+        "key": "senders",
+        "relationships": "",
+        "sortOrder": 1,
+        "triggerId": 37,
+        "typeId": "person",
+        "typeInstance": "EgcKBQoDgAEA"
+    },
+    {
+        "flags": 0,
+        "key": "accounts",
+        "relationships": "",
+        "sortOrder": 2,
+        "triggerId": 37,
+        "typeId": "com.apple.shortcuts.WFEmailTrigger.WFEmailTriggerMailAccount",
+        "typeInstance": "Kn4KQRI/ChNjb20uYXBwbGUuc2hvcnRjdXRzEihXRkVtYWlsVHJpZ2dlci5XRkVtYWlsVHJpZ2dlck1haWxBY2NvdW50EjkKNwoxChNjb20uYXBwbGUuc2hvcnRjdXRzOhoKDldGRW1haWxUcmlnZ2VyEghhY2NvdW50cxICIgA="
+    },
+    {
+        "flags": 0,
+        "key": "recipients",
+        "relationships": "",
+        "sortOrder": 3,
+        "triggerId": 37,
+        "typeId": "person",
+        "typeInstance": "EgcKBQoDgAEA"
+    },
+    {
+        "flags": 0,
+        "key": "requiresConfirmation",
+        "relationships": "",
+        "sortOrder": 0,
+        "triggerId": 38,
+        "typeId": "bool",
+        "typeInstance": "CgQKAhAA"
+    },
+    {
+        "flags": 0,
+        "key": "searchTerm",
+        "relationships": "",
+        "sortOrder": 1,
+        "triggerId": 38,
+        "typeId": "string",
+        "typeInstance": "GggKBgoECgIwAA=="
+    },
+    {
+        "flags": 0,
+        "key": "accounts",
+        "relationships": "",
+        "sortOrder": 2,
+        "triggerId": 38,
+        "typeId": "com.apple.shortcuts.WFEmailTrigger.WFEmailTriggerMailAccount",
+        "typeInstance": "Kn4KQRI/ChNjb20uYXBwbGUuc2hvcnRjdXRzEihXRkVtYWlsVHJpZ2dlci5XRkVtYWlsVHJpZ2dlck1haWxBY2NvdW50EjkKNwoxChNjb20uYXBwbGUuc2hvcnRjdXRzOhoKDldGRW1haWxUcmlnZ2VyEghhY2NvdW50cxICIgA="
+    },
+    {
+        "flags": 0,
+        "key": "recipients",
+        "relationships": "",
+        "sortOrder": 3,
+        "triggerId": 38,
+        "typeId": "person",
+        "typeInstance": "EgcKBQoDgAEA"
+    },
+    {
+        "flags": 0,
+        "key": "requiresConfirmation",
+        "relationships": "",
+        "sortOrder": 0,
+        "triggerId": 39,
+        "typeId": "bool",
+        "typeInstance": "CgQKAhAA"
+    },
+    {
+        "flags": 0,
+        "key": "senders",
+        "relationships": "",
+        "sortOrder": 1,
+        "triggerId": 39,
+        "typeId": "person",
+        "typeInstance": "EgcKBQoDgAEA"
+    },
+    {
+        "flags": 0,
+        "key": "searchTerm",
+        "relationships": "",
+        "sortOrder": 2,
+        "triggerId": 39,
+        "typeId": "string",
+        "typeInstance": "GggKBgoECgIwAA=="
+    },
+    {
+        "flags": 0,
+        "key": "accounts",
+        "relationships": "",
+        "sortOrder": 3,
+        "triggerId": 39,
+        "typeId": "com.apple.shortcuts.WFEmailTrigger.WFEmailTriggerMailAccount",
+        "typeInstance": "Kn4KQRI/ChNjb20uYXBwbGUuc2hvcnRjdXRzEihXRkVtYWlsVHJpZ2dlci5XRkVtYWlsVHJpZ2dlck1haWxBY2NvdW50EjkKNwoxChNjb20uYXBwbGUuc2hvcnRjdXRzOhoKDldGRW1haWxUcmlnZ2VyEghhY2NvdW50cxICIgA="
+    },
+    {
+        "flags": 0,
+        "key": "recipients",
+        "relationships": "",
+        "sortOrder": 4,
+        "triggerId": 39,
+        "typeId": "person",
+        "typeInstance": "EgcKBQoDgAEA"
+    },
+    {
+        "flags": 0,
+        "key": "requiresConfirmation",
+        "relationships": "",
+        "sortOrder": 0,
+        "triggerId": 40,
+        "typeId": "bool",
+        "typeInstance": "CgQKAhAA"
+    },
+    {
+        "flags": 0,
+        "key": "workoutTypes",
+        "relationships": "",
+        "sortOrder": 1,
+        "triggerId": 40,
+        "typeId": "com.apple.shortcuts.WFWorkoutTrigger.WFWorkoutTriggerWorkoutType",
+        "typeInstance": "KogBCkUSQwoTY29tLmFwcGxlLnNob3J0Y3V0cxIsV0ZXb3Jrb3V0VHJpZ2dlci5XRldvcmtvdXRUcmlnZ2VyV29ya291dFR5cGUSPwo9CjcKE2NvbS5hcHBsZS5zaG9ydGN1dHM6IAoQV0ZXb3Jrb3V0VHJpZ2dlchIMd29ya291dFR5cGVzEgIiAA=="
+    },
+    {
+        "flags": 0,
+        "key": "requiresConfirmation",
+        "relationships": "",
+        "sortOrder": 0,
+        "triggerId": 41,
+        "typeId": "bool",
+        "typeInstance": "CgQKAhAA"
+    },
+    {
+        "flags": 0,
+        "key": "workoutTypes",
+        "relationships": "",
+        "sortOrder": 1,
+        "triggerId": 41,
+        "typeId": "com.apple.shortcuts.WFWorkoutTrigger.WFWorkoutTriggerWorkoutType",
+        "typeInstance": "KogBCkUSQwoTY29tLmFwcGxlLnNob3J0Y3V0cxIsV0ZXb3Jrb3V0VHJpZ2dlci5XRldvcmtvdXRUcmlnZ2VyV29ya291dFR5cGUSPwo9CjcKE2NvbS5hcHBsZS5zaG9ydGN1dHM6IAoQV0ZXb3Jrb3V0VHJpZ2dlchIMd29ya291dFR5cGVzEgIiAA=="
+    },
+    {
+        "flags": 0,
+        "key": "requiresConfirmation",
+        "relationships": "",
+        "sortOrder": 0,
+        "triggerId": 42,
+        "typeId": "bool",
+        "typeInstance": "CgQKAhAA"
+    },
+    {
+        "flags": 0,
+        "key": "workoutTypes",
+        "relationships": "",
+        "sortOrder": 1,
+        "triggerId": 42,
+        "typeId": "com.apple.shortcuts.WFWorkoutTrigger.WFWorkoutTriggerWorkoutType",
+        "typeInstance": "KogBCkUSQwoTY29tLmFwcGxlLnNob3J0Y3V0cxIsV0ZXb3Jrb3V0VHJpZ2dlci5XRldvcmtvdXRUcmlnZ2VyV29ya291dFR5cGUSPwo9CjcKE2NvbS5hcHBsZS5zaG9ydGN1dHM6IAoQV0ZXb3Jrb3V0VHJpZ2dlchIMd29ya291dFR5cGVzEgIiAA=="
+    },
+    {
+        "flags": 0,
+        "key": "triggerHeadsUp",
+        "relationships": "",
+        "sortOrder": 0,
+        "triggerId": 43,
+        "typeId": "dateComponents",
+        "typeInstance": "CgQKAkAA"
+    },
+    {
+        "flags": 0,
+        "key": "destinationType",
+        "relationships": "",
+        "sortOrder": 1,
+        "triggerId": 43,
+        "typeId": "com.apple.shortcuts.WFPredictedLocationTransitionTrigger.WFPredictedLocationTransitionDestinationType",
+        "typeInstance": "CmoSaAoTY29tLmFwcGxlLnNob3J0Y3V0cxJRV0ZQcmVkaWN0ZWRMb2NhdGlvblRyYW5zaXRpb25UcmlnZ2VyLldGUHJlZGljdGVkTG9jYXRpb25UcmFuc2l0aW9uRGVzdGluYXRpb25UeXBl"
+    },
+    {
+        "flags": 0,
+        "key": "requiresConfirmation",
+        "relationships": "",
+        "sortOrder": 0,
+        "triggerId": 44,
+        "typeId": "bool",
+        "typeInstance": "CgQKAhAA"
+    },
+    {
+        "flags": 0,
+        "key": "level",
+        "relationships": "",
+        "sortOrder": 1,
+        "triggerId": 44,
+        "typeId": "number",
+        "typeInstance": "CgQKAiAA"
+    },
+    {
+        "flags": 0,
+        "key": "requiresConfirmation",
+        "relationships": "",
+        "sortOrder": 0,
+        "triggerId": 45,
+        "typeId": "bool",
+        "typeInstance": "CgQKAhAA"
+    },
+    {
+        "flags": 0,
+        "key": "level",
+        "relationships": "",
+        "sortOrder": 1,
+        "triggerId": 45,
+        "typeId": "number",
+        "typeInstance": "CgQKAiAA"
+    },
+    {
+        "flags": 0,
+        "key": "requiresConfirmation",
+        "relationships": "",
+        "sortOrder": 0,
+        "triggerId": 46,
+        "typeId": "bool",
+        "typeInstance": "CgQKAhAA"
+    },
+    {
+        "flags": 0,
+        "key": "level",
+        "relationships": "",
+        "sortOrder": 1,
+        "triggerId": 46,
+        "typeId": "number",
+        "typeInstance": "CgQKAiAA"
+    },
+    {
+        "flags": 0,
+        "key": "requiresConfirmation",
+        "relationships": "",
+        "sortOrder": 0,
+        "triggerId": 47,
+        "typeId": "bool",
+        "typeInstance": "CgQKAhAA"
+    },
+    {
+        "flags": 0,
+        "key": "requiresConfirmation",
+        "relationships": "",
+        "sortOrder": 0,
+        "triggerId": 48,
+        "typeId": "bool",
+        "typeInstance": "CgQKAhAA"
+    },
+    {
+        "flags": 0,
+        "key": "requiresConfirmation",
+        "relationships": "",
+        "sortOrder": 0,
+        "triggerId": 49,
+        "typeId": "bool",
+        "typeInstance": "CgQKAhAA"
+    },
+    {
+        "flags": 0,
+        "key": "requiresConfirmation",
+        "relationships": "",
+        "sortOrder": 0,
+        "triggerId": 50,
+        "typeId": "bool",
+        "typeInstance": "CgQKAhAA"
+    },
+    {
+        "flags": 0,
+        "key": "tagIdentifier",
+        "relationships": "",
+        "sortOrder": 1,
+        "triggerId": 50,
+        "typeId": "string",
+        "typeInstance": "CgQKAjAA"
+    },
+    {
+        "flags": 0,
+        "key": "requiresConfirmation",
+        "relationships": "",
+        "sortOrder": 0,
+        "triggerId": 51,
+        "typeId": "bool",
+        "typeInstance": "CgQKAhAA"
+    },
+    {
+        "flags": 0,
+        "key": "sounds",
+        "relationships": "",
+        "sortOrder": 1,
+        "triggerId": 51,
+        "typeId": "com.apple.shortcuts.WFSoundRecognitionTrigger.WFSoundRecognitionTriggerSound",
+        "typeInstance": "KpcBClESTwoTY29tLmFwcGxlLnNob3J0Y3V0cxI4V0ZTb3VuZFJlY29nbml0aW9uVHJpZ2dlci5XRlNvdW5kUmVjb2duaXRpb25UcmlnZ2VyU291bmQSQgpACjoKE2NvbS5hcHBsZS5zaG9ydGN1dHM6IwoZV0ZTb3VuZFJlY29nbml0aW9uVHJpZ2dlchIGc291bmRzEgIiAA=="
+    },
+    {
+        "flags": 0,
+        "key": "requiresConfirmation",
+        "relationships": "",
+        "sortOrder": 0,
+        "triggerId": 52,
+        "typeId": "bool",
+        "typeInstance": "CgQKAhAA"
+    },
+    {
+        "flags": 0,
+        "key": "alarmState",
+        "relationships": "",
+        "sortOrder": 1,
+        "triggerId": 52,
+        "typeId": "com.apple.shortcuts.WFAlarmTrigger.WFAlarmState",
+        "typeInstance": "KnMKNBIyChNjb20uYXBwbGUuc2hvcnRjdXRzEhtXRkFsYXJtVHJpZ2dlci5XRkFsYXJtU3RhdGUSOwo5CjMKE2NvbS5hcHBsZS5zaG9ydGN1dHM6HAoOV0ZBbGFybVRyaWdnZXISCmFsYXJtU3RhdGUSAiIA"
+    },
+    {
+        "flags": 0,
+        "key": "requiresConfirmation",
+        "relationships": "",
+        "sortOrder": 0,
+        "triggerId": 53,
+        "typeId": "bool",
+        "typeInstance": "CgQKAhAA"
+    },
+    {
+        "flags": 0,
+        "key": "alarmState",
+        "relationships": "",
+        "sortOrder": 1,
+        "triggerId": 53,
+        "typeId": "com.apple.shortcuts.WFAlarmTrigger.WFAlarmState",
+        "typeInstance": "KnMKNBIyChNjb20uYXBwbGUuc2hvcnRjdXRzEhtXRkFsYXJtVHJpZ2dlci5XRkFsYXJtU3RhdGUSOwo5CjMKE2NvbS5hcHBsZS5zaG9ydGN1dHM6HAoOV0ZBbGFybVRyaWdnZXISCmFsYXJtU3RhdGUSAiIA"
+    },
+    {
+        "flags": 0,
+        "key": "requiresConfirmation",
+        "relationships": "",
+        "sortOrder": 0,
+        "triggerId": 54,
+        "typeId": "bool",
+        "typeInstance": "CgQKAhAA"
+    },
+    {
+        "flags": 0,
+        "key": "alarmState",
+        "relationships": "",
+        "sortOrder": 1,
+        "triggerId": 54,
+        "typeId": "com.apple.shortcuts.WFAlarmTrigger.WFAlarmState",
+        "typeInstance": "KnMKNBIyChNjb20uYXBwbGUuc2hvcnRjdXRzEhtXRkFsYXJtVHJpZ2dlci5XRkFsYXJtU3RhdGUSOwo5CjMKE2NvbS5hcHBsZS5zaG9ydGN1dHM6HAoOV0ZBbGFybVRyaWdnZXISCmFsYXJtU3RhdGUSAiIA"
+    },
+    {
+        "flags": 0,
+        "key": "alarmIDs",
+        "relationships": "",
+        "sortOrder": 2,
+        "triggerId": 54,
+        "typeId": "com.apple.shortcuts.WFAlarmTrigger.WFSpecificAlarm",
+        "typeInstance": "KnQKNxI1ChNjb20uYXBwbGUuc2hvcnRjdXRzEh5XRkFsYXJtVHJpZ2dlci5XRlNwZWNpZmljQWxhcm0SOQo3CjEKE2NvbS5hcHBsZS5zaG9ydGN1dHM6GgoOV0ZBbGFybVRyaWdnZXISCGFsYXJtSURzEgIiAA=="
+    },
+    {
+        "flags": 0,
+        "key": "requiresConfirmation",
+        "relationships": "",
+        "sortOrder": 0,
+        "triggerId": 55,
+        "typeId": "bool",
+        "typeInstance": "CgQKAhAA"
+    },
+    {
+        "flags": 0,
+        "key": "selectedCards",
+        "relationships": "",
+        "sortOrder": 1,
+        "triggerId": 55,
+        "typeId": "com.apple.shortcuts.WFWalletTransactionTrigger.WFWalletTriggerCard",
+        "typeInstance": "KpUBCkcSRQoTY29tLmFwcGxlLnNob3J0Y3V0cxIuV0ZXYWxsZXRUcmFuc2FjdGlvblRyaWdnZXIuV0ZXYWxsZXRUcmlnZ2VyQ2FyZBJKCkgKQgoTY29tLmFwcGxlLnNob3J0Y3V0czorChpXRldhbGxldFRyYW5zYWN0aW9uVHJpZ2dlchINc2VsZWN0ZWRDYXJkcxICIgA="
+    },
+    {
+        "flags": 0,
+        "key": "selectedMerchants",
+        "relationships": "",
+        "sortOrder": 2,
+        "triggerId": 55,
+        "typeId": "com.apple.shortcuts.WFWalletTransactionTrigger.WFWalletTriggerMerchant",
+        "typeInstance": "Kp0BCksSSQoTY29tLmFwcGxlLnNob3J0Y3V0cxIyV0ZXYWxsZXRUcmFuc2FjdGlvblRyaWdnZXIuV0ZXYWxsZXRUcmlnZ2VyTWVyY2hhbnQSTgpMCkYKE2NvbS5hcHBsZS5zaG9ydGN1dHM6LwoaV0ZXYWxsZXRUcmFuc2FjdGlvblRyaWdnZXISEXNlbGVjdGVkTWVyY2hhbnRzEgIiAA=="
+    },
+    {
+        "flags": 0,
+        "key": "selectedMerchantTypes",
+        "relationships": "",
+        "sortOrder": 3,
+        "triggerId": 55,
+        "typeId": "com.apple.shortcuts.WFWalletTransactionTrigger.WFWalletTriggerMerchantType",
+        "typeInstance": "KqUBCk8STQoTY29tLmFwcGxlLnNob3J0Y3V0cxI2V0ZXYWxsZXRUcmFuc2FjdGlvblRyaWdnZXIuV0ZXYWxsZXRUcmlnZ2VyTWVyY2hhbnRUeXBlElIKUApKChNjb20uYXBwbGUuc2hvcnRjdXRzOjMKGldGV2FsbGV0VHJhbnNhY3Rpb25UcmlnZ2VyEhVzZWxlY3RlZE1lcmNoYW50VHlwZXMSAiIA"
+    },
+    {
+        "flags": 0,
+        "key": "requiresConfirmation",
+        "relationships": "",
+        "sortOrder": 0,
+        "triggerId": 56,
+        "typeId": "bool",
+        "typeInstance": "CgQKAhAA"
+    },
+    {
+        "flags": 0,
+        "key": "focusMode",
+        "relationships": "",
+        "sortOrder": 1,
+        "triggerId": 56,
+        "typeId": "com.apple.shortcuts.WFUserFocusActivityTrigger.Focus",
+        "typeInstance": "KoMBCjkSNwoTY29tLmFwcGxlLnNob3J0Y3V0cxIgV0ZVc2VyRm9jdXNBY3Rpdml0eVRyaWdnZXIuRm9jdXMSRgpECj4KE2NvbS5hcHBsZS5zaG9ydGN1dHM6JwoaV0ZVc2VyRm9jdXNBY3Rpdml0eVRyaWdnZXISCWZvY3VzTW9kZRICIgA="
+    },
+    {
+        "flags": 0,
+        "key": "requiresConfirmation",
+        "relationships": "",
+        "sortOrder": 0,
+        "triggerId": 57,
+        "typeId": "bool",
+        "typeInstance": "CgQKAhAA"
+    },
+    {
+        "flags": 0,
+        "key": "focusMode",
+        "relationships": "",
+        "sortOrder": 1,
+        "triggerId": 57,
+        "typeId": "com.apple.shortcuts.WFUserFocusActivityTrigger.Focus",
+        "typeInstance": "KoMBCjkSNwoTY29tLmFwcGxlLnNob3J0Y3V0cxIgV0ZVc2VyRm9jdXNBY3Rpdml0eVRyaWdnZXIuRm9jdXMSRgpECj4KE2NvbS5hcHBsZS5zaG9ydGN1dHM6JwoaV0ZVc2VyRm9jdXNBY3Rpdml0eVRyaWdnZXISCWZvY3VzTW9kZRICIgA="
+    },
+    {
+        "flags": 0,
+        "key": "requiresConfirmation",
+        "relationships": "",
+        "sortOrder": 0,
+        "triggerId": 58,
+        "typeId": "bool",
+        "typeInstance": "CgQKAhAA"
+    },
+    {
+        "flags": 0,
+        "key": "focusMode",
+        "relationships": "",
+        "sortOrder": 1,
+        "triggerId": 58,
+        "typeId": "com.apple.shortcuts.WFUserFocusActivityTrigger.Focus",
+        "typeInstance": "KoMBCjkSNwoTY29tLmFwcGxlLnNob3J0Y3V0cxIgV0ZVc2VyRm9jdXNBY3Rpdml0eVRyaWdnZXIuRm9jdXMSRgpECj4KE2NvbS5hcHBsZS5zaG9ydGN1dHM6JwoaV0ZVc2VyRm9jdXNBY3Rpdml0eVRyaWdnZXISCWZvY3VzTW9kZRICIgA="
+    }
+]

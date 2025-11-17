@@ -1,0 +1,737 @@
+[
+    {
+        "description": null,
+        "key": "requiresConfirmation",
+        "locale": "en",
+        "name": "requiresConfirmation",
+        "triggerId": 1
+    },
+    {
+        "description": null,
+        "key": "selectedNetworks",
+        "locale": "en",
+        "name": "selectedNetworks",
+        "triggerId": 1
+    },
+    {
+        "description": null,
+        "key": "runAfterConnectionInterruption",
+        "locale": "en",
+        "name": "runAfterConnectionInterruption",
+        "triggerId": 1
+    },
+    {
+        "description": null,
+        "key": "requiresConfirmation",
+        "locale": "en",
+        "name": "requiresConfirmation",
+        "triggerId": 2
+    },
+    {
+        "description": null,
+        "key": "selectedNetworks",
+        "locale": "en",
+        "name": "selectedNetworks",
+        "triggerId": 2
+    },
+    {
+        "description": null,
+        "key": "requiresConfirmation",
+        "locale": "en",
+        "name": "requiresConfirmation",
+        "triggerId": 3
+    },
+    {
+        "description": null,
+        "key": "requiresConfirmation",
+        "locale": "en",
+        "name": "requiresConfirmation",
+        "triggerId": 4
+    },
+    {
+        "description": null,
+        "key": "requiresConfirmation",
+        "locale": "en",
+        "name": "requiresConfirmation",
+        "triggerId": 5
+    },
+    {
+        "description": null,
+        "key": "requiresConfirmation",
+        "locale": "en",
+        "name": "requiresConfirmation",
+        "triggerId": 6
+    },
+    {
+        "description": null,
+        "key": "requiresConfirmation",
+        "locale": "en",
+        "name": "requiresConfirmation",
+        "triggerId": 7
+    },
+    {
+        "description": null,
+        "key": "requiresConfirmation",
+        "locale": "en",
+        "name": "requiresConfirmation",
+        "triggerId": 8
+    },
+    {
+        "description": null,
+        "key": "requiresConfirmation",
+        "locale": "en",
+        "name": "requiresConfirmation",
+        "triggerId": 9
+    },
+    {
+        "description": null,
+        "key": "requiresConfirmation",
+        "locale": "en",
+        "name": "requiresConfirmation",
+        "triggerId": 10
+    },
+    {
+        "description": null,
+        "key": "requiresConfirmation",
+        "locale": "en",
+        "name": "requiresConfirmation",
+        "triggerId": 11
+    },
+    {
+        "description": null,
+        "key": "requiresConfirmation",
+        "locale": "en",
+        "name": "requiresConfirmation",
+        "triggerId": 12
+    },
+    {
+        "description": null,
+        "key": "requiresConfirmation",
+        "locale": "en",
+        "name": "requiresConfirmation",
+        "triggerId": 13
+    },
+    {
+        "description": null,
+        "key": "requiresConfirmation",
+        "locale": "en",
+        "name": "requiresConfirmation",
+        "triggerId": 14
+    },
+    {
+        "description": null,
+        "key": "requiresConfirmation",
+        "locale": "en",
+        "name": "requiresConfirmation",
+        "triggerId": 15
+    },
+    {
+        "description": null,
+        "key": "requiresConfirmation",
+        "locale": "en",
+        "name": "requiresConfirmation",
+        "triggerId": 16
+    },
+    {
+        "description": null,
+        "key": "requiresConfirmation",
+        "locale": "en",
+        "name": "requiresConfirmation",
+        "triggerId": 17
+    },
+    {
+        "description": null,
+        "key": "requiresConfirmation",
+        "locale": "en",
+        "name": "requiresConfirmation",
+        "triggerId": 18
+    },
+    {
+        "description": null,
+        "key": "requiresConfirmation",
+        "locale": "en",
+        "name": "requiresConfirmation",
+        "triggerId": 19
+    },
+    {
+        "description": null,
+        "key": "requiresConfirmation",
+        "locale": "en",
+        "name": "requiresConfirmation",
+        "triggerId": 20
+    },
+    {
+        "description": null,
+        "key": "requiresConfirmation",
+        "locale": "en",
+        "name": "requiresConfirmation",
+        "triggerId": 21
+    },
+    {
+        "description": null,
+        "key": "requiresConfirmation",
+        "locale": "en",
+        "name": "requiresConfirmation",
+        "triggerId": 22
+    },
+    {
+        "description": null,
+        "key": "requiresConfirmation",
+        "locale": "en",
+        "name": "requiresConfirmation",
+        "triggerId": 23
+    },
+    {
+        "description": null,
+        "key": "requiresConfirmation",
+        "locale": "en",
+        "name": "requiresConfirmation",
+        "triggerId": 24
+    },
+    {
+        "description": null,
+        "key": "requiresConfirmation",
+        "locale": "en",
+        "name": "requiresConfirmation",
+        "triggerId": 25
+    },
+    {
+        "description": null,
+        "key": "requiresConfirmation",
+        "locale": "en",
+        "name": "requiresConfirmation",
+        "triggerId": 26
+    },
+    {
+        "description": null,
+        "key": "requiresConfirmation",
+        "locale": "en",
+        "name": "requiresConfirmation",
+        "triggerId": 27
+    },
+    {
+        "description": null,
+        "key": "selectedApps",
+        "locale": "en",
+        "name": "selectedApps",
+        "triggerId": 27
+    },
+    {
+        "description": null,
+        "key": "requiresConfirmation",
+        "locale": "en",
+        "name": "requiresConfirmation",
+        "triggerId": 28
+    },
+    {
+        "description": null,
+        "key": "selectedApps",
+        "locale": "en",
+        "name": "selectedApps",
+        "triggerId": 28
+    },
+    {
+        "description": null,
+        "key": "requiresConfirmation",
+        "locale": "en",
+        "name": "requiresConfirmation",
+        "triggerId": 29
+    },
+    {
+        "description": null,
+        "key": "selectedApps",
+        "locale": "en",
+        "name": "selectedApps",
+        "triggerId": 29
+    },
+    {
+        "description": null,
+        "key": "requiresConfirmation",
+        "locale": "en",
+        "name": "requiresConfirmation",
+        "triggerId": 30
+    },
+    {
+        "description": null,
+        "key": "location",
+        "locale": "en",
+        "name": "location",
+        "triggerId": 30
+    },
+    {
+        "description": null,
+        "key": "requiresConfirmation",
+        "locale": "en",
+        "name": "requiresConfirmation",
+        "triggerId": 31
+    },
+    {
+        "description": null,
+        "key": "location",
+        "locale": "en",
+        "name": "location",
+        "triggerId": 31
+    },
+    {
+        "description": null,
+        "key": "startTime",
+        "locale": "en",
+        "name": "startTime",
+        "triggerId": 31
+    },
+    {
+        "description": null,
+        "key": "endTime",
+        "locale": "en",
+        "name": "endTime",
+        "triggerId": 31
+    },
+    {
+        "description": null,
+        "key": "requiresConfirmation",
+        "locale": "en",
+        "name": "requiresConfirmation",
+        "triggerId": 32
+    },
+    {
+        "description": null,
+        "key": "location",
+        "locale": "en",
+        "name": "location",
+        "triggerId": 32
+    },
+    {
+        "description": null,
+        "key": "requiresConfirmation",
+        "locale": "en",
+        "name": "requiresConfirmation",
+        "triggerId": 33
+    },
+    {
+        "description": null,
+        "key": "location",
+        "locale": "en",
+        "name": "location",
+        "triggerId": 33
+    },
+    {
+        "description": null,
+        "key": "startTime",
+        "locale": "en",
+        "name": "startTime",
+        "triggerId": 33
+    },
+    {
+        "description": null,
+        "key": "endTime",
+        "locale": "en",
+        "name": "endTime",
+        "triggerId": 33
+    },
+    {
+        "description": null,
+        "key": "requiresConfirmation",
+        "locale": "en",
+        "name": "requiresConfirmation",
+        "triggerId": 34
+    },
+    {
+        "description": null,
+        "key": "senders",
+        "locale": "en",
+        "name": "senders",
+        "triggerId": 34
+    },
+    {
+        "description": null,
+        "key": "requiresConfirmation",
+        "locale": "en",
+        "name": "requiresConfirmation",
+        "triggerId": 35
+    },
+    {
+        "description": null,
+        "key": "searchTerm",
+        "locale": "en",
+        "name": "searchTerm",
+        "triggerId": 35
+    },
+    {
+        "description": null,
+        "key": "requiresConfirmation",
+        "locale": "en",
+        "name": "requiresConfirmation",
+        "triggerId": 36
+    },
+    {
+        "description": null,
+        "key": "senders",
+        "locale": "en",
+        "name": "senders",
+        "triggerId": 36
+    },
+    {
+        "description": null,
+        "key": "searchTerm",
+        "locale": "en",
+        "name": "searchTerm",
+        "triggerId": 36
+    },
+    {
+        "description": null,
+        "key": "requiresConfirmation",
+        "locale": "en",
+        "name": "requiresConfirmation",
+        "triggerId": 37
+    },
+    {
+        "description": null,
+        "key": "senders",
+        "locale": "en",
+        "name": "senders",
+        "triggerId": 37
+    },
+    {
+        "description": null,
+        "key": "accounts",
+        "locale": "en",
+        "name": "accounts",
+        "triggerId": 37
+    },
+    {
+        "description": null,
+        "key": "recipients",
+        "locale": "en",
+        "name": "recipients",
+        "triggerId": 37
+    },
+    {
+        "description": null,
+        "key": "requiresConfirmation",
+        "locale": "en",
+        "name": "requiresConfirmation",
+        "triggerId": 38
+    },
+    {
+        "description": null,
+        "key": "searchTerm",
+        "locale": "en",
+        "name": "searchTerm",
+        "triggerId": 38
+    },
+    {
+        "description": null,
+        "key": "accounts",
+        "locale": "en",
+        "name": "accounts",
+        "triggerId": 38
+    },
+    {
+        "description": null,
+        "key": "recipients",
+        "locale": "en",
+        "name": "recipients",
+        "triggerId": 38
+    },
+    {
+        "description": null,
+        "key": "requiresConfirmation",
+        "locale": "en",
+        "name": "requiresConfirmation",
+        "triggerId": 39
+    },
+    {
+        "description": null,
+        "key": "senders",
+        "locale": "en",
+        "name": "senders",
+        "triggerId": 39
+    },
+    {
+        "description": null,
+        "key": "searchTerm",
+        "locale": "en",
+        "name": "searchTerm",
+        "triggerId": 39
+    },
+    {
+        "description": null,
+        "key": "accounts",
+        "locale": "en",
+        "name": "accounts",
+        "triggerId": 39
+    },
+    {
+        "description": null,
+        "key": "recipients",
+        "locale": "en",
+        "name": "recipients",
+        "triggerId": 39
+    },
+    {
+        "description": null,
+        "key": "requiresConfirmation",
+        "locale": "en",
+        "name": "requiresConfirmation",
+        "triggerId": 40
+    },
+    {
+        "description": null,
+        "key": "workoutTypes",
+        "locale": "en",
+        "name": "workoutTypes",
+        "triggerId": 40
+    },
+    {
+        "description": null,
+        "key": "requiresConfirmation",
+        "locale": "en",
+        "name": "requiresConfirmation",
+        "triggerId": 41
+    },
+    {
+        "description": null,
+        "key": "workoutTypes",
+        "locale": "en",
+        "name": "workoutTypes",
+        "triggerId": 41
+    },
+    {
+        "description": null,
+        "key": "requiresConfirmation",
+        "locale": "en",
+        "name": "requiresConfirmation",
+        "triggerId": 42
+    },
+    {
+        "description": null,
+        "key": "workoutTypes",
+        "locale": "en",
+        "name": "workoutTypes",
+        "triggerId": 42
+    },
+    {
+        "description": null,
+        "key": "triggerHeadsUp",
+        "locale": "en",
+        "name": "triggerHeadsUp",
+        "triggerId": 43
+    },
+    {
+        "description": null,
+        "key": "destinationType",
+        "locale": "en",
+        "name": "destinationType",
+        "triggerId": 43
+    },
+    {
+        "description": null,
+        "key": "requiresConfirmation",
+        "locale": "en",
+        "name": "requiresConfirmation",
+        "triggerId": 44
+    },
+    {
+        "description": null,
+        "key": "level",
+        "locale": "en",
+        "name": "level",
+        "triggerId": 44
+    },
+    {
+        "description": null,
+        "key": "requiresConfirmation",
+        "locale": "en",
+        "name": "requiresConfirmation",
+        "triggerId": 45
+    },
+    {
+        "description": null,
+        "key": "level",
+        "locale": "en",
+        "name": "level",
+        "triggerId": 45
+    },
+    {
+        "description": null,
+        "key": "requiresConfirmation",
+        "locale": "en",
+        "name": "requiresConfirmation",
+        "triggerId": 46
+    },
+    {
+        "description": null,
+        "key": "level",
+        "locale": "en",
+        "name": "level",
+        "triggerId": 46
+    },
+    {
+        "description": null,
+        "key": "requiresConfirmation",
+        "locale": "en",
+        "name": "requiresConfirmation",
+        "triggerId": 47
+    },
+    {
+        "description": null,
+        "key": "requiresConfirmation",
+        "locale": "en",
+        "name": "requiresConfirmation",
+        "triggerId": 48
+    },
+    {
+        "description": null,
+        "key": "requiresConfirmation",
+        "locale": "en",
+        "name": "requiresConfirmation",
+        "triggerId": 49
+    },
+    {
+        "description": null,
+        "key": "requiresConfirmation",
+        "locale": "en",
+        "name": "requiresConfirmation",
+        "triggerId": 50
+    },
+    {
+        "description": null,
+        "key": "tagIdentifier",
+        "locale": "en",
+        "name": "tagIdentifier",
+        "triggerId": 50
+    },
+    {
+        "description": null,
+        "key": "requiresConfirmation",
+        "locale": "en",
+        "name": "requiresConfirmation",
+        "triggerId": 51
+    },
+    {
+        "description": null,
+        "key": "sounds",
+        "locale": "en",
+        "name": "sounds",
+        "triggerId": 51
+    },
+    {
+        "description": null,
+        "key": "requiresConfirmation",
+        "locale": "en",
+        "name": "requiresConfirmation",
+        "triggerId": 52
+    },
+    {
+        "description": null,
+        "key": "alarmState",
+        "locale": "en",
+        "name": "alarmState",
+        "triggerId": 52
+    },
+    {
+        "description": null,
+        "key": "requiresConfirmation",
+        "locale": "en",
+        "name": "requiresConfirmation",
+        "triggerId": 53
+    },
+    {
+        "description": null,
+        "key": "alarmState",
+        "locale": "en",
+        "name": "alarmState",
+        "triggerId": 53
+    },
+    {
+        "description": null,
+        "key": "requiresConfirmation",
+        "locale": "en",
+        "name": "requiresConfirmation",
+        "triggerId": 54
+    },
+    {
+        "description": null,
+        "key": "alarmState",
+        "locale": "en",
+        "name": "alarmState",
+        "triggerId": 54
+    },
+    {
+        "description": null,
+        "key": "alarmIDs",
+        "locale": "en",
+        "name": "alarmIDs",
+        "triggerId": 54
+    },
+    {
+        "description": null,
+        "key": "requiresConfirmation",
+        "locale": "en",
+        "name": "requiresConfirmation",
+        "triggerId": 55
+    },
+    {
+        "description": null,
+        "key": "selectedCards",
+        "locale": "en",
+        "name": "selectedCards",
+        "triggerId": 55
+    },
+    {
+        "description": null,
+        "key": "selectedMerchants",
+        "locale": "en",
+        "name": "selectedMerchants",
+        "triggerId": 55
+    },
+    {
+        "description": null,
+        "key": "selectedMerchantTypes",
+        "locale": "en",
+        "name": "selectedMerchantTypes",
+        "triggerId": 55
+    },
+    {
+        "description": null,
+        "key": "requiresConfirmation",
+        "locale": "en",
+        "name": "requiresConfirmation",
+        "triggerId": 56
+    },
+    {
+        "description": null,
+        "key": "focusMode",
+        "locale": "en",
+        "name": "focusMode",
+        "triggerId": 56
+    },
+    {
+        "description": null,
+        "key": "requiresConfirmation",
+        "locale": "en",
+        "name": "requiresConfirmation",
+        "triggerId": 57
+    },
+    {
+        "description": null,
+        "key": "focusMode",
+        "locale": "en",
+        "name": "focusMode",
+        "triggerId": 57
+    },
+    {
+        "description": null,
+        "key": "requiresConfirmation",
+        "locale": "en",
+        "name": "requiresConfirmation",
+        "triggerId": 58
+    },
+    {
+        "description": null,
+        "key": "focusMode",
+        "locale": "en",
+        "name": "focusMode",
+        "triggerId": 58
+    }
+]

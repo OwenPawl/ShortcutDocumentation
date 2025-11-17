@@ -1,0 +1,408 @@
+[
+    {
+        "descriptionSummary": "“When my iPhone joins the Home network”",
+        "locale": "en",
+        "name": "Wi-Fi",
+        "outputResultName": null,
+        "triggerId": 1
+    },
+    {
+        "descriptionSummary": "“When my iPhone joins the Home network”",
+        "locale": "en",
+        "name": "Wi-Fi",
+        "outputResultName": null,
+        "triggerId": 2
+    },
+    {
+        "descriptionSummary": "“When my iPhone connects to AirPods”",
+        "locale": "en",
+        "name": "Bluetooth",
+        "outputResultName": null,
+        "triggerId": 3
+    },
+    {
+        "descriptionSummary": "“When my iPhone connects to AirPods”",
+        "locale": "en",
+        "name": "Bluetooth",
+        "outputResultName": null,
+        "triggerId": 4
+    },
+    {
+        "descriptionSummary": "“When my iPhone connects to AirPods”",
+        "locale": "en",
+        "name": "Bluetooth",
+        "outputResultName": null,
+        "triggerId": 5
+    },
+    {
+        "descriptionSummary": "“When CarPlay is connected”",
+        "locale": "en",
+        "name": "CarPlay",
+        "outputResultName": null,
+        "triggerId": 6
+    },
+    {
+        "descriptionSummary": "“When CarPlay is connected”",
+        "locale": "en",
+        "name": "CarPlay",
+        "outputResultName": null,
+        "triggerId": 7
+    },
+    {
+        "descriptionSummary": "“When CarPlay is connected”",
+        "locale": "en",
+        "name": "CarPlay",
+        "outputResultName": null,
+        "triggerId": 8
+    },
+    {
+        "descriptionSummary": "“When my display is connected”",
+        "locale": "en",
+        "name": "Display",
+        "outputResultName": null,
+        "triggerId": 9
+    },
+    {
+        "descriptionSummary": "“When my display is connected”",
+        "locale": "en",
+        "name": "Display",
+        "outputResultName": null,
+        "triggerId": 10
+    },
+    {
+        "descriptionSummary": "“When my display is connected”",
+        "locale": "en",
+        "name": "Display",
+        "outputResultName": null,
+        "triggerId": 11
+    },
+    {
+        "descriptionSummary": "“When my iPhone connects to power”",
+        "locale": "en",
+        "name": "Charger",
+        "outputResultName": null,
+        "triggerId": 12
+    },
+    {
+        "descriptionSummary": "“When my iPhone connects to power”",
+        "locale": "en",
+        "name": "Charger",
+        "outputResultName": null,
+        "triggerId": 13
+    },
+    {
+        "descriptionSummary": "“When my iPhone connects to power”",
+        "locale": "en",
+        "name": "Charger",
+        "outputResultName": null,
+        "triggerId": 14
+    },
+    {
+        "descriptionSummary": "“When Low Power Mode is turned off”",
+        "locale": "en",
+        "name": "Low Power Mode",
+        "outputResultName": null,
+        "triggerId": 15
+    },
+    {
+        "descriptionSummary": "“When Low Power Mode is turned off”",
+        "locale": "en",
+        "name": "Low Power Mode",
+        "outputResultName": null,
+        "triggerId": 16
+    },
+    {
+        "descriptionSummary": "“When Low Power Mode is turned off”",
+        "locale": "en",
+        "name": "Low Power Mode",
+        "outputResultName": null,
+        "triggerId": 17
+    },
+    {
+        "descriptionSummary": "“When Airplane Mode is turned on”",
+        "locale": "en",
+        "name": "Airplane Mode",
+        "outputResultName": null,
+        "triggerId": 18
+    },
+    {
+        "descriptionSummary": "“When Airplane Mode is turned on”",
+        "locale": "en",
+        "name": "Airplane Mode",
+        "outputResultName": null,
+        "triggerId": 19
+    },
+    {
+        "descriptionSummary": "“When Airplane Mode is turned on”",
+        "locale": "en",
+        "name": "Airplane Mode",
+        "outputResultName": null,
+        "triggerId": 20
+    },
+    {
+        "descriptionSummary": "“When Stage Manager is turned on”",
+        "locale": "en",
+        "name": "Stage Manager",
+        "outputResultName": null,
+        "triggerId": 21
+    },
+    {
+        "descriptionSummary": "“When Stage Manager is turned on”",
+        "locale": "en",
+        "name": "Stage Manager",
+        "outputResultName": null,
+        "triggerId": 22
+    },
+    {
+        "descriptionSummary": "“When Stage Manager is turned on”",
+        "locale": "en",
+        "name": "Stage Manager",
+        "outputResultName": null,
+        "triggerId": 23
+    },
+    {
+        "descriptionSummary": "“When Do Not Disturb is turned on”",
+        "locale": "en",
+        "name": "Do Not Disturb",
+        "outputResultName": null,
+        "triggerId": 24
+    },
+    {
+        "descriptionSummary": "“When Do Not Disturb is turned on”",
+        "locale": "en",
+        "name": "Do Not Disturb",
+        "outputResultName": null,
+        "triggerId": 25
+    },
+    {
+        "descriptionSummary": "“When Do Not Disturb is turned on”",
+        "locale": "en",
+        "name": "Do Not Disturb",
+        "outputResultName": null,
+        "triggerId": 26
+    },
+    {
+        "descriptionSummary": "“When Weather is opened or closed”",
+        "locale": "en",
+        "name": "App",
+        "outputResultName": null,
+        "triggerId": 27
+    },
+    {
+        "descriptionSummary": "“When Weather is opened or closed”",
+        "locale": "en",
+        "name": "App",
+        "outputResultName": null,
+        "triggerId": 28
+    },
+    {
+        "descriptionSummary": "“When Weather is opened or closed”",
+        "locale": "en",
+        "name": "App",
+        "outputResultName": null,
+        "triggerId": 29
+    },
+    {
+        "descriptionSummary": "",
+        "locale": "en",
+        "name": "",
+        "outputResultName": null,
+        "triggerId": 30
+    },
+    {
+        "descriptionSummary": "",
+        "locale": "en",
+        "name": "",
+        "outputResultName": null,
+        "triggerId": 31
+    },
+    {
+        "descriptionSummary": "",
+        "locale": "en",
+        "name": "",
+        "outputResultName": null,
+        "triggerId": 32
+    },
+    {
+        "descriptionSummary": "",
+        "locale": "en",
+        "name": "",
+        "outputResultName": null,
+        "triggerId": 33
+    },
+    {
+        "descriptionSummary": "“When I get a message from Mom”",
+        "locale": "en",
+        "name": "Message",
+        "outputResultName": null,
+        "triggerId": 34
+    },
+    {
+        "descriptionSummary": "“When I get a message from Mom”",
+        "locale": "en",
+        "name": "Message",
+        "outputResultName": null,
+        "triggerId": 35
+    },
+    {
+        "descriptionSummary": "“When I get a message from Mom”",
+        "locale": "en",
+        "name": "Message",
+        "outputResultName": null,
+        "triggerId": 36
+    },
+    {
+        "descriptionSummary": "“When I get an email from Jane”",
+        "locale": "en",
+        "name": "Email",
+        "outputResultName": null,
+        "triggerId": 37
+    },
+    {
+        "descriptionSummary": "“When I get an email from Jane”",
+        "locale": "en",
+        "name": "Email",
+        "outputResultName": null,
+        "triggerId": 38
+    },
+    {
+        "descriptionSummary": "“When I get an email from Jane”",
+        "locale": "en",
+        "name": "Email",
+        "outputResultName": null,
+        "triggerId": 39
+    },
+    {
+        "descriptionSummary": "“When I start a workout”",
+        "locale": "en",
+        "name": "Apple Watch Workout",
+        "outputResultName": null,
+        "triggerId": 40
+    },
+    {
+        "descriptionSummary": "“When I start a workout”",
+        "locale": "en",
+        "name": "Apple Watch Workout",
+        "outputResultName": null,
+        "triggerId": 41
+    },
+    {
+        "descriptionSummary": "“When I start a workout”",
+        "locale": "en",
+        "name": "Apple Watch Workout",
+        "outputResultName": null,
+        "triggerId": 42
+    },
+    {
+        "descriptionSummary": "“15 minutes before I leave for work”",
+        "locale": "en",
+        "name": "Before I Commute",
+        "outputResultName": null,
+        "triggerId": 43
+    },
+    {
+        "descriptionSummary": "“When battery level rises above 50%”",
+        "locale": "en",
+        "name": "Battery Level",
+        "outputResultName": null,
+        "triggerId": 44
+    },
+    {
+        "descriptionSummary": "“When battery level rises above 50%”",
+        "locale": "en",
+        "name": "Battery Level",
+        "outputResultName": null,
+        "triggerId": 45
+    },
+    {
+        "descriptionSummary": "“When battery level rises above 50%”",
+        "locale": "en",
+        "name": "Battery Level",
+        "outputResultName": null,
+        "triggerId": 46
+    },
+    {
+        "descriptionSummary": "“When Wind Down starts”",
+        "locale": "en",
+        "name": "Sleep",
+        "outputResultName": null,
+        "triggerId": 47
+    },
+    {
+        "descriptionSummary": "“When Wind Down starts”",
+        "locale": "en",
+        "name": "Sleep",
+        "outputResultName": null,
+        "triggerId": 48
+    },
+    {
+        "descriptionSummary": "“When Wind Down starts”",
+        "locale": "en",
+        "name": "Sleep",
+        "outputResultName": null,
+        "triggerId": 49
+    },
+    {
+        "descriptionSummary": "“When I tap an NFC tag”",
+        "locale": "en",
+        "name": "NFC",
+        "outputResultName": null,
+        "triggerId": 50
+    },
+    {
+        "descriptionSummary": "“When my iPhone recognizes a doorbell sound”",
+        "locale": "en",
+        "name": "Sound Recognition",
+        "outputResultName": null,
+        "triggerId": 51
+    },
+    {
+        "descriptionSummary": "“When my alarm is stopped”",
+        "locale": "en",
+        "name": "Alarm",
+        "outputResultName": null,
+        "triggerId": 52
+    },
+    {
+        "descriptionSummary": "“When my alarm is stopped”",
+        "locale": "en",
+        "name": "Alarm",
+        "outputResultName": null,
+        "triggerId": 53
+    },
+    {
+        "descriptionSummary": "“When my alarm is stopped”",
+        "locale": "en",
+        "name": "Alarm",
+        "outputResultName": null,
+        "triggerId": 54
+    },
+    {
+        "descriptionSummary": "“When I tap a Wallet Card or Pass”",
+        "locale": "en",
+        "name": "Wallet",
+        "outputResultName": null,
+        "triggerId": 55
+    },
+    {
+        "descriptionSummary": "“When turning on Work”",
+        "locale": "en",
+        "name": "Focus",
+        "outputResultName": null,
+        "triggerId": 56
+    },
+    {
+        "descriptionSummary": "“When turning on Work”",
+        "locale": "en",
+        "name": "Focus",
+        "outputResultName": null,
+        "triggerId": 57
+    },
+    {
+        "descriptionSummary": "“When turning on Work”",
+        "locale": "en",
+        "name": "Focus",
+        "outputResultName": null,
+        "triggerId": 58
+    }
+]
